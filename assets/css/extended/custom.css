@@ -1,7 +1,25 @@
+/* List Reset */
+.post-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.post-list li {
+    padding: 12px 0;
+    border-bottom: 1px solid var(--border);
+}
+
+.post-list li:last-child {
+    border-bottom: none;
+}
+
 /* Pill container */
 .entry-wrapper {
     display: flex;
     align-items: center;
+    justify-content: space-between;
+    /* Push meta to right */
     gap: 12px;
     flex-wrap: wrap;
 }
@@ -10,11 +28,13 @@
     font-weight: 500;
     text-decoration: none;
     color: var(--primary);
+    font-size: 1.1rem;
+    /* Slightly larger for hierarchy */
 }
 
 .entry-meta {
     display: inline-flex;
-    gap: 6px;
+    gap: 8px;
     align-items: center;
 }
 
@@ -22,15 +42,16 @@
 .domain-pill,
 .difficulty-pill {
     display: inline-block;
-    padding: 1px 8px;
+    padding: 2px 10px;
+    /* Slightly more padding */
     border-radius: 12px;
-    font-size: 0.7rem;
-    font-weight: 400;
+    font-size: 0.75rem;
+    /* Readable size */
+    font-weight: 500;
     text-decoration: none;
     color: var(--primary);
     background: var(--entry);
     border: 1px solid transparent;
-    /* Default transparent border */
     transition: all 0.2s ease;
     opacity: 0.9;
 }
