@@ -9,16 +9,18 @@
 <ul class="post-list">
   {{ range .Pages.ByTitle }}
   <li>
-    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-    <div class="entry-meta">
-      {{ with .Params.domains }}
-      {{ range . }}
-      <a href="/domains/{{ . | urlize }}" class="domain-pill domain-{{ . | urlize }}">{{ . }}</a>
-      {{ end }}
-      {{ end }}
-      {{ with .Params.difficulty }}
-      <a href="/difficulty/{{ . | urlize }}" class="difficulty-pill difficulty-{{ . | urlize }}">{{ . }}</a>
-      {{ end }}
+    <div class="entry-wrapper">
+      <a href="{{ .RelPermalink }}" class="entry-link">{{ .Title }}</a>
+      <span class="entry-meta">
+        {{ with .Params.domains }}
+        {{ range . }}
+        <a href="/domains/{{ . | urlize }}" class="domain-pill domain-{{ . | urlize }}">{{ . }}</a>
+        {{ end }}
+        {{ end }}
+        {{ with .Params.difficulty }}
+        <a href="/difficulty/{{ . | urlize }}" class="difficulty-pill difficulty-{{ . | urlize }}">{{ . }}</a>
+        {{ end }}
+      </span>
     </div>
   </li>
   {{ end }}

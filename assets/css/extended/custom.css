@@ -1,101 +1,109 @@
 /* Pill container */
-.entry-meta {
+.entry-wrapper {
     display: flex;
-    gap: 8px;
-    margin-top: 4px;
+    align-items: center;
+    gap: 12px;
     flex-wrap: wrap;
+}
+
+.entry-link {
+    font-weight: 500;
+    text-decoration: none;
+    color: var(--primary);
+}
+
+.entry-meta {
+    display: inline-flex;
+    gap: 6px;
+    align-items: center;
 }
 
 /* Base Pill Style */
 .domain-pill,
 .difficulty-pill {
     display: inline-block;
-    padding: 2px 8px;
+    padding: 1px 8px;
     border-radius: 12px;
-    font-size: 0.75rem;
-    font-weight: 500;
+    font-size: 0.7rem;
+    font-weight: 400;
     text-decoration: none;
     color: var(--primary);
     background: var(--entry);
-    border: 1px solid var(--border);
+    border: 1px solid transparent;
+    /* Default transparent border */
     transition: all 0.2s ease;
+    opacity: 0.9;
 }
 
 .domain-pill:hover,
 .difficulty-pill:hover {
     transform: translateY(-1px);
     filter: brightness(1.1);
+    opacity: 1;
 }
 
-/* --- Domain Colors --- */
+/* --- Domain Colors (Dampened) --- */
+/* Using lower opacity backgrounds and borders */
 
 /* Formal Sciences (Blues/Indigos) */
 .domain-mathematics,
 .domain-logic,
 .domain-information-theory {
-    border-color: #3b82f6;
-    /* Blue 500 */
-    color: #dbeafe;
-    background: rgba(59, 130, 246, 0.1);
+    border-color: rgba(59, 130, 246, 0.3);
+    color: #bfdbfe;
+    background: rgba(59, 130, 246, 0.08);
 }
 
 .domain-statistics,
 .domain-systems {
-    border-color: #6366f1;
-    /* Indigo 500 */
-    color: #e0e7ff;
-    background: rgba(99, 102, 241, 0.1);
+    border-color: rgba(99, 102, 241, 0.3);
+    color: #c7d2fe;
+    background: rgba(99, 102, 241, 0.08);
 }
 
 .domain-computer-science {
-    border-color: #0ea5e9;
-    /* Sky 500 */
-    color: #e0f2fe;
-    background: rgba(14, 165, 233, 0.1);
+    border-color: rgba(14, 165, 233, 0.3);
+    color: #bae6fd;
+    background: rgba(14, 165, 233, 0.08);
 }
 
 /* Natural Sciences (Greens/Teals) */
 .domain-physics,
 .domain-chemistry {
-    border-color: #10b981;
-    /* Emerald 500 */
-    color: #d1fae5;
-    background: rgba(16, 185, 129, 0.1);
+    border-color: rgba(16, 185, 129, 0.3);
+    color: #a7f3d0;
+    background: rgba(16, 185, 129, 0.08);
 }
 
 .domain-biology,
 .domain-medicine {
-    border-color: #14b8a6;
-    /* Teal 500 */
-    color: #ccfbf1;
-    background: rgba(20, 184, 166, 0.1);
+    border-color: rgba(20, 184, 166, 0.3);
+    color: #99f6e4;
+    background: rgba(20, 184, 166, 0.08);
 }
 
 /* Social Sciences (Warm/Earthy) */
 .domain-economics,
 .domain-finance {
-    border-color: #f59e0b;
-    /* Amber 500 */
-    color: #fef3c7;
-    background: rgba(245, 158, 11, 0.1);
+    border-color: rgba(245, 158, 11, 0.3);
+    color: #fde68a;
+    background: rgba(245, 158, 11, 0.08);
 }
 
 .domain-psychology,
 .domain-sociology,
 .domain-anthropology {
-    border-color: #f97316;
-    /* Orange 500 */
-    color: #ffedd5;
-    background: rgba(249, 115, 22, 0.1);
+    border-color: rgba(249, 115, 22, 0.3);
+    color: #fed7aa;
+    background: rgba(249, 115, 22, 0.08);
 }
 
 .domain-political-science,
 .domain-law,
 .domain-education {
-    border-color: #ef4444;
-    /* Red 500 */
-    color: #fee2e2;
-    background: rgba(239, 68, 68, 0.1);
+    border-color: rgba(239, 68, 68, 0.3);
+    color: #fecaca;
+    background: rgba(239, 68, 68, 0.08);
 }
 
 /* Humanities (Purples/Pinks) */
@@ -104,55 +112,48 @@
 .domain-metaphysics,
 .domain-epistemology,
 .domain-aesthetics {
-    border-color: #8b5cf6;
-    /* Violet 500 */
-    color: #ede9fe;
-    background: rgba(139, 92, 246, 0.1);
+    border-color: rgba(139, 92, 246, 0.3);
+    color: #ddd6fe;
+    background: rgba(139, 92, 246, 0.08);
 }
 
 .domain-history,
 .domain-linguistics,
 .domain-literature {
-    border-color: #d946ef;
-    /* Fuchsia 500 */
-    color: #fae8ff;
-    background: rgba(217, 70, 239, 0.1);
+    border-color: rgba(217, 70, 239, 0.3);
+    color: #e9d5ff;
+    background: rgba(217, 70, 239, 0.08);
 }
 
 .domain-theology,
 .domain-mythology {
-    border-color: #ec4899;
-    /* Pink 500 */
-    color: #fce7f3;
-    background: rgba(236, 72, 153, 0.1);
+    border-color: rgba(236, 72, 153, 0.3);
+    color: #fbcfe8;
+    background: rgba(236, 72, 153, 0.08);
 }
 
 /* Meta */
 .domain-meta {
-    border-color: #64748b;
-    /* Slate 500 */
-    color: #e2e8f0;
-    background: rgba(100, 116, 139, 0.1);
+    border-color: rgba(100, 116, 139, 0.3);
+    color: #cbd5e1;
+    background: rgba(100, 116, 139, 0.08);
 }
 
 /* --- Difficulty Colors --- */
 .difficulty-beginner {
-    border-color: #10b981;
-    /* Green */
-    color: #d1fae5;
-    background: rgba(16, 185, 129, 0.1);
+    border-color: rgba(16, 185, 129, 0.3);
+    color: #a7f3d0;
+    background: rgba(16, 185, 129, 0.08);
 }
 
 .difficulty-intermediate {
-    border-color: #f59e0b;
-    /* Amber */
-    color: #fef3c7;
-    background: rgba(245, 158, 11, 0.1);
+    border-color: rgba(245, 158, 11, 0.3);
+    color: #fde68a;
+    background: rgba(245, 158, 11, 0.08);
 }
 
 .difficulty-advanced {
-    border-color: #ef4444;
-    /* Red */
-    color: #fee2e2;
-    background: rgba(239, 68, 68, 0.1);
+    border-color: rgba(239, 68, 68, 0.3);
+    color: #fecaca;
+    background: rgba(239, 68, 68, 0.08);
 }
