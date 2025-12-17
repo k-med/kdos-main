@@ -11,6 +11,21 @@ OUTPUT RULES (STRICT):
 - Use internal links where reasonable in Hugo format: [Some Topic](/knowledge/<domain>/<slug>/) only if you are confident about the slug; otherwise mention it without linking.
 - Do not include any copyrighted text or long quotations.
 
+DOMAIN SELECTION RULES:
+- Assign 1–3 domains maximum.
+- Domains must come from KDOS Domain Taxonomy v1.0.
+- Choose the discipline that would formally teach this topic.
+- Do NOT invent new domains.
+
+TAGGING RULES:
+- Assign 5–12 tags.
+- Use lowercase kebab-case.
+- Prefer specific, timeless concepts.
+- Do not repeat domains as tags.
+- Do not invent meta-structure in tag names.
+- Tags should represent concepts, methods, objects, schools, or applications.
+
+
 FRONT MATTER TEMPLATE (fill in values):
 ---
 title: "<TITLE>"
@@ -21,6 +36,8 @@ date_created: "<YYYY-MM-DD>"
 last_updated: "<YYYY-MM-DD>"
 domains:
   - "<domain-1>"
+  - "<domain-2>" # optional
+  - "<domain-3>" # optional
 tags:
   - "<tag-1>"
 difficulty: "<beginner|intermediate|advanced>"
@@ -57,3 +74,13 @@ TAGS (5–12):
 
 DATE (use today):
 2025-12-17
+
+
+FINAL SELF-CHECK (DO NOT OUTPUT RESULTS):
+- Does the front matter match the schema exactly?
+- Are there 1–3 valid domains?
+- Are there 5–12 valid kebab-case tags?
+- Are all required sections present, ordered, and non-empty?
+- Does the summary describe the topic plainly and concretely?
+- Is the tone encyclopedic and neutral?
+If any answer is "no", revise internally before outputting.
