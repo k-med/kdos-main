@@ -38,9 +38,6 @@ buildExpired = false
   # Treat knowledge as primary content
   mainSections = ["knowledge"]
 
-  [params.homeInfoParams]
-    Title = "KDOS"
-    Content = "A Knowledge Domain Operating System...\n\nA curated library of ideas."
 
   [params.fuseOpts]
     isCaseSensitive = false
@@ -51,11 +48,6 @@ buildExpired = false
 [params.profileMode]
   enabled = false
 
-[[menu.main]]
-  identifier = "knowledge"
-  name = "Knowledge"
-  url = "/knowledge/"
-  weight = 10
 
 
 [[menu.main]]
