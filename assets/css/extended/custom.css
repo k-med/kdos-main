@@ -178,3 +178,25 @@
     color: #fecaca;
     background: rgba(239, 68, 68, 0.08);
 }
+
+/* Hero Image */
+.hero-image-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+.hero-image {
+    max-width: 100%;
+    width: 400px;
+    /* Reasonable default width */
+    height: auto;
+    border-radius: 16px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    border: 1px solid var(--border);
+    transition: transform 0.3s ease;
+}
+
+.hero-image:hover {
+    transform: scale(1.02);
+}
