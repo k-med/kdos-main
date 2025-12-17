@@ -1,0 +1,89 @@
+[[topics]]
+topic = "Mean vs Median"
+difficulty = "beginner"
+domains = ["Statistics", "Data Science"]
+tags = ["central-tendency", "descriptive-statistics", "averages", "data-analysis"]
+
+[[topics]]
+topic = "Standard Deviation"
+difficulty = "beginner"
+domains = ["Statistics", "Data Science"]
+tags = ["dispersion", "variability", "descriptive-statistics", "spread"]
+
+[[topics]]
+topic = "Variance"
+difficulty = "beginner"
+domains = ["Statistics", "Mathematics"]
+tags = ["dispersion", "variability", "squared-deviation", "descriptive-statistics"]
+
+[[topics]]
+topic = "Central Limit Theorem"
+difficulty = "intermediate"
+domains = ["Statistics", "Probability Theory"]
+tags = ["sampling-distribution", "normal-distribution", "statistical-inference", "large-numbers"]
+
+[[topics]]
+topic = "Hypothesis Testing"
+difficulty = "intermediate"
+domains = ["Statistics", "Scientific Method"]
+tags = ["statistical-inference", "null-hypothesis", "significance-testing", "decision-making"]
+
+[[topics]]
+topic = "P-value"
+difficulty = "intermediate"
+domains = ["Statistics", "Data Science"]
+tags = ["statistical-significance", "hypothesis-testing", "probability", "inference"]
+
+[[topics]]
+topic = "Type I and Type II Errors"
+difficulty = "intermediate"
+domains = ["Statistics", "Scientific Method"]
+tags = ["hypothesis-testing", "false-positive", "false-negative", "error-analysis"]
+
+[[topics]]
+topic = "Confidence Intervals"
+difficulty = "intermediate"
+domains = ["Statistics", "Data Science"]
+tags = ["estimation", "statistical-inference", "uncertainty", "interval-estimation"]
+
+[[topics]]
+topic = "Correlation vs Causation"
+difficulty = "beginner"
+domains = ["Statistics", "Logic"]
+tags = ["causality", "relationship", "fallacies", "data-interpretation"]
+
+[[topics]]
+topic = "Bayes' Theorem"
+difficulty = "advanced"
+domains = ["Statistics", "Probability Theory"]
+tags = ["conditional-probability", "bayesian-inference", "priors", "posteriors"]
+
+[[topics]]
+topic = "Normal Distribution"
+difficulty = "beginner"
+domains = ["Statistics", "Probability Theory"]
+tags = ["gaussian-distribution", "bell-curve", "probability-distributions", "continuous-variables"]
+
+[[topics]]
+topic = "Z-score"
+difficulty = "beginner"
+domains = ["Statistics", "Data Science"]
+tags = ["standardization", "normal-distribution", "standard-score", "data-normalization"]
+
+[[topics]]
+topic = "Student's t-test"
+difficulty = "intermediate"
+domains = ["Statistics", "Data Science"]
+tags = ["hypothesis-testing", "comparing-means", "small-samples", "t-distribution"]
+
+[[topics]]
+topic = "Linear Regression"
+difficulty = "intermediate"
+domains = ["Statistics", "Machine Learning"]
+tags = ["predictive-modeling", "relationship", "dependent-variable", "independent-variable"]
+
+[[topics]]
+topic = "Sampling Bias"
+difficulty = "beginner"
+domains = ["Statistics", "Research Methods"]
+tags = ["selection-bias", "data-collection", "survey-methodology", "representative-sample"]
