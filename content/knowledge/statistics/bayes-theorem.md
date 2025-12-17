@@ -31,7 +31,8 @@ Your new belief (Posterior) depends on two things:
 2. How likely you thought the belief was true before seeing the evidence (Prior).
 
 ## Formal Definition (if applicable)
-$P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}$
+$$ P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)} $$
+
 Where:
 - $P(A|B)$ is the probability of hypothesis A given data B (Posterior).
 - $P(B|A)$ is the probability of data B given hypothesis A (Likelihood).

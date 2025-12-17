@@ -32,7 +32,7 @@ It is symmetric: 50% of values are above the mean, 50% below.
 
 ## Formal Definition (if applicable)
 A continuous probability distribution characterized by the probability density function:
-$f(x) = \frac{1}{\sigma\sqrt{2\pi}} e^{-\frac{1}{2}(\frac{x-\mu}{\sigma})^2}$
+$$ f(x) = \frac{1}{\sigma\sqrt{2\pi}} e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2} $$
 
 ## Intuition
 In nature, extreme values are rare, and average values are common. Most men are average height; very few are 7 feet tall or 4 feet tall. This clustering around the average creates the bell shape.

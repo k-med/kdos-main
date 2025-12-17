@@ -31,7 +31,8 @@ It answers: "How weird is this value?"
 - **Z = -2**: Two standard deviations below average.
 
 ## Formal Definition (if applicable)
-$Z = \frac{x - \mu}{\sigma}$
+$$ Z = \frac{x - \mu}{\sigma} $$
+
 Where $x$ is the raw score, $\mu$ is the population mean, and $\sigma$ is the population standard deviation.
 
 ## Intuition

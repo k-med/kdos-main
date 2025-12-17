@@ -30,6 +30,8 @@ Instead of saying "The average height is 175cm," we say "We are 95% confident th
 ## Formal Definition (if applicable)
 A $100(1-\alpha)\%$ confidence interval is an interval computed from sample data such that, if the sampling were repeated many times, $100(1-\alpha)\%$ of the generated intervals would contain the true population parameter.
 
+$$ P(L \leq \theta \leq U) = 1 - \alpha $$
+
 ## Intuition
 Imagine throwing a ring at a stick in the ground (the true parameter). You can't see the stick perfectly. A confidence interval is the size of the ring. A wider ring (higher confidence) is more likely to catch the stick, but gives you less precision about where the stick is.
 

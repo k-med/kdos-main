@@ -30,6 +30,8 @@ If you take sufficiently large random samples from a population with *any* shape
 ## Formal Definition (if applicable)
 Let $X_1, X_2, ..., X_n$ be a random sample of size $n$ from a population with mean $\mu$ and finite variance $\sigma^2$. As $n \to \infty$, the distribution of the sample mean $\bar{X}$ approaches a normal distribution with mean $\mu$ and variance $\frac{\sigma^2}{n}$.
 
+$$ \bar{X} \xrightarrow{d} N\left(\mu, \frac{\sigma^2}{n}\right) $$
+
 ## Intuition
 Imagine rolling a single die. The distribution is flat (uniform)—every number 1-6 is equally likely. But if you roll 10 dice and average them, getting a 1 or a 6 average is extremely rare. Most averages will cluster around 3.5. The more dice you roll, the more "bell-shaped" the distribution of averages becomes.
 

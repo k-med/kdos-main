@@ -28,7 +28,8 @@ The t-test is one of the most common statistical tests. It was developed by Will
 It compares the difference between two means relative to the variance in the data. If the difference between groups is large compared to the spread within groups, the result is significant.
 
 ## Formal Definition (if applicable)
-$t = \frac{\bar{x}_1 - \bar{x}_2}{\sqrt{\frac{s_1^2}{n_1} + \frac{s_2^2}{n_2}}}$
+$$ t = \frac{\bar{x}_1 - \bar{x}_2}{\sqrt{\frac{s_1^2}{n_1} + \frac{s_2^2}{n_2}}} $$
+
 (For independent samples with unequal variances). The resulting t-statistic is compared to a t-distribution with degrees of freedom based on sample size.
 
 ## Intuition

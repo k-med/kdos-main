@@ -18,9 +18,11 @@ DOMAIN SELECTION RULES:
 - Do NOT invent new domains.
 
 MATH RENDERING RULES (STRICT):
-- Do NOT use LaTeX or MathJax syntax (\( \), \[ \], $$).
-- Express formulas using plain text, Unicode symbols, or inline code blocks.
-- Prefer readable textual definitions over symbolic notation when possible.
+- Use LaTeX syntax for all formulas.
+- Use `$$ ... $$` for block equations (centered).
+- Use `$ ... $` for inline equations.
+- Do NOT use `\( ... \)` or `\[ ... \]`.
+- Example: `$$ E = mc^2 $$`
 
 
 TAGGING RULES:

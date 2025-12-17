@@ -29,8 +29,9 @@ The core idea is to assume nothing interesting is happening (the Null Hypothesis
 
 ## Formal Definition (if applicable)
 A statistical test that uses sample data to decide between two competing hypotheses:
-- $H_0$ (Null Hypothesis): The status quo (no effect, no difference).
-- $H_1$ or $H_a$ (Alternative Hypothesis): The claim being tested (there is an effect).
+
+$$ H_0: \text{Null Hypothesis (Status Quo)} $$
+$$ H_1: \text{Alternative Hypothesis (Claim)} $$
 
 ## Intuition
 If you flip a coin 100 times and get 52 heads, you wouldn't suspect it's rigged. If you get 95 heads, you would. Hypothesis testing quantifies exactly where the line is between "plausible luck" and "suspiciously biased."

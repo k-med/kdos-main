@@ -28,7 +28,9 @@ Linear regression is the "Hello World" of machine learning and the workhorse of 
 Find the line $y = mx + b$ that minimizes the distance (error) between the line and the actual data points. This allows you to predict $y$ for a new $x$.
 
 ## Formal Definition (if applicable)
-Simple Linear Regression: $y = \beta_0 + \beta_1 x + \epsilon$
+Simple Linear Regression:
+$$ y = \beta_0 + \beta_1 x + \epsilon $$
+
 - $y$: Dependent variable (Target)
 - $x$: Independent variable (Feature)
 - $\beta_0$: Intercept

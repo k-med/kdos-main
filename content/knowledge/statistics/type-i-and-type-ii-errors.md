@@ -30,7 +30,10 @@ In any binary decision process based on probability, there is a risk of being wr
 
 ## Formal Definition (if applicable)
 - **Type I Error ($\alpha$)**: Rejecting $H_0$ when $H_0$ is actually true.
+$$ \alpha = P(\text{Reject } H_0 | H_0 \text{ is true}) $$
+
 - **Type II Error ($\beta$)**: Failing to reject $H_0$ when $H_0$ is actually false.
+$$ \beta = P(\text{Fail to reject } H_0 | H_0 \text{ is false}) $$
 
 ## Intuition
 Think of a courtroom trial:

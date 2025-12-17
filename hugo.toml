@@ -30,6 +30,7 @@ buildExpired = false
   disableScrollToTop = false
   hideSummary = false
   hideMeta = false
+  math = true
 
   defaultTheme = "auto"
   disableThemeToggle = false

@@ -29,8 +29,12 @@ The core idea of variance is to quantify the "spread" of data. By squaring the d
 
 ## Formal Definition (if applicable)
 Variance ($\sigma^2$) is defined as the average of the squared differences from the Mean.
-For a population: $\sigma^2 = \frac{\sum (x_i - \mu)^2}{N}$
-For a sample: $s^2 = \frac{\sum (x_i - \bar{x})^2}{n-1}$
+
+For a population:
+$$ \sigma^2 = \frac{\sum (x_i - \mu)^2}{N} $$
+
+For a sample:
+$$ s^2 = \frac{\sum (x_i - \bar{x})^2}{n-1} $$
 
 ## Intuition
 Imagine measuring the height of dogs. If you have a pack of Beagles, the variance in height is low because they are all roughly the same size. If you have a mixed pack with Chihuahuas and Great Danes, the variance is high because individual heights differ greatly from the average.

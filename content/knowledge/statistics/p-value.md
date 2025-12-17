@@ -28,7 +28,8 @@ The p-value is one of the most widely used—and misunderstood—concepts in sta
 The p-value answers the question: "If the world were boring (null hypothesis is true), how surprising is my data?" A small p-value means the data is very surprising, suggesting the world might not be boring after all.
 
 ## Formal Definition (if applicable)
-$p = P(Data \geq Observed | H_0)$
+$$ p = P(\text{Data} \geq \text{Observed} | H_0) $$
+
 The probability of obtaining test results at least as extreme as the results actually observed, under the assumption that the null hypothesis is correct.
 
 ## Intuition

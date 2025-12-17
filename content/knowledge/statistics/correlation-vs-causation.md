@@ -34,6 +34,8 @@ Statistics alone can detect correlation; it cannot prove causation without exper
 
 ## Formal Definition (if applicable)
 - **Correlation**: A statistical measure (like Pearson's $r$) that describes the size and direction of a relationship between two or more variables.
+$$ r = \frac{\sum(x_i - \bar{x})(y_i - \bar{y})}{\sqrt{\sum(x_i - \bar{x})^2 \sum(y_i - \bar{y})^2}} $$
+
 - **Causation**: Indicates that one event is the result of the occurrence of the other event.
 
 ## Intuition
