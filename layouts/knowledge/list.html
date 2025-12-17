@@ -10,7 +10,7 @@
   {{ range .Pages.ByTitle }}
   <li>
     <div class="entry-wrapper">
-      <a href="{{ .RelPermalink }}" class="entry-link">{{ .Title }}</a>
+      <a href="{{ .RelPermalink }}" class="kdos-entry-link">{{ .Title }}</a>
       <span class="entry-meta">
         {{ with .Params.domains }}
         {{ range . }}
