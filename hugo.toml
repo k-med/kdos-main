@@ -1,0 +1,59 @@
+baseURL = "https://kdos.xyz/"
+languageCode = "en-us"
+title = "KDOS"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[minify]
+  disableXML = true
+  minifyOutput = true
+
+[params]
+  env = "production"
+  title = "KDOS"
+  description = "Knowledge, Documentation, Ontology System"
+  keywords = ["knowledge", "documentation", "ontology", "reference"]
+  author = "Kade Medley"
+
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+
+  defaultTheme = "auto"
+  disableThemeToggle = false
+
+  DateFormat = "2006-01-02"
+
+[params.profileMode]
+  enabled = true
+  title = "KDOS"
+  subtitle = "A compounding knowledge archive"
+  imageUrl = ""
+  imageTitle = ""
+  imageWidth = 120
+  imageHeight = 120
+
+[[menu.main]]
+  name = "Archive"
+  url = "/archives/"
+  weight = 10
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 20
+
+[[menu.main]]
+  name = "Search"
+  url = "/search/"
+  weight = 30
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
