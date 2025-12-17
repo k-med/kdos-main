@@ -20,6 +20,22 @@ buildExpired = false
   author = "Kade"
 
   ShowReadingTime = true
+  ShowWordCount = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowToc = true
+  TocOpen = true
+  ShowCodeCopyButtons = true
+  disableScrollToTop = false
+  hideSummary = false
+  hideMeta = false
+
+    [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    threshold = 0.4
+
+  ShowReadingTime = true
   ShowShareButtons = false
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
@@ -31,6 +47,8 @@ buildExpired = false
 
   DateFormat = "2006-01-02"
 
+  mainSections = [ "knowledge" ]
+
 [params.profileMode]
   enabled = true
   title = "KDOS"
@@ -39,6 +57,12 @@ buildExpired = false
   imageTitle = ""
   imageWidth = 120
   imageHeight = 120
+
+[[menu.main]]
+  identifier = "knowledge"
+  name = "Knowledge"
+  url = "/knowledge/"
+  weight = 10
 
 [[menu.main]]
   name = "Archive"
@@ -56,4 +80,10 @@ buildExpired = false
   weight = 30
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  section = [ "HTML", "RSS" ]
+
+[taxonomies]
+tag = "tags"
+domain = "domains"
+difficulty = "difficulty"
+status = "status"
