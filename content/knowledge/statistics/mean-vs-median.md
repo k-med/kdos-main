@@ -31,14 +31,15 @@ Mean and median are two foundational statistics used to describe the center of a
 The mean averages all values and is sensitive to extreme observations, whereas the median identifies the middle value and is robust to outliers. Choosing between them depends on the data’s distribution and the analytical goal.
 
 ## Formal Definition (if applicable)
-For a dataset \(x_1, x_2, \dots, x_n\):
+For a dataset x₁, x₂, …, xₙ:
 
-- **Mean (arithmetic mean)**:  
-  \[
-  \bar{x} = \frac{1}{n}\sum_{i=1}^{n} x_i
-  \]
-- **Median**:  
-  The middle value after sorting the data; if \(n\) is even, it is the average of the two central values.
+- **Mean (arithmetic mean):**  
+  The sum of all values divided by the number of values:  
+  `x̄ = (1 / n) × Σ xᵢ`
+
+- **Median:**  
+  The middle value after sorting the data; if *n* is even, it is the average of the two central values.
+
 
 ## Intuition
 The mean asks, “What value would make the total balance out evenly?”  
