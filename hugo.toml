@@ -19,6 +19,7 @@ buildExpired = false
   keywords = ["knowledge", "documentation", "ontology", "reference"]
   author = "Kade"
 
+  # Knowledge-first UX
   ShowReadingTime = true
   ShowWordCount = true
   ShowPostNavLinks = true
@@ -30,33 +31,21 @@ buildExpired = false
   hideSummary = false
   hideMeta = false
 
-    [params.fuseOpts]
+  defaultTheme = "auto"
+  disableThemeToggle = false
+  DateFormat = "2006-01-02"
+
+  # Treat knowledge as primary content
+  mainSections = ["knowledge"]
+
+  [params.fuseOpts]
     isCaseSensitive = false
     shouldSort = true
     threshold = 0.4
 
-  ShowReadingTime = true
-  ShowShareButtons = false
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
-  ShowWordCount = true
-
-  defaultTheme = "auto"
-  disableThemeToggle = false
-
-  DateFormat = "2006-01-02"
-
-  mainSections = [ "knowledge" ]
-
+# Disable profile landing — KDOS is not a personal homepage
 [params.profileMode]
-  enabled = true
-  title = "KDOS"
-  subtitle = "A compounding knowledge archive"
-  imageUrl = ""
-  imageTitle = ""
-  imageWidth = 120
-  imageHeight = 120
+  enabled = false
 
 [[menu.main]]
   identifier = "knowledge"
@@ -67,23 +56,23 @@ buildExpired = false
 [[menu.main]]
   name = "Archive"
   url = "/archives/"
-  weight = 10
+  weight = 20
 
 [[menu.main]]
   name = "Tags"
   url = "/tags/"
-  weight = 20
+  weight = 30
 
 [[menu.main]]
   name = "Search"
   url = "/search/"
-  weight = 30
+  weight = 40
 
 [outputs]
-  section = [ "HTML", "RSS" ]
+  section = ["HTML", "RSS"]
 
 [taxonomies]
-tag = "tags"
-domain = "domains"
-difficulty = "difficulty"
-status = "status"
+  tag = "tags"
+  domain = "domains"
+  difficulty = "difficulty"
+  status = "status"
