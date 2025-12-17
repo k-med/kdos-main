@@ -1,0 +1,158 @@
+/* Pill container */
+.entry-meta {
+    display: flex;
+    gap: 8px;
+    margin-top: 4px;
+    flex-wrap: wrap;
+}
+
+/* Base Pill Style */
+.domain-pill,
+.difficulty-pill {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    text-decoration: none;
+    color: var(--primary);
+    background: var(--entry);
+    border: 1px solid var(--border);
+    transition: all 0.2s ease;
+}
+
+.domain-pill:hover,
+.difficulty-pill:hover {
+    transform: translateY(-1px);
+    filter: brightness(1.1);
+}
+
+/* --- Domain Colors --- */
+
+/* Formal Sciences (Blues/Indigos) */
+.domain-mathematics,
+.domain-logic,
+.domain-information-theory {
+    border-color: #3b82f6;
+    /* Blue 500 */
+    color: #dbeafe;
+    background: rgba(59, 130, 246, 0.1);
+}
+
+.domain-statistics,
+.domain-systems {
+    border-color: #6366f1;
+    /* Indigo 500 */
+    color: #e0e7ff;
+    background: rgba(99, 102, 241, 0.1);
+}
+
+.domain-computer-science {
+    border-color: #0ea5e9;
+    /* Sky 500 */
+    color: #e0f2fe;
+    background: rgba(14, 165, 233, 0.1);
+}
+
+/* Natural Sciences (Greens/Teals) */
+.domain-physics,
+.domain-chemistry {
+    border-color: #10b981;
+    /* Emerald 500 */
+    color: #d1fae5;
+    background: rgba(16, 185, 129, 0.1);
+}
+
+.domain-biology,
+.domain-medicine {
+    border-color: #14b8a6;
+    /* Teal 500 */
+    color: #ccfbf1;
+    background: rgba(20, 184, 166, 0.1);
+}
+
+/* Social Sciences (Warm/Earthy) */
+.domain-economics,
+.domain-finance {
+    border-color: #f59e0b;
+    /* Amber 500 */
+    color: #fef3c7;
+    background: rgba(245, 158, 11, 0.1);
+}
+
+.domain-psychology,
+.domain-sociology,
+.domain-anthropology {
+    border-color: #f97316;
+    /* Orange 500 */
+    color: #ffedd5;
+    background: rgba(249, 115, 22, 0.1);
+}
+
+.domain-political-science,
+.domain-law,
+.domain-education {
+    border-color: #ef4444;
+    /* Red 500 */
+    color: #fee2e2;
+    background: rgba(239, 68, 68, 0.1);
+}
+
+/* Humanities (Purples/Pinks) */
+.domain-philosophy,
+.domain-ethics,
+.domain-metaphysics,
+.domain-epistemology,
+.domain-aesthetics {
+    border-color: #8b5cf6;
+    /* Violet 500 */
+    color: #ede9fe;
+    background: rgba(139, 92, 246, 0.1);
+}
+
+.domain-history,
+.domain-linguistics,
+.domain-literature {
+    border-color: #d946ef;
+    /* Fuchsia 500 */
+    color: #fae8ff;
+    background: rgba(217, 70, 239, 0.1);
+}
+
+.domain-theology,
+.domain-mythology {
+    border-color: #ec4899;
+    /* Pink 500 */
+    color: #fce7f3;
+    background: rgba(236, 72, 153, 0.1);
+}
+
+/* Meta */
+.domain-meta {
+    border-color: #64748b;
+    /* Slate 500 */
+    color: #e2e8f0;
+    background: rgba(100, 116, 139, 0.1);
+}
+
+/* --- Difficulty Colors --- */
+.difficulty-beginner {
+    border-color: #10b981;
+    /* Green */
+    color: #d1fae5;
+    background: rgba(16, 185, 129, 0.1);
+}
+
+.difficulty-intermediate {
+    border-color: #f59e0b;
+    /* Amber */
+    color: #fef3c7;
+    background: rgba(245, 158, 11, 0.1);
+}
+
+.difficulty-advanced {
+    border-color: #ef4444;
+    /* Red */
+    color: #fee2e2;
+    background: rgba(239, 68, 68, 0.1);
+}

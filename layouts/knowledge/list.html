@@ -10,14 +10,16 @@
   {{ range .Pages.ByTitle }}
   <li>
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-    <small>
+    <div class="entry-meta">
       {{ with .Params.domains }}
-      — {{ delimit . ", " }}
+      {{ range . }}
+      <a href="/domains/{{ . | urlize }}" class="domain-pill domain-{{ . | urlize }}">{{ . }}</a>
+      {{ end }}
       {{ end }}
       {{ with .Params.difficulty }}
-      · {{ . }}
+      <a href="/difficulty/{{ . | urlize }}" class="difficulty-pill difficulty-{{ . | urlize }}">{{ . }}</a>
       {{ end }}
-    </small>
+    </div>
   </li>
   {{ end }}
 </ul>
