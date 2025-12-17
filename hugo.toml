@@ -51,6 +51,11 @@ buildExpired = false
 
 
 [[menu.main]]
+  name = "Domains"
+  url = "/domains/"
+  weight = 20
+
+[[menu.main]]
   name = "Tags"
   url = "/tags/"
   weight = 30

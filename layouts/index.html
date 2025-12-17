@@ -1,5 +1,5 @@
 {{ define "main" }}
-<header class="page-header">
+<header class="page-header" style="text-align: center;">
     <div class="hero-image-container">
         <img src="/images/mandelbrot_set.jpg" alt="Mandelbrot Set" class="hero-image">
     </div>
@@ -14,6 +14,8 @@
         </span>
     </div>
 </header>
+
+<h2 style="margin-top: 3rem; margin-bottom: 1rem;">All Knowledge</h2>
 
 <ul class="post-list">
     {{ range (where .Site.RegularPages "Section" "knowledge").ByTitle }}
