@@ -17,6 +17,12 @@ DOMAIN SELECTION RULES:
 - Choose the discipline that would formally teach this topic.
 - Do NOT invent new domains.
 
+MATH RENDERING RULES (STRICT):
+- Do NOT use LaTeX or MathJax syntax (\( \), \[ \], $$).
+- Express formulas using plain text, Unicode symbols, or inline code blocks.
+- Prefer readable textual definitions over symbolic notation when possible.
+
+
 TAGGING RULES:
 - Assign 5–12 tags.
 - Use lowercase kebab-case.
