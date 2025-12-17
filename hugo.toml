@@ -40,7 +40,7 @@ buildExpired = false
 
   [params.homeInfoParams]
     Title = "KDOS"
-    Content = "A Knowledge Domain Operating System.\n\nA digital garden for structured learning."
+    Content = "A Knowledge Domain Operating System...\n\nA curated library of ideas."
 
   [params.fuseOpts]
     isCaseSensitive = false

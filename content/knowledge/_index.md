@@ -2,6 +2,6 @@
 title: "Knowledge"
 layout: "knowledge-home"
 summary: >
-  Archive of entries
+  A structured index of concepts across all domains.
 
 ---
