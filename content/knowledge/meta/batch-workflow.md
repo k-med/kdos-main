@@ -1,3 +1,23 @@
+---
+title: "Batch Generation Workflow"
+slug: "batch-workflow"
+type: "knowledge"
+status: "stable"
+date_created: 2025-12-17
+last_updated: 2025-12-17
+domains:
+  - "meta"
+tags:
+  - "workflow"
+  - "generation"
+  - "automation"
+difficulty: "intermediate"
+reading_time: 10
+summary: "The canonical workflow for batch-generating KDOS content."
+ai_generated: false
+ai_prompt_version: "kdos-md-v1.0"
+---
+
 Below is **KDOS Batch Generation Workflow v1.0** — designed to be:
 
 * Safe (no repo pollution)

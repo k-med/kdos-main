@@ -1,3 +1,23 @@
+---
+title: "Domain Taxonomy"
+slug: "domain-taxonomy"
+type: "knowledge"
+status: "stable"
+date_created: 2025-12-17
+last_updated: 2025-12-17
+domains:
+  - "meta"
+tags:
+  - "taxonomy"
+  - "domains"
+  - "ontology"
+difficulty: "beginner"
+reading_time: 15
+summary: "The official list of KDOS domains and their definitions."
+ai_generated: false
+ai_prompt_version: "kdos-md-v1.0"
+---
+
 # KDOS Domain Taxonomy v1.0
 
 ## Core principles (read once)

@@ -1,3 +1,23 @@
+---
+title: "Output Validation & Lint Rules"
+slug: "output-validation-and-lint-rules"
+type: "knowledge"
+status: "stable"
+date_created: 2025-12-17
+last_updated: 2025-12-17
+domains:
+  - "meta"
+tags:
+  - "validation"
+  - "linting"
+  - "quality-control"
+difficulty: "intermediate"
+reading_time: 10
+summary: "Rules for validating AI-generated KDOS content."
+ai_generated: false
+ai_prompt_version: "kdos-md-v1.0"
+---
+
 Excellent. We’ll now **close the loop** and make KDOS *self-defending*.
 
 What follows is **KDOS AI Output Validation + Lint Rules v1.0** — this is what prevents entropy when you scale to thousands (or tens of thousands) of pages.

@@ -1,3 +1,23 @@
+---
+title: "Tagging Rules"
+slug: "tagging-rules"
+type: "knowledge"
+status: "stable"
+date_created: 2025-12-17
+last_updated: 2025-12-17
+domains:
+  - "meta"
+tags:
+  - "tagging"
+  - "ontology"
+  - "rules"
+difficulty: "intermediate"
+reading_time: 10
+summary: "Rules and ontology for tagging KDOS entries."
+ai_generated: false
+ai_prompt_version: "kdos-md-v1.0"
+---
+
 Excellent. This is the **precision layer** of KDOS.
 If domains are the *skeleton*, **tags are the nervous system**.
 
