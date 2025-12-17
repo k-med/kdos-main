@@ -1,0 +1,59 @@
+[[topics]]
+topic = "Democracy"
+difficulty = "beginner"
+domains = ["Political Science"]
+tags = ["voting", "representation", "elections", "participation", "liberal-democracy", "direct-democracy"]
+
+[[topics]]
+topic = "International Relations"
+difficulty = "intermediate"
+domains = ["Political Science"]
+tags = ["realism", "liberalism", "diplomacy", "war", "peace", "globalization"]
+
+[[topics]]
+topic = "Political Ideologies"
+difficulty = "beginner"
+domains = ["Political Science", "Philosophy"]
+tags = ["liberalism", "conservatism", "socialism", "fascism", "anarchism", "nationalism"]
+
+[[topics]]
+topic = "Comparative Politics"
+difficulty = "intermediate"
+domains = ["Political Science"]
+tags = ["regimes", "institutions", "political-parties", "electoral-systems", "state-building", "development"]
+
+[[topics]]
+topic = "Public Policy"
+difficulty = "intermediate"
+domains = ["Political Science", "Economics"]
+tags = ["policy-making", "implementation", "evaluation", "agenda-setting", "bureaucracy", "regulation"]
+
+[[topics]]
+topic = "Political Theory"
+difficulty = "advanced"
+domains = ["Political Science", "Philosophy"]
+tags = ["justice", "power", "authority", "liberty", "equality", "rights"]
+
+[[topics]]
+topic = "Geopolitics"
+difficulty = "intermediate"
+domains = ["Political Science", "History"]
+tags = ["territory", "resources", "strategy", "borders", "power-projection", "alliances"]
+
+[[topics]]
+topic = "Political Economy"
+difficulty = "advanced"
+domains = ["Political Science", "Economics"]
+tags = ["capitalism", "welfare-state", "inequality", "development", "markets", "institutions"]
+
+[[topics]]
+topic = "Public Administration"
+difficulty = "intermediate"
+domains = ["Political Science"]
+tags = ["management", "civil-service", "governance", "accountability", "ethics", "efficiency"]
+
+[[topics]]
+topic = "Human Rights"
+difficulty = "intermediate"
+domains = ["Political Science", "Law"]
+tags = ["universal-declaration", "civil-rights", "political-rights", "social-rights", "enforcement", "violations"]

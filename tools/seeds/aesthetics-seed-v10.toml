@@ -1,0 +1,59 @@
+[[topics]]
+topic = "Beauty"
+difficulty = "beginner"
+domains = ["Aesthetics", "Philosophy"]
+tags = ["subjectivity", "objectivity", "form", "harmony", "proportion", "taste"]
+
+[[topics]]
+topic = "Art"
+difficulty = "beginner"
+domains = ["Aesthetics", "Philosophy"]
+tags = ["definition-of-art", "representation", "expression", "institutional-theory", "avant-garde", "creativity"]
+
+[[topics]]
+topic = "The Sublime"
+difficulty = "intermediate"
+domains = ["Aesthetics", "Philosophy"]
+tags = ["awe", "terror", "nature", "burke", "kant", "transcendence"]
+
+[[topics]]
+topic = "Taste"
+difficulty = "intermediate"
+domains = ["Aesthetics", "Sociology"]
+tags = ["judgment", "critique", "hume", "culture", "snobbery", "preferences"]
+
+[[topics]]
+topic = "Mimesis"
+difficulty = "intermediate"
+domains = ["Aesthetics", "Literature"]
+tags = ["imitation", "realism", "representation", "plato", "aristotle", "fiction"]
+
+[[topics]]
+topic = "Aesthetic Experience"
+difficulty = "intermediate"
+domains = ["Aesthetics", "Psychology"]
+tags = ["disinterestedness", "pleasure", "contemplation", "emotion", "perception", "flow"]
+
+[[topics]]
+topic = "Philosophy of Music"
+difficulty = "intermediate"
+domains = ["Aesthetics", "Philosophy"]
+tags = ["expression", "formalism", "ontology-of-music", "emotion", "listening", "performance"]
+
+[[topics]]
+topic = "Narrative"
+difficulty = "beginner"
+domains = ["Aesthetics", "Literature"]
+tags = ["storytelling", "plot", "character", "fiction", "interpretation", "structure"]
+
+[[topics]]
+topic = "Tragedy"
+difficulty = "intermediate"
+domains = ["Aesthetics", "Literature"]
+tags = ["catharsis", "aristotle", "drama", "fate", "suffering", "hero"]
+
+[[topics]]
+topic = "Environmental Aesthetics"
+difficulty = "intermediate"
+domains = ["Aesthetics", "Philosophy"]
+tags = ["nature", "landscapes", "urban-design", "architecture", "appreciation", "conservation"]

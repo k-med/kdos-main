@@ -1,0 +1,59 @@
+[[topics]]
+topic = "Epistemology"
+difficulty = "intermediate"
+domains = ["Philosophy"]
+tags = ["knowledge", "justification", "belief", "skepticism", "truth", "empiricism", "rationalism"]
+
+[[topics]]
+topic = "Metaphysics"
+difficulty = "advanced"
+domains = ["Philosophy"]
+tags = ["ontology", "existence", "causality", "free-will", "determinism", "mind-body-problem"]
+
+[[topics]]
+topic = "Ethics"
+difficulty = "intermediate"
+domains = ["Philosophy"]
+tags = ["utilitarianism", "deontology", "virtue-ethics", "moral-relativism", "meta-ethics", "applied-ethics"]
+
+[[topics]]
+topic = "Logic"
+difficulty = "intermediate"
+domains = ["Philosophy", "Mathematics"]
+tags = ["deduction", "induction", "fallacies", "propositional-logic", "predicate-logic", "validity"]
+
+[[topics]]
+topic = "Political Philosophy"
+difficulty = "intermediate"
+domains = ["Philosophy", "Political Science"]
+tags = ["justice", "liberty", "rights", "democracy", "social-contract", "authority"]
+
+[[topics]]
+topic = "Philosophy of Mind"
+difficulty = "advanced"
+domains = ["Philosophy", "Psychology"]
+tags = ["consciousness", "dualism", "physicalism", "functionalism", "qualia", "intentionality"]
+
+[[topics]]
+topic = "Philosophy of Science"
+difficulty = "intermediate"
+domains = ["Philosophy"]
+tags = ["scientific-method", "falsifiability", "paradigm-shifts", "realism", "instrumentalism", "demarcation-problem"]
+
+[[topics]]
+topic = "Existentialism"
+difficulty = "intermediate"
+domains = ["Philosophy"]
+tags = ["authenticity", "absurdism", "meaning-of-life", "freedom", "angst", "sartre", "camus"]
+
+[[topics]]
+topic = "Stoicism"
+difficulty = "beginner"
+domains = ["Philosophy"]
+tags = ["virtue", "logos", "dichotomy-of-control", "ataraxia", "marcus-aurelius", "seneca"]
+
+[[topics]]
+topic = "Aesthetics"
+difficulty = "intermediate"
+domains = ["Philosophy"]
+tags = ["beauty", "art", "taste", "sublime", "representation", "criticism"]

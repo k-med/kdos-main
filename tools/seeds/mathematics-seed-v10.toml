@@ -1,0 +1,59 @@
+[[topics]]
+topic = "Set Theory"
+difficulty = "beginner"
+domains = ["Mathematics", "Logic"]
+tags = ["sets", "subsets", "union", "intersection", "venn-diagrams", "cardinality", "cantor"]
+
+[[topics]]
+topic = "Linear Algebra"
+difficulty = "intermediate"
+domains = ["Mathematics"]
+tags = ["vectors", "matrices", "eigenvalues", "eigenvectors", "linear-transformations", "vector-spaces", "determinants"]
+
+[[topics]]
+topic = "Calculus"
+difficulty = "intermediate"
+domains = ["Mathematics"]
+tags = ["derivatives", "integrals", "limits", "continuity", "fundamental-theorem-of-calculus", "rates-of-change"]
+
+[[topics]]
+topic = "Graph Theory"
+difficulty = "intermediate"
+domains = ["Mathematics", "Computer Science"]
+tags = ["nodes", "edges", "paths", "cycles", "connectivity", "trees", "network-theory"]
+
+[[topics]]
+topic = "Number Theory"
+difficulty = "advanced"
+domains = ["Mathematics"]
+tags = ["primes", "divisibility", "modular-arithmetic", "cryptography", "integers", "diophantine-equations"]
+
+[[topics]]
+topic = "Topology"
+difficulty = "advanced"
+domains = ["Mathematics"]
+tags = ["continuity", "compactness", "connectedness", "manifolds", "homotopy", "metric-spaces"]
+
+[[topics]]
+topic = "Combinatorics"
+difficulty = "intermediate"
+domains = ["Mathematics"]
+tags = ["counting", "permutations", "combinations", "pigeonhole-principle", "inclusion-exclusion", "discrete-structures"]
+
+[[topics]]
+topic = "Differential Equations"
+difficulty = "advanced"
+domains = ["Mathematics", "Physics"]
+tags = ["ordinary-differential-equations", "partial-differential-equations", "dynamical-systems", "modeling", "stability"]
+
+[[topics]]
+topic = "Real Analysis"
+difficulty = "advanced"
+domains = ["Mathematics"]
+tags = ["limits", "sequences", "series", "convergence", "continuity", "rigor", "proofs"]
+
+[[topics]]
+topic = "Group Theory"
+difficulty = "advanced"
+domains = ["Mathematics"]
+tags = ["groups", "symmetry", "algebraic-structures", "homomorphisms", "isomorphisms", "abstract-algebra"]

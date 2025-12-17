@@ -1,0 +1,59 @@
+[[topics]]
+topic = "Atomic Structure"
+difficulty = "beginner"
+domains = ["Chemistry", "Physics"]
+tags = ["atoms", "electrons", "protons", "neutrons", "orbitals", "periodic-table"]
+
+[[topics]]
+topic = "Chemical Bonding"
+difficulty = "beginner"
+domains = ["Chemistry"]
+tags = ["covalent-bonds", "ionic-bonds", "metallic-bonds", "molecular-geometry", "intermolecular-forces"]
+
+[[topics]]
+topic = "Stoichiometry"
+difficulty = "beginner"
+domains = ["Chemistry"]
+tags = ["moles", "chemical-equations", "balancing-equations", "reactants", "products", "yield"]
+
+[[topics]]
+topic = "Thermodynamics"
+difficulty = "intermediate"
+domains = ["Chemistry", "Physics"]
+tags = ["enthalpy", "entropy", "gibbs-free-energy", "exothermic", "endothermic", "equilibrium"]
+
+[[topics]]
+topic = "Kinetics"
+difficulty = "intermediate"
+domains = ["Chemistry"]
+tags = ["reaction-rates", "catalysis", "activation-energy", "rate-laws", "mechanisms"]
+
+[[topics]]
+topic = "Organic Chemistry"
+difficulty = "intermediate"
+domains = ["Chemistry"]
+tags = ["carbon-compounds", "functional-groups", "isomers", "reactions", "synthesis", "hydrocarbons"]
+
+[[topics]]
+topic = "Acids and Bases"
+difficulty = "beginner"
+domains = ["Chemistry"]
+tags = ["ph", "titration", "buffers", "neutralization", "bronsted-lowry", "lewis-acids"]
+
+[[topics]]
+topic = "Electrochemistry"
+difficulty = "intermediate"
+domains = ["Chemistry", "Physics"]
+tags = ["redox-reactions", "electrolysis", "batteries", "galvanic-cells", "oxidation-states"]
+
+[[topics]]
+topic = "Inorganic Chemistry"
+difficulty = "intermediate"
+domains = ["Chemistry"]
+tags = ["metals", "coordination-compounds", "crystal-field-theory", "transition-metals", "main-group-elements"]
+
+[[topics]]
+topic = "Analytical Chemistry"
+difficulty = "intermediate"
+domains = ["Chemistry"]
+tags = ["spectroscopy", "chromatography", "mass-spectrometry", "quantitative-analysis", "instrumentation"]

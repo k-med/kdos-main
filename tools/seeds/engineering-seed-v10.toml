@@ -1,0 +1,59 @@
+[[topics]]
+topic = "Thermodynamics"
+difficulty = "intermediate"
+domains = ["Engineering", "Physics"]
+tags = ["energy", "entropy", "heat-transfer", "laws-of-thermodynamics", "cycles", "efficiency"]
+
+[[topics]]
+topic = "Fluid Mechanics"
+difficulty = "intermediate"
+domains = ["Engineering", "Physics"]
+tags = ["fluid-dynamics", "bernoulli-principle", "viscosity", "laminar-flow", "turbulent-flow", "hydraulics"]
+
+[[topics]]
+topic = "Control Systems"
+difficulty = "advanced"
+domains = ["Engineering", "Systems"]
+tags = ["feedback-loops", "stability", "pid-controllers", "frequency-response", "automation", "transfer-functions"]
+
+[[topics]]
+topic = "Materials Science"
+difficulty = "intermediate"
+domains = ["Engineering", "Chemistry", "Physics"]
+tags = ["properties-of-materials", "stress-strain", "polymers", "metals", "ceramics", "failure-analysis"]
+
+[[topics]]
+topic = "Circuit Theory"
+difficulty = "beginner"
+domains = ["Engineering", "Physics"]
+tags = ["voltage", "current", "resistance", "ohm-law", "kirchhoff-laws", "ac-dc", "components"]
+
+[[topics]]
+topic = "Structural Analysis"
+difficulty = "intermediate"
+domains = ["Engineering", "Physics"]
+tags = ["statics", "dynamics", "beams", "trusses", "loads", "stress", "deformation"]
+
+[[topics]]
+topic = "Signal Processing"
+difficulty = "advanced"
+domains = ["Engineering", "Mathematics"]
+tags = ["fourier-transform", "filtering", "sampling", "digital-signals", "analog-signals", "modulation"]
+
+[[topics]]
+topic = "Robotics"
+difficulty = "advanced"
+domains = ["Engineering", "Computer Science"]
+tags = ["kinematics", "sensors", "actuators", "path-planning", "autonomous-systems", "mechatronics"]
+
+[[topics]]
+topic = "Heat Transfer"
+difficulty = "intermediate"
+domains = ["Engineering", "Physics"]
+tags = ["conduction", "convection", "radiation", "insulation", "thermal-conductivity", "heat-exchangers"]
+
+[[topics]]
+topic = "Engineering Design"
+difficulty = "beginner"
+domains = ["Engineering"]
+tags = ["design-process", "prototyping", "constraints", "optimization", "cad", "systems-engineering"]

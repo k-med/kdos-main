@@ -1,0 +1,59 @@
+[[topics]]
+topic = "Monotheism"
+difficulty = "beginner"
+domains = ["Theology", "Philosophy"]
+tags = ["god", "abrahamic-religions", "judaism", "christianity", "islam", "oneness"]
+
+[[topics]]
+topic = "Polytheism"
+difficulty = "beginner"
+domains = ["Theology", "Mythology"]
+tags = ["gods", "pantheon", "hinduism", "greek-mythology", "norse-mythology", "worship"]
+
+[[topics]]
+topic = "Eschatology"
+difficulty = "intermediate"
+domains = ["Theology"]
+tags = ["end-times", "afterlife", "judgment", "resurrection", "apocalypse", "prophecy"]
+
+[[topics]]
+topic = "Soteriology"
+difficulty = "intermediate"
+domains = ["Theology"]
+tags = ["salvation", "redemption", "grace", "atonement", "karma", "liberation"]
+
+[[topics]]
+topic = "Theodicy"
+difficulty = "advanced"
+domains = ["Theology", "Philosophy"]
+tags = ["problem-of-evil", "suffering", "free-will", "divine-justice", "leibniz", "defense"]
+
+[[topics]]
+topic = "Mysticism"
+difficulty = "intermediate"
+domains = ["Theology", "Psychology"]
+tags = ["religious-experience", "union-with-god", "sufism", "kabbalah", "contemplation", "ineffability"]
+
+[[topics]]
+topic = "Sacred Texts"
+difficulty = "beginner"
+domains = ["Theology", "Literature"]
+tags = ["bible", "quran", "vedas", "interpretation", "hermeneutics", "revelation"]
+
+[[topics]]
+topic = "Ritual"
+difficulty = "beginner"
+domains = ["Theology", "Anthropology"]
+tags = ["worship", "prayer", "sacraments", "liturgy", "sacrifice", "ceremony"]
+
+[[topics]]
+topic = "Comparative Religion"
+difficulty = "intermediate"
+domains = ["Theology", "Sociology"]
+tags = ["dialogue", "syncretism", "pluralism", "world-religions", "similarities", "differences"]
+
+[[topics]]
+topic = "Atheism and Agnosticism"
+difficulty = "intermediate"
+domains = ["Theology", "Philosophy"]
+tags = ["secularism", "skepticism", "humanism", "critique-of-religion", "non-belief", "reason"]

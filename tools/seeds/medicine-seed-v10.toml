@@ -1,0 +1,59 @@
+[[topics]]
+topic = "Pathophysiology"
+difficulty = "advanced"
+domains = ["Medicine", "Biology"]
+tags = ["disease-mechanisms", "inflammation", "cellular-injury", "neoplasia", "etiology", "pathogenesis"]
+
+[[topics]]
+topic = "Pharmacology"
+difficulty = "intermediate"
+domains = ["Medicine", "Chemistry"]
+tags = ["drug-interactions", "pharmacokinetics", "pharmacodynamics", "receptors", "dosage", "toxicity"]
+
+[[topics]]
+topic = "Epidemiology"
+difficulty = "intermediate"
+domains = ["Medicine", "Statistics"]
+tags = ["disease-spread", "incidence", "prevalence", "risk-factors", "public-health", "outbreaks"]
+
+[[topics]]
+topic = "Anatomy"
+difficulty = "beginner"
+domains = ["Medicine", "Biology"]
+tags = ["skeletal-system", "muscular-system", "organs", "tissues", "body-structures", "dissection"]
+
+[[topics]]
+topic = "Diagnostics"
+difficulty = "intermediate"
+domains = ["Medicine"]
+tags = ["medical-imaging", "lab-tests", "biomarkers", "differential-diagnosis", "screening", "symptoms"]
+
+[[topics]]
+topic = "Immunology"
+difficulty = "advanced"
+domains = ["Medicine", "Biology"]
+tags = ["autoimmunity", "hypersensitivity", "immunodeficiency", "transplantation", "immunotherapy"]
+
+[[topics]]
+topic = "Neurology"
+difficulty = "advanced"
+domains = ["Medicine", "Biology"]
+tags = ["brain", "nerves", "neurotransmitters", "stroke", "neurodegeneration", "cns"]
+
+[[topics]]
+topic = "Cardiology"
+difficulty = "intermediate"
+domains = ["Medicine"]
+tags = ["heart", "blood-vessels", "hypertension", "arrhythmia", "heart-failure", "ecg"]
+
+[[topics]]
+topic = "Oncology"
+difficulty = "advanced"
+domains = ["Medicine", "Biology"]
+tags = ["cancer", "tumors", "metastasis", "chemotherapy", "radiation-therapy", "carcinogenesis"]
+
+[[topics]]
+topic = "Medical Ethics"
+difficulty = "intermediate"
+domains = ["Medicine", "Ethics"]
+tags = ["bioethics", "informed-consent", "patient-autonomy", "confidentiality", "end-of-life", "malpractice"]

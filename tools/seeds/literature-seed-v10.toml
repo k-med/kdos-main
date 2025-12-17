@@ -1,0 +1,59 @@
+[[topics]]
+topic = "The Novel"
+difficulty = "beginner"
+domains = ["Literature"]
+tags = ["fiction", "prose", "narrative", "character-development", "plot", "realism"]
+
+[[topics]]
+topic = "Poetry"
+difficulty = "beginner"
+domains = ["Literature", "Aesthetics"]
+tags = ["verse", "meter", "rhyme", "imagery", "metaphor", "sonnet"]
+
+[[topics]]
+topic = "Drama"
+difficulty = "beginner"
+domains = ["Literature", "Aesthetics"]
+tags = ["plays", "theater", "dialogue", "performance", "tragedy", "comedy"]
+
+[[topics]]
+topic = "Literary Criticism"
+difficulty = "advanced"
+domains = ["Literature", "Philosophy"]
+tags = ["theory", "interpretation", "analysis", "structuralism", "deconstruction", "reader-response"]
+
+[[topics]]
+topic = "Modernism"
+difficulty = "intermediate"
+domains = ["Literature", "History"]
+tags = ["stream-of-consciousness", "fragmentation", "joyce", "woolf", "eliot", "avant-garde"]
+
+[[topics]]
+topic = "Romanticism"
+difficulty = "intermediate"
+domains = ["Literature", "History"]
+tags = ["nature", "emotion", "individualism", "imagination", "sublime", "wordsworth"]
+
+[[topics]]
+topic = "Postcolonial Literature"
+difficulty = "intermediate"
+domains = ["Literature", "Political Science"]
+tags = ["empire", "identity", "hybridity", "resistance", "achebe", "rushdie"]
+
+[[topics]]
+topic = "Science Fiction"
+difficulty = "beginner"
+domains = ["Literature"]
+tags = ["speculative-fiction", "technology", "future", "dystopia", "utopia", "space"]
+
+[[topics]]
+topic = "Tragedy"
+difficulty = "intermediate"
+domains = ["Literature", "Aesthetics"]
+tags = ["hubris", "fate", "suffering", "catharsis", "shakespeare", "sophocles"]
+
+[[topics]]
+topic = "Satire"
+difficulty = "intermediate"
+domains = ["Literature"]
+tags = ["irony", "humor", "social-criticism", "parody", "swift", "orwell"]

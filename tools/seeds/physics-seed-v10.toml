@@ -1,0 +1,59 @@
+[[topics]]
+topic = "Classical Mechanics"
+difficulty = "beginner"
+domains = ["Physics"]
+tags = ["newton-laws", "motion", "force", "energy", "momentum", "gravity", "kinematics"]
+
+[[topics]]
+topic = "Electromagnetism"
+difficulty = "intermediate"
+domains = ["Physics"]
+tags = ["electric-fields", "magnetic-fields", "maxwell-equations", "circuits", "induction", "light"]
+
+[[topics]]
+topic = "Quantum Mechanics"
+difficulty = "advanced"
+domains = ["Physics"]
+tags = ["wave-particle-duality", "schrodinger-equation", "uncertainty-principle", "superposition", "entanglement", "quantum-states"]
+
+[[topics]]
+topic = "Thermodynamics"
+difficulty = "intermediate"
+domains = ["Physics", "Chemistry"]
+tags = ["heat", "temperature", "entropy", "laws-of-thermodynamics", "statistical-mechanics", "phase-transitions"]
+
+[[topics]]
+topic = "Relativity"
+difficulty = "advanced"
+domains = ["Physics"]
+tags = ["special-relativity", "general-relativity", "spacetime", "time-dilation", "gravity", "speed-of-light"]
+
+[[topics]]
+topic = "Optics"
+difficulty = "intermediate"
+domains = ["Physics"]
+tags = ["reflection", "refraction", "diffraction", "lenses", "wave-optics", "photonics"]
+
+[[topics]]
+topic = "Nuclear Physics"
+difficulty = "advanced"
+domains = ["Physics"]
+tags = ["radioactivity", "fission", "fusion", "atomic-nucleus", "isotopes", "radiation"]
+
+[[topics]]
+topic = "Particle Physics"
+difficulty = "advanced"
+domains = ["Physics"]
+tags = ["standard-model", "quarks", "leptons", "bosons", "fundamental-forces", "accelerators"]
+
+[[topics]]
+topic = "Astrophysics"
+difficulty = "intermediate"
+domains = ["Physics"]
+tags = ["stars", "galaxies", "cosmology", "black-holes", "stellar-evolution", "universe"]
+
+[[topics]]
+topic = "Fluid Dynamics"
+difficulty = "intermediate"
+domains = ["Physics", "Engineering"]
+tags = ["fluids", "flow", "turbulence", "viscosity", "bernoulli-principle", "hydrodynamics"]

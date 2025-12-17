@@ -1,0 +1,59 @@
+[[topics]]
+topic = "Cognitive Bias"
+difficulty = "intermediate"
+domains = ["Psychology"]
+tags = ["confirmation-bias", "anchoring", "availability-heuristic", "dunning-kruger", "rationality", "decision-making"]
+
+[[topics]]
+topic = "Classical Conditioning"
+difficulty = "beginner"
+domains = ["Psychology"]
+tags = ["pavlov", "behaviorism", "stimulus-response", "learning", "association", "extinction"]
+
+[[topics]]
+topic = "Operant Conditioning"
+difficulty = "intermediate"
+domains = ["Psychology"]
+tags = ["skinner", "reinforcement", "punishment", "behavior-modification", "shaping", "schedules-of-reinforcement"]
+
+[[topics]]
+topic = "Memory"
+difficulty = "intermediate"
+domains = ["Psychology"]
+tags = ["short-term-memory", "long-term-memory", "encoding", "retrieval", "amnesia", "working-memory"]
+
+[[topics]]
+topic = "Personality Traits"
+difficulty = "beginner"
+domains = ["Psychology"]
+tags = ["big-five", "extraversion", "neuroticism", "openness", "conscientiousness", "agreeableness"]
+
+[[topics]]
+topic = "Social Psychology"
+difficulty = "intermediate"
+domains = ["Psychology", "Sociology"]
+tags = ["conformity", "obedience", "bystander-effect", "groupthink", "stereotypes", "prejudice"]
+
+[[topics]]
+topic = "Developmental Psychology"
+difficulty = "intermediate"
+domains = ["Psychology"]
+tags = ["piaget", "stages-of-development", "attachment-theory", "childhood", "aging", "erikson"]
+
+[[topics]]
+topic = "Abnormal Psychology"
+difficulty = "advanced"
+domains = ["Psychology", "Medicine"]
+tags = ["mental-disorders", "dsm-5", "schizophrenia", "depression", "anxiety", "therapy"]
+
+[[topics]]
+topic = "Neuropsychology"
+difficulty = "advanced"
+domains = ["Psychology", "Biology"]
+tags = ["brain-structure", "neurotransmitters", "plasticity", "lesions", "fMRI", "cognitive-functions"]
+
+[[topics]]
+topic = "Emotion"
+difficulty = "beginner"
+domains = ["Psychology"]
+tags = ["affect", "mood", "emotional-intelligence", "facial-expressions", "theories-of-emotion", "stress"]

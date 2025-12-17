@@ -1,0 +1,59 @@
+[[topics]]
+topic = "Systems Theory"
+difficulty = "intermediate"
+domains = ["Systems"]
+tags = ["holism", "reductionism", "boundaries", "environment", "inputs", "outputs"]
+
+[[topics]]
+topic = "Cybernetics"
+difficulty = "advanced"
+domains = ["Systems", "Computer Science"]
+tags = ["control", "communication", "feedback", "wiener", "regulation", "information"]
+
+[[topics]]
+topic = "Complexity Theory"
+difficulty = "advanced"
+domains = ["Systems", "Mathematics"]
+tags = ["emergence", "chaos", "self-organization", "non-linearity", "complex-adaptive-systems", "fractals"]
+
+[[topics]]
+topic = "Feedback Loops"
+difficulty = "beginner"
+domains = ["Systems", "Engineering"]
+tags = ["positive-feedback", "negative-feedback", "homeostasis", "amplification", "stabilization", "dynamics"]
+
+[[topics]]
+topic = "Network Theory"
+difficulty = "intermediate"
+domains = ["Systems", "Mathematics"]
+tags = ["nodes", "edges", "small-world-networks", "scale-free-networks", "centrality", "clustering"]
+
+[[topics]]
+topic = "System Dynamics"
+difficulty = "advanced"
+domains = ["Systems", "Computer Science"]
+tags = ["stocks", "flows", "simulation", "modeling", "causal-loops", "behavior-over-time"]
+
+[[topics]]
+topic = "Resilience"
+difficulty = "intermediate"
+domains = ["Systems", "Ecology"]
+tags = ["robustness", "adaptability", "vulnerability", "recovery", "tipping-points", "sustainability"]
+
+[[topics]]
+topic = "Hierarchy"
+difficulty = "intermediate"
+domains = ["Systems"]
+tags = ["levels", "organization", "subsystems", "nested-systems", "control", "structure"]
+
+[[topics]]
+topic = "Information Systems"
+difficulty = "intermediate"
+domains = ["Systems", "Computer Science"]
+tags = ["data", "processes", "technology", "people", "management", "integration"]
+
+[[topics]]
+topic = "Biological Systems"
+difficulty = "intermediate"
+domains = ["Systems", "Biology"]
+tags = ["organism", "ecosystem", "metabolism", "homeostasis", "evolution", "adaptation"]

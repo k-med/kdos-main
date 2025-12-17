@@ -1,0 +1,59 @@
+[[topics]]
+topic = "Syntax"
+difficulty = "intermediate"
+domains = ["Linguistics"]
+tags = ["grammar", "sentence-structure", "parse-trees", "constituents", "chomsky", "generative-grammar"]
+
+[[topics]]
+topic = "Semantics"
+difficulty = "intermediate"
+domains = ["Linguistics", "Logic"]
+tags = ["meaning", "truth-conditions", "lexical-semantics", "ambiguity", "pragmatics", "context"]
+
+[[topics]]
+topic = "Phonology"
+difficulty = "intermediate"
+domains = ["Linguistics"]
+tags = ["sounds", "phonemes", "syllables", "stress", "intonation", "sound-patterns"]
+
+[[topics]]
+topic = "Morphology"
+difficulty = "beginner"
+domains = ["Linguistics"]
+tags = ["words", "morphemes", "prefixes", "suffixes", "inflection", "derivation"]
+
+[[topics]]
+topic = "Sociolinguistics"
+difficulty = "intermediate"
+domains = ["Linguistics", "Sociology"]
+tags = ["dialects", "accents", "language-variation", "code-switching", "language-policy", "identity"]
+
+[[topics]]
+topic = "Historical Linguistics"
+difficulty = "advanced"
+domains = ["Linguistics", "History"]
+tags = ["language-change", "etymology", "language-families", "proto-indo-european", "sound-change", "reconstruction"]
+
+[[topics]]
+topic = "Psycholinguistics"
+difficulty = "advanced"
+domains = ["Linguistics", "Psychology"]
+tags = ["language-acquisition", "language-processing", "bilingualism", "aphasia", "brain", "cognition"]
+
+[[topics]]
+topic = "Pragmatics"
+difficulty = "intermediate"
+domains = ["Linguistics", "Philosophy"]
+tags = ["speech-acts", "implicature", "context", "deixis", "politeness", "conversation-analysis"]
+
+[[topics]]
+topic = "Typology"
+difficulty = "advanced"
+domains = ["Linguistics"]
+tags = ["language-universals", "word-order", "classification", "comparative-linguistics", "features", "diversity"]
+
+[[topics]]
+topic = "Writing Systems"
+difficulty = "beginner"
+domains = ["Linguistics", "History"]
+tags = ["alphabets", "syllabaries", "logograms", "orthography", "decipherment", "scripts"]

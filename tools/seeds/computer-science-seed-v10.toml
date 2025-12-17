@@ -1,0 +1,59 @@
+[[topics]]
+topic = "Algorithms"
+difficulty = "intermediate"
+domains = ["Computer Science", "Mathematics"]
+tags = ["sorting", "searching", "complexity", "big-o-notation", "recursion", "dynamic-programming"]
+
+[[topics]]
+topic = "Data Structures"
+difficulty = "beginner"
+domains = ["Computer Science"]
+tags = ["arrays", "linked-lists", "trees", "graphs", "hash-tables", "stacks", "queues"]
+
+[[topics]]
+topic = "Operating Systems"
+difficulty = "intermediate"
+domains = ["Computer Science", "Systems"]
+tags = ["processes", "threads", "concurrency", "memory-management", "file-systems", "scheduling", "virtualization"]
+
+[[topics]]
+topic = "Compilers"
+difficulty = "advanced"
+domains = ["Computer Science"]
+tags = ["parsing", "lexical-analysis", "syntax-trees", "code-generation", "optimization", "interpreters"]
+
+[[topics]]
+topic = "Distributed Systems"
+difficulty = "advanced"
+domains = ["Computer Science", "Systems"]
+tags = ["consensus", "replication", "fault-tolerance", "cap-theorem", "consistency", "scalability"]
+
+[[topics]]
+topic = "Database Systems"
+difficulty = "intermediate"
+domains = ["Computer Science"]
+tags = ["sql", "acid-properties", "normalization", "indexing", "transactions", "relational-model", "nosql"]
+
+[[topics]]
+topic = "Computer Networks"
+difficulty = "intermediate"
+domains = ["Computer Science", "Engineering"]
+tags = ["tcp-ip", "osi-model", "routing", "packets", "protocols", "latency", "bandwidth"]
+
+[[topics]]
+topic = "Artificial Intelligence"
+difficulty = "intermediate"
+domains = ["Computer Science", "Statistics"]
+tags = ["machine-learning", "neural-networks", "search-algorithms", "knowledge-representation", "natural-language-processing"]
+
+[[topics]]
+topic = "Cybersecurity"
+difficulty = "intermediate"
+domains = ["Computer Science"]
+tags = ["encryption", "authentication", "network-security", "vulnerabilities", "malware", "cryptography"]
+
+[[topics]]
+topic = "Software Engineering"
+difficulty = "beginner"
+domains = ["Computer Science", "Engineering"]
+tags = ["development-lifecycle", "agile", "testing", "version-control", "design-patterns", "requirements"]

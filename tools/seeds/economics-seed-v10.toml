@@ -1,0 +1,59 @@
+[[topics]]
+topic = "Supply and Demand"
+difficulty = "beginner"
+domains = ["Economics"]
+tags = ["market-equilibrium", "price-mechanism", "elasticity", "shortage", "surplus", "consumer-surplus"]
+
+[[topics]]
+topic = "Microeconomics"
+difficulty = "intermediate"
+domains = ["Economics"]
+tags = ["consumer-theory", "firm-behavior", "market-structures", "monopoly", "oligopoly", "perfect-competition"]
+
+[[topics]]
+topic = "Macroeconomics"
+difficulty = "intermediate"
+domains = ["Economics"]
+tags = ["gdp", "inflation", "unemployment", "fiscal-policy", "monetary-policy", "business-cycles"]
+
+[[topics]]
+topic = "Game Theory"
+difficulty = "advanced"
+domains = ["Economics", "Mathematics"]
+tags = ["nash-equilibrium", "prisoners-dilemma", "strategy", "cooperation", "zero-sum-games", "auctions"]
+
+[[topics]]
+topic = "International Trade"
+difficulty = "intermediate"
+domains = ["Economics"]
+tags = ["comparative-advantage", "tariffs", "exchange-rates", "balance-of-payments", "globalization", "trade-agreements"]
+
+[[topics]]
+topic = "Behavioral Economics"
+difficulty = "intermediate"
+domains = ["Economics", "Psychology"]
+tags = ["cognitive-bias", "heuristics", "prospect-theory", "nudge-theory", "irrationality", "decision-making"]
+
+[[topics]]
+topic = "Development Economics"
+difficulty = "intermediate"
+domains = ["Economics"]
+tags = ["poverty", "inequality", "growth-theory", "institutions", "foreign-aid", "human-capital"]
+
+[[topics]]
+topic = "Labor Economics"
+difficulty = "intermediate"
+domains = ["Economics"]
+tags = ["wages", "employment", "human-capital", "unions", "labor-market", "minimum-wage"]
+
+[[topics]]
+topic = "Public Economics"
+difficulty = "intermediate"
+domains = ["Economics"]
+tags = ["taxation", "public-goods", "externalities", "government-spending", "social-welfare", "market-failure"]
+
+[[topics]]
+topic = "Econometrics"
+difficulty = "advanced"
+domains = ["Economics", "Statistics"]
+tags = ["regression-analysis", "causal-inference", "time-series", "panel-data", "instrumental-variables", "identification"]

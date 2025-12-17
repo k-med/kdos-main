@@ -1,0 +1,59 @@
+[[topics]]
+topic = "Industrial Revolution"
+difficulty = "intermediate"
+domains = ["History", "Economics"]
+tags = ["industrialization", "urbanization", "factories", "steam-engine", "labor-movements", "capitalism"]
+
+[[topics]]
+topic = "Roman Empire"
+difficulty = "beginner"
+domains = ["History"]
+tags = ["rome", "republic", "emperors", "pax-romana", "fall-of-rome", "latin"]
+
+[[topics]]
+topic = "World War I"
+difficulty = "intermediate"
+domains = ["History", "Political Science"]
+tags = ["trench-warfare", "alliances", "treaty-of-versailles", "archduke-franz-ferdinand", "central-powers", "allied-powers"]
+
+[[topics]]
+topic = "World War II"
+difficulty = "intermediate"
+domains = ["History", "Political Science"]
+tags = ["axis-powers", "allies", "holocaust", "atomic-bomb", "d-day", "blitzkrieg"]
+
+[[topics]]
+topic = "Cold War"
+difficulty = "intermediate"
+domains = ["History", "Political Science"]
+tags = ["usa", "ussr", "communism", "capitalism", "nuclear-arms-race", "proxy-wars"]
+
+[[topics]]
+topic = "Renaissance"
+difficulty = "beginner"
+domains = ["History", "Aesthetics"]
+tags = ["humanism", "art", "florence", "leonardo-da-vinci", "michelangelo", "scientific-revolution"]
+
+[[topics]]
+topic = "French Revolution"
+difficulty = "intermediate"
+domains = ["History", "Political Science"]
+tags = ["monarchy", "guillotine", "reign-of-terror", "napoleon", "liberty-equality-fraternity", "estates-general"]
+
+[[topics]]
+topic = "American Civil War"
+difficulty = "intermediate"
+domains = ["History"]
+tags = ["slavery", "confederacy", "union", "abraham-lincoln", "gettysburg", "secession"]
+
+[[topics]]
+topic = "Colonialism"
+difficulty = "intermediate"
+domains = ["History", "Political Science"]
+tags = ["imperialism", "decolonization", "scramble-for-africa", "british-empire", "exploitation", "trade"]
+
+[[topics]]
+topic = "Ancient Greece"
+difficulty = "beginner"
+domains = ["History", "Philosophy"]
+tags = ["athens", "sparta", "democracy", "socrates", "plato", "persian-wars"]

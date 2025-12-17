@@ -1,0 +1,59 @@
+[[topics]]
+topic = "Constitutional Law"
+difficulty = "intermediate"
+domains = ["Law", "Political Science"]
+tags = ["rights", "separation-of-powers", "judicial-review", "amendments", "federalism", "due-process"]
+
+[[topics]]
+topic = "Contract Law"
+difficulty = "intermediate"
+domains = ["Law", "Economics"]
+tags = ["offer-and-acceptance", "consideration", "breach-of-contract", "damages", "obligations", "agreements"]
+
+[[topics]]
+topic = "Criminal Law"
+difficulty = "intermediate"
+domains = ["Law", "Sociology"]
+tags = ["actus-reus", "mens-rea", "defenses", "homicide", "theft", "punishment"]
+
+[[topics]]
+topic = "Tort Law"
+difficulty = "intermediate"
+domains = ["Law"]
+tags = ["negligence", "liability", "duty-of-care", "damages", "strict-liability", "nuisance"]
+
+[[topics]]
+topic = "International Law"
+difficulty = "advanced"
+domains = ["Law", "Political Science"]
+tags = ["treaties", "sovereignty", "human-rights", "war-crimes", "united-nations", "jurisdiction"]
+
+[[topics]]
+topic = "Intellectual Property"
+difficulty = "intermediate"
+domains = ["Law", "Economics"]
+tags = ["copyright", "patents", "trademarks", "fair-use", "innovation", "infringement"]
+
+[[topics]]
+topic = "Property Law"
+difficulty = "intermediate"
+domains = ["Law", "Economics"]
+tags = ["ownership", "estates", "land-use", "easements", "possession", "transfer"]
+
+[[topics]]
+topic = "Jurisprudence"
+difficulty = "advanced"
+domains = ["Law", "Philosophy"]
+tags = ["legal-positivism", "natural-law", "legal-realism", "justice", "rights", "interpretation"]
+
+[[topics]]
+topic = "Administrative Law"
+difficulty = "advanced"
+domains = ["Law", "Political Science"]
+tags = ["regulations", "agencies", "rulemaking", "adjudication", "bureaucracy", "discretion"]
+
+[[topics]]
+topic = "Corporate Law"
+difficulty = "intermediate"
+domains = ["Law", "Finance"]
+tags = ["corporations", "shareholders", "directors", "fiduciary-duties", "mergers", "governance"]

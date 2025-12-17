@@ -1,0 +1,59 @@
+[[topics]]
+topic = "Creation Myths"
+difficulty = "beginner"
+domains = ["Mythology", "Theology"]
+tags = ["cosmogony", "origins", "chaos", "order", "genesis", "big-bang"]
+
+[[topics]]
+topic = "Hero's Journey"
+difficulty = "intermediate"
+domains = ["Mythology", "Literature"]
+tags = ["monomyth", "campbell", "departure", "initiation", "return", "archetypes"]
+
+[[topics]]
+topic = "Greek Mythology"
+difficulty = "beginner"
+domains = ["Mythology", "History"]
+tags = ["zeus", "olympians", "titans", "hercules", "odyssey", "iliad"]
+
+[[topics]]
+topic = "Norse Mythology"
+difficulty = "beginner"
+domains = ["Mythology", "History"]
+tags = ["odin", "thor", "loki", "ragnarok", "valhalla", "eddas"]
+
+[[topics]]
+topic = "Egyptian Mythology"
+difficulty = "beginner"
+domains = ["Mythology", "History"]
+tags = ["ra", "osiris", "isis", "afterlife", "pyramids", "pharaohs"]
+
+[[topics]]
+topic = "Trickster Figures"
+difficulty = "intermediate"
+domains = ["Mythology", "Anthropology"]
+tags = ["loki", "coyote", "hermes", "chaos", "disruption", "culture-hero"]
+
+[[topics]]
+topic = "Flood Myths"
+difficulty = "intermediate"
+domains = ["Mythology", "Theology"]
+tags = ["noah", "gilgamesh", "catastrophe", "renewal", "divine-wrath", "survival"]
+
+[[topics]]
+topic = "Archetypes"
+difficulty = "advanced"
+domains = ["Mythology", "Psychology"]
+tags = ["jung", "collective-unconscious", "symbols", "patterns", "mother", "shadow"]
+
+[[topics]]
+topic = "Folklore"
+difficulty = "beginner"
+domains = ["Mythology", "Anthropology"]
+tags = ["legends", "fairy-tales", "oral-tradition", "superstitions", "culture", "storytelling"]
+
+[[topics]]
+topic = "Comparative Mythology"
+difficulty = "advanced"
+domains = ["Mythology", "Literature"]
+tags = ["structuralism", "levi-strauss", "motifs", "themes", "cross-cultural", "analysis"]

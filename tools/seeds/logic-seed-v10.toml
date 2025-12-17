@@ -1,0 +1,59 @@
+[[topics]]
+topic = "Propositional Logic"
+difficulty = "beginner"
+domains = ["Logic", "Mathematics"]
+tags = ["truth-tables", "connectives", "tautologies", "contradictions", "inference-rules", "validity"]
+
+[[topics]]
+topic = "Predicate Logic"
+difficulty = "intermediate"
+domains = ["Logic", "Mathematics"]
+tags = ["quantifiers", "variables", "predicates", "relations", "first-order-logic", "models"]
+
+[[topics]]
+topic = "Modal Logic"
+difficulty = "advanced"
+domains = ["Logic", "Philosophy"]
+tags = ["necessity", "possibility", "possible-worlds", "kripke-semantics", "accessibility-relations", "deontic-logic"]
+
+[[topics]]
+topic = "Set Theory"
+difficulty = "intermediate"
+domains = ["Logic", "Mathematics"]
+tags = ["sets", "axioms", "zfc", "ordinals", "cardinals", "russell-paradox"]
+
+[[topics]]
+topic = "Proof Theory"
+difficulty = "advanced"
+domains = ["Logic", "Mathematics"]
+tags = ["deduction-systems", "natural-deduction", "sequent-calculus", "normalization", "consistency", "completeness"]
+
+[[topics]]
+topic = "Model Theory"
+difficulty = "advanced"
+domains = ["Logic", "Mathematics"]
+tags = ["structures", "interpretations", "isomorphism", "compactness-theorem", "lowenheim-skolem", "theories"]
+
+[[topics]]
+topic = "Fallacies"
+difficulty = "beginner"
+domains = ["Logic", "Philosophy"]
+tags = ["ad-hominem", "straw-man", "circular-reasoning", "slippery-slope", "appeal-to-authority", "critical-thinking"]
+
+[[topics]]
+topic = "Computability Theory"
+difficulty = "advanced"
+domains = ["Logic", "Computer Science"]
+tags = ["turing-machines", "halting-problem", "decidability", "recursive-functions", "church-turing-thesis", "complexity"]
+
+[[topics]]
+topic = "Inductive Logic"
+difficulty = "intermediate"
+domains = ["Logic", "Statistics"]
+tags = ["probability", "bayesian-inference", "confirmation", "generalization", "analogy", "scientific-reasoning"]
+
+[[topics]]
+topic = "Paradoxes"
+difficulty = "intermediate"
+domains = ["Logic", "Philosophy"]
+tags = ["liar-paradox", "sorites-paradox", "zeno-paradoxes", "newcomb-problem", "simpson-paradox", "self-reference"]

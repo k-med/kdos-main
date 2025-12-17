@@ -1,0 +1,59 @@
+[[topics]]
+topic = "Entropy"
+difficulty = "advanced"
+domains = ["Information Theory", "Physics"]
+tags = ["shannon-entropy", "uncertainty", "randomness", "bits", "information-content", "thermodynamics"]
+
+[[topics]]
+topic = "Channel Capacity"
+difficulty = "advanced"
+domains = ["Information Theory", "Engineering"]
+tags = ["shannon-limit", "bandwidth", "noise", "transmission", "error-rates", "coding-theorem"]
+
+[[topics]]
+topic = "Data Compression"
+difficulty = "intermediate"
+domains = ["Information Theory", "Computer Science"]
+tags = ["lossless", "lossy", "huffman-coding", "redundancy", "encoding", "algorithms"]
+
+[[topics]]
+topic = "Error Correction"
+difficulty = "advanced"
+domains = ["Information Theory", "Computer Science"]
+tags = ["hamming-codes", "parity", "redundancy", "detection", "reliability", "communication"]
+
+[[topics]]
+topic = "Signal-to-Noise Ratio"
+difficulty = "intermediate"
+domains = ["Information Theory", "Engineering"]
+tags = ["interference", "quality", "decibels", "transmission", "fidelity", "detection"]
+
+[[topics]]
+topic = "Mutual Information"
+difficulty = "advanced"
+domains = ["Information Theory", "Statistics"]
+tags = ["dependence", "correlation", "joint-entropy", "conditional-entropy", "information-gain", "variables"]
+
+[[topics]]
+topic = "Cryptography"
+difficulty = "intermediate"
+domains = ["Information Theory", "Computer Science"]
+tags = ["encryption", "security", "keys", "perfect-secrecy", "one-time-pad", "confidentiality"]
+
+[[topics]]
+topic = "Kolmogorov Complexity"
+difficulty = "advanced"
+domains = ["Information Theory", "Computer Science"]
+tags = ["algorithmic-complexity", "description-length", "randomness", "incompressibility", "turing-machines", "patterns"]
+
+[[topics]]
+topic = "Network Information Theory"
+difficulty = "advanced"
+domains = ["Information Theory", "Engineering"]
+tags = ["multi-user-channels", "broadcast", "interference", "capacity-regions", "cooperation", "coding"]
+
+[[topics]]
+topic = "Quantum Information"
+difficulty = "advanced"
+domains = ["Information Theory", "Physics"]
+tags = ["qubits", "entanglement", "teleportation", "quantum-computing", "superposition", "no-cloning"]

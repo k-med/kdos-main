@@ -1,0 +1,59 @@
+[[topics]]
+topic = "Ontology"
+difficulty = "advanced"
+domains = ["Metaphysics", "Philosophy"]
+tags = ["being", "existence", "categories", "universals", "particulars", "properties"]
+
+[[topics]]
+topic = "Causality"
+difficulty = "intermediate"
+domains = ["Metaphysics", "Philosophy"]
+tags = ["cause-and-effect", "determinism", "counterfactuals", "laws-of-nature", "hume", "necessity"]
+
+[[topics]]
+topic = "Time"
+difficulty = "advanced"
+domains = ["Metaphysics", "Physics"]
+tags = ["presentism", "eternalism", "a-theory", "b-theory", "passage-of-time", "spacetime"]
+
+[[topics]]
+topic = "Free Will"
+difficulty = "intermediate"
+domains = ["Metaphysics", "Philosophy"]
+tags = ["determinism", "compatibilism", "libertarianism", "agency", "moral-responsibility", "choice"]
+
+[[topics]]
+topic = "Mind-Body Problem"
+difficulty = "intermediate"
+domains = ["Metaphysics", "Philosophy"]
+tags = ["dualism", "physicalism", "consciousness", "mental-states", "identity-theory", "functionalism"]
+
+[[topics]]
+topic = "Identity"
+difficulty = "advanced"
+domains = ["Metaphysics", "Logic"]
+tags = ["persistence", "change", "ship-of-theseus", "personal-identity", "leibniz-law", "indiscernibility"]
+
+[[topics]]
+topic = "Modality"
+difficulty = "advanced"
+domains = ["Metaphysics", "Logic"]
+tags = ["possibility", "necessity", "possible-worlds", "essentialism", "actualism", "contingency"]
+
+[[topics]]
+topic = "Realism vs Anti-Realism"
+difficulty = "advanced"
+domains = ["Metaphysics", "Philosophy"]
+tags = ["truth", "objectivity", "idealism", "constructivism", "universals", "nominalism"]
+
+[[topics]]
+topic = "Teleology"
+difficulty = "intermediate"
+domains = ["Metaphysics", "Philosophy"]
+tags = ["purpose", "design", "final-causes", "evolution", "function", "nature"]
+
+[[topics]]
+topic = "God"
+difficulty = "intermediate"
+domains = ["Metaphysics", "Theology"]
+tags = ["cosmological-argument", "ontological-argument", "problem-of-evil", "divine-attributes", "theism", "atheism"]

@@ -1,0 +1,59 @@
+[[topics]]
+topic = "Social Stratification"
+difficulty = "intermediate"
+domains = ["Sociology"]
+tags = ["class", "status", "inequality", "mobility", "poverty", "wealth-gap"]
+
+[[topics]]
+topic = "Socialization"
+difficulty = "beginner"
+domains = ["Sociology", "Psychology"]
+tags = ["norms", "values", "roles", "identity", "culture", "agents-of-socialization"]
+
+[[topics]]
+topic = "Deviance"
+difficulty = "intermediate"
+domains = ["Sociology"]
+tags = ["crime", "social-control", "labeling-theory", "stigma", "norms", "sanctions"]
+
+[[topics]]
+topic = "Institutions"
+difficulty = "intermediate"
+domains = ["Sociology"]
+tags = ["family", "education", "religion", "government", "economy", "bureaucracy"]
+
+[[topics]]
+topic = "Social Change"
+difficulty = "intermediate"
+domains = ["Sociology", "History"]
+tags = ["modernization", "globalization", "social-movements", "revolution", "technology", "demographics"]
+
+[[topics]]
+topic = "Culture"
+difficulty = "beginner"
+domains = ["Sociology", "Anthropology"]
+tags = ["symbols", "language", "beliefs", "subcultures", "cultural-relativism", "ethnocentrism"]
+
+[[topics]]
+topic = "Race and Ethnicity"
+difficulty = "intermediate"
+domains = ["Sociology"]
+tags = ["prejudice", "discrimination", "racism", "identity", "minorities", "segregation"]
+
+[[topics]]
+topic = "Gender"
+difficulty = "intermediate"
+domains = ["Sociology"]
+tags = ["gender-roles", "sexism", "feminism", "patriarchy", "identity", "social-construction"]
+
+[[topics]]
+topic = "Urban Sociology"
+difficulty = "intermediate"
+domains = ["Sociology"]
+tags = ["cities", "urbanization", "gentrification", "community", "suburbs", "segregation"]
+
+[[topics]]
+topic = "Sociological Theory"
+difficulty = "advanced"
+domains = ["Sociology"]
+tags = ["functionalism", "conflict-theory", "symbolic-interactionism", "marx", "durkheim", "weber"]

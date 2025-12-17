@@ -1,0 +1,59 @@
+[[topics]]
+topic = "Cultural Anthropology"
+difficulty = "beginner"
+domains = ["Anthropology", "Sociology"]
+tags = ["culture", "ethnography", "rituals", "kinship", "beliefs", "fieldwork"]
+
+[[topics]]
+topic = "Archaeology"
+difficulty = "intermediate"
+domains = ["Anthropology", "History"]
+tags = ["excavation", "artifacts", "prehistory", "civilizations", "material-culture", "dating-methods"]
+
+[[topics]]
+topic = "Biological Anthropology"
+difficulty = "intermediate"
+domains = ["Anthropology", "Biology"]
+tags = ["human-evolution", "primatology", "genetics", "forensics", "adaptation", "fossils"]
+
+[[topics]]
+topic = "Linguistic Anthropology"
+difficulty = "intermediate"
+domains = ["Anthropology", "Linguistics"]
+tags = ["language", "communication", "sociolinguistics", "endangered-languages", "oral-tradition", "discourse"]
+
+[[topics]]
+topic = "Kinship"
+difficulty = "intermediate"
+domains = ["Anthropology", "Sociology"]
+tags = ["family", "marriage", "descent", "lineage", "clans", "social-structure"]
+
+[[topics]]
+topic = "Religion and Ritual"
+difficulty = "intermediate"
+domains = ["Anthropology", "Theology"]
+tags = ["myths", "magic", "shamanism", "totemism", "rites-of-passage", "sacred"]
+
+[[topics]]
+topic = "Economic Anthropology"
+difficulty = "intermediate"
+domains = ["Anthropology", "Economics"]
+tags = ["gift-exchange", "barter", "markets", "subsistence", "reciprocity", "potlatch"]
+
+[[topics]]
+topic = "Political Anthropology"
+difficulty = "intermediate"
+domains = ["Anthropology", "Political Science"]
+tags = ["power", "authority", "bands", "tribes", "chiefdoms", "states"]
+
+[[topics]]
+topic = "Medical Anthropology"
+difficulty = "intermediate"
+domains = ["Anthropology", "Medicine"]
+tags = ["health", "disease", "healing", "ethnomedicine", "cultural-beliefs", "practitioners"]
+
+[[topics]]
+topic = "Applied Anthropology"
+difficulty = "beginner"
+domains = ["Anthropology"]
+tags = ["development", "advocacy", "corporate-anthropology", "policy", "cultural-resource-management", "ethics"]

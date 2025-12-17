@@ -1,0 +1,59 @@
+[[topics]]
+topic = "Learning Theories"
+difficulty = "intermediate"
+domains = ["Education", "Psychology"]
+tags = ["behaviorism", "constructivism", "cognitivism", "social-learning", "vygotsky", "piaget"]
+
+[[topics]]
+topic = "Curriculum Design"
+difficulty = "intermediate"
+domains = ["Education"]
+tags = ["standards", "assessment", "instructional-design", "objectives", "alignment", "pedagogy"]
+
+[[topics]]
+topic = "Educational Technology"
+difficulty = "beginner"
+domains = ["Education", "Computer Science"]
+tags = ["e-learning", "lms", "gamification", "adaptive-learning", "moocs", "digital-literacy"]
+
+[[topics]]
+topic = "Special Education"
+difficulty = "intermediate"
+domains = ["Education", "Psychology"]
+tags = ["inclusion", "iep", "disabilities", "accommodations", "gifted-education", "learning-disabilities"]
+
+[[topics]]
+topic = "Higher Education"
+difficulty = "intermediate"
+domains = ["Education", "Sociology"]
+tags = ["universities", "tenure", "student-debt", "accreditation", "research", "access"]
+
+[[topics]]
+topic = "Early Childhood Education"
+difficulty = "beginner"
+domains = ["Education", "Psychology"]
+tags = ["play-based-learning", "development", "literacy", "numeracy", "social-skills", "montessori"]
+
+[[topics]]
+topic = "Assessment and Evaluation"
+difficulty = "advanced"
+domains = ["Education", "Statistics"]
+tags = ["standardized-testing", "formative-assessment", "summative-assessment", "rubrics", "validity", "reliability"]
+
+[[topics]]
+topic = "Educational Policy"
+difficulty = "intermediate"
+domains = ["Education", "Political Science"]
+tags = ["reform", "funding", "school-choice", "equity", "accountability", "legislation"]
+
+[[topics]]
+topic = "Teacher Education"
+difficulty = "intermediate"
+domains = ["Education"]
+tags = ["professional-development", "certification", "mentoring", "classroom-management", "pedagogical-content-knowledge", "reflection"]
+
+[[topics]]
+topic = "History of Education"
+difficulty = "intermediate"
+domains = ["Education", "History"]
+tags = ["dewey", "public-schools", "literacy", "educational-movements", "segregation", "universities"]

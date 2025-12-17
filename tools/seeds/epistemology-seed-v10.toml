@@ -1,0 +1,59 @@
+[[topics]]
+topic = "Justification"
+difficulty = "intermediate"
+domains = ["Epistemology", "Philosophy"]
+tags = ["foundationalism", "coherentism", "reliabilism", "evidence", "belief", "rationality"]
+
+[[topics]]
+topic = "Skepticism"
+difficulty = "intermediate"
+domains = ["Epistemology", "Philosophy"]
+tags = ["cartesian-skepticism", "agrippa-trilemma", "brain-in-a-vat", "doubt", "certainty", "knowledge"]
+
+[[topics]]
+topic = "Truth"
+difficulty = "advanced"
+domains = ["Epistemology", "Philosophy"]
+tags = ["correspondence-theory", "coherence-theory", "pragmatic-theory", "deflationism", "facts", "propositions"]
+
+[[topics]]
+topic = "Belief"
+difficulty = "beginner"
+domains = ["Epistemology", "Psychology"]
+tags = ["doxastic-logic", "credence", "belief-revision", "faith", "opinion", "judgment"]
+
+[[topics]]
+topic = "Perception"
+difficulty = "intermediate"
+domains = ["Epistemology", "Psychology"]
+tags = ["sense-data", "naive-realism", "hallucination", "illusion", "observation", "qualia"]
+
+[[topics]]
+topic = "A Priori Knowledge"
+difficulty = "advanced"
+domains = ["Epistemology", "Philosophy"]
+tags = ["analytic-synthetic", "necessary-truth", "intuition", "rationalism", "empiricism", "innate-ideas"]
+
+[[topics]]
+topic = "Social Epistemology"
+difficulty = "intermediate"
+domains = ["Epistemology", "Sociology"]
+tags = ["testimony", "experts", "disagreement", "group-knowledge", "epistemic-injustice", "trust"]
+
+[[topics]]
+topic = "Virtue Epistemology"
+difficulty = "intermediate"
+domains = ["Epistemology", "Ethics"]
+tags = ["intellectual-virtues", "open-mindedness", "curiosity", "wisdom", "epistemic-responsibility", "character"]
+
+[[topics]]
+topic = "Bayesian Epistemology"
+difficulty = "advanced"
+domains = ["Epistemology", "Statistics"]
+tags = ["degrees-of-belief", "updating", "priors", "evidence", "probability", "dutch-book-arguments"]
+
+[[topics]]
+topic = "Problem of Induction"
+difficulty = "intermediate"
+domains = ["Epistemology", "Logic"]
+tags = ["hume", "uniformity-of-nature", "generalization", "grue-paradox", "confirmation", "prediction"]

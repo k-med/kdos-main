@@ -1,0 +1,59 @@
+[[topics]]
+topic = "Utilitarianism"
+difficulty = "intermediate"
+domains = ["Ethics", "Philosophy"]
+tags = ["consequentialism", "happiness", "utility", "bentham", "mill", "greatest-good"]
+
+[[topics]]
+topic = "Deontology"
+difficulty = "intermediate"
+domains = ["Ethics", "Philosophy"]
+tags = ["duty", "categorical-imperative", "kant", "moral-rules", "rights", "obligations"]
+
+[[topics]]
+topic = "Virtue Ethics"
+difficulty = "intermediate"
+domains = ["Ethics", "Philosophy"]
+tags = ["character", "eudaimonia", "aristotle", "virtues", "vices", "moral-development"]
+
+[[topics]]
+topic = "Bioethics"
+difficulty = "intermediate"
+domains = ["Ethics", "Medicine"]
+tags = ["euthanasia", "abortion", "genetic-engineering", "cloning", "informed-consent", "medical-ethics"]
+
+[[topics]]
+topic = "Meta-Ethics"
+difficulty = "advanced"
+domains = ["Ethics", "Philosophy"]
+tags = ["moral-realism", "moral-relativism", "emotivism", "error-theory", "moral-truth", "objectivity"]
+
+[[topics]]
+topic = "Applied Ethics"
+difficulty = "beginner"
+domains = ["Ethics"]
+tags = ["environmental-ethics", "business-ethics", "animal-rights", "war", "poverty", "technology"]
+
+[[topics]]
+topic = "Moral Psychology"
+difficulty = "intermediate"
+domains = ["Ethics", "Psychology"]
+tags = ["moral-development", "intuition", "reasoning", "empathy", "altruism", "moral-responsibility"]
+
+[[topics]]
+topic = "Justice"
+difficulty = "intermediate"
+domains = ["Ethics", "Political Science"]
+tags = ["distributive-justice", "retributive-justice", "fairness", "equality", "rawls", "libertarianism"]
+
+[[topics]]
+topic = "Free Will and Responsibility"
+difficulty = "advanced"
+domains = ["Ethics", "Metaphysics"]
+tags = ["determinism", "compatibilism", "moral-luck", "blame", "punishment", "agency"]
+
+[[topics]]
+topic = "AI Ethics"
+difficulty = "intermediate"
+domains = ["Ethics", "Computer Science"]
+tags = ["alignment", "bias", "transparency", "autonomous-weapons", "superintelligence", "privacy"]

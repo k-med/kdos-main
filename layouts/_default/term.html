@@ -1,0 +1,28 @@
+{{ define "main" }}
+<header class="page-header" style="text-align: center; margin-bottom: 2rem;">
+    <h1>{{ .Title }}</h1>
+    <div class="post-description">
+        {{ .Content }}
+    </div>
+</header>
+
+<ul class="post-list">
+    {{ range .Pages.ByTitle }}
+    <li>
+        <div class="entry-wrapper">
+            <a href="{{ .RelPermalink }}" class="kdos-entry-link">{{ .Title }}</a>
+            <span class="entry-meta">
+                {{ with .Params.domains }}
+                {{ range . }}
+                <a href="/domains/{{ . | urlize }}" class="domain-pill domain-{{ . | urlize }}">{{ . }}</a>
+                {{ end }}
+                {{ end }}
+                {{ with .Params.difficulty }}
+                <a href="/difficulty/{{ . | urlize }}" class="difficulty-pill difficulty-{{ . | urlize }}">{{ . }}</a>
+                {{ end }}
+            </span>
+        </div>
+    </li>
+    {{ end }}
+</ul>
+{{ end }}

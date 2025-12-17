@@ -1,0 +1,59 @@
+[[topics]]
+topic = "Time Value of Money"
+difficulty = "beginner"
+domains = ["Finance", "Mathematics"]
+tags = ["present-value", "future-value", "compounding", "discounting", "annuities", "interest-rates"]
+
+[[topics]]
+topic = "Asset Pricing"
+difficulty = "advanced"
+domains = ["Finance", "Economics"]
+tags = ["capm", "arbitrage-pricing-theory", "risk-return", "beta", "valuation", "efficient-market-hypothesis"]
+
+[[topics]]
+topic = "Corporate Finance"
+difficulty = "intermediate"
+domains = ["Finance"]
+tags = ["capital-structure", "dividends", "mergers-acquisitions", "ipo", "financial-statements", "cash-flow"]
+
+[[topics]]
+topic = "Derivatives"
+difficulty = "advanced"
+domains = ["Finance", "Mathematics"]
+tags = ["options", "futures", "swaps", "hedging", "black-scholes", "volatility"]
+
+[[topics]]
+topic = "Portfolio Theory"
+difficulty = "intermediate"
+domains = ["Finance", "Statistics"]
+tags = ["diversification", "modern-portfolio-theory", "efficient-frontier", "asset-allocation", "risk-management", "correlation"]
+
+[[topics]]
+topic = "Financial Markets"
+difficulty = "beginner"
+domains = ["Finance", "Economics"]
+tags = ["stock-market", "bond-market", "forex", "liquidity", "market-microstructure", "exchanges"]
+
+[[topics]]
+topic = "Behavioral Finance"
+difficulty = "intermediate"
+domains = ["Finance", "Psychology"]
+tags = ["investor-psychology", "market-anomalies", "loss-aversion", "overconfidence", "herding", "bubbles"]
+
+[[topics]]
+topic = "Fixed Income"
+difficulty = "intermediate"
+domains = ["Finance"]
+tags = ["bonds", "yield-curve", "duration", "convexity", "credit-risk", "interest-rate-risk"]
+
+[[topics]]
+topic = "Risk Management"
+difficulty = "advanced"
+domains = ["Finance", "Statistics"]
+tags = ["value-at-risk", "stress-testing", "credit-risk", "market-risk", "operational-risk", "basel-accords"]
+
+[[topics]]
+topic = "Personal Finance"
+difficulty = "beginner"
+domains = ["Finance"]
+tags = ["budgeting", "saving", "investing", "retirement-planning", "debt-management", "insurance"]
