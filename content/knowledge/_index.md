@@ -2,8 +2,7 @@
 title: "Knowledge"
 layout: "knowledge-home"
 summary: >
-  A structured, long-lived knowledge archive spanning mathematics,
-  philosophy, engineering, finance, and the sciences.
+  KDOS is a structured, domain-oriented operating system for knowledge — designed for long-term clarity, composability, and AI-assisted synthesis.
 ---
 
 Welcome to **KDOS Knowledge**.
