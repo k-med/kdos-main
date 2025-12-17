@@ -7,7 +7,6 @@ date_created: "2025-12-17"
 last_updated: "2025-12-17"
 domains:
   - "Statistics"
-  - "Data Science"
 tags:
   - "standardization"
   - "normal-distribution"
