@@ -38,6 +38,10 @@ buildExpired = false
   # Treat knowledge as primary content
   mainSections = ["knowledge"]
 
+  [params.homeInfoParams]
+    Title = "KDOS"
+    Content = "Knowledge, Documentation, Ontology System.\n\nA digital garden for structured learning."
+
   [params.fuseOpts]
     isCaseSensitive = false
     shouldSort = true
