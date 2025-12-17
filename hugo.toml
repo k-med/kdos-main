@@ -17,7 +17,7 @@ buildExpired = false
   title = "KDOS"
   description = "Knowledge, Documentation, Ontology System"
   keywords = ["knowledge", "documentation", "ontology", "reference"]
-  author = "Kade Medley"
+  author = "Kade"
 
   ShowReadingTime = true
   ShowShareButtons = false
