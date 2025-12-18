@@ -1,4 +1,26 @@
-# Phenomenology
+---
+title: "Phenomenology"
+slug: "phenomenology"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Philosophy"
+tags:
+  - "husserl"
+  - "experience"
+  - "consciousness"
+  - "intentionality"
+  - "appearance"
+  - "lifeworld"
+difficulty: "advanced"
+reading_time: 5
+summary: "Phenomenology is a philosophical movement (founded by Edmund Husserl) that studies the structures of consciousness and the phenomena that appear in acts of consciousness. In epistemology, it emphasizes the first-person perspective and the way objects \"present\" themselves to us."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Phenomenology is a philosophical movement (founded by Edmund Husserl) that studies the structures of consciousness and the phenomena that appear in acts of consciousness. In epistemology, it emphasizes the first-person perspective and the way objects "present" themselves to us.

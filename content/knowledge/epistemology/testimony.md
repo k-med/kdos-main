@@ -1,4 +1,26 @@
-# Testimony
+---
+title: "Testimony"
+slug: "testimony"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Sociology"
+tags:
+  - "trust"
+  - "authority"
+  - "evidence"
+  - "communication"
+  - "experts"
+  - "social-knowledge"
+difficulty: "intermediate"
+reading_time: 5
+summary: "In epistemology, testimony refers to the transfer of knowledge or belief from one person to another through communication (speech, writing, signals). It is a crucial source of knowledge, as much of what we know comes from others."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 In epistemology, testimony refers to the transfer of knowledge or belief from one person to another through communication (speech, writing, signals). It is a crucial source of knowledge, as much of what we know comes from others.

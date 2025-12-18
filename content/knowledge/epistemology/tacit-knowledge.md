@@ -1,4 +1,26 @@
-# Tacit Knowledge
+---
+title: "Tacit Knowledge"
+slug: "tacit-knowledge"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Psychology"
+tags:
+  - "polanyi"
+  - "skills"
+  - "implicit"
+  - "know-how"
+  - "articulation"
+  - "practice"
+difficulty: "intermediate"
+reading_time: 5
+summary: "Tacit knowledge (or implicit knowledge) is knowledge that is difficult to transfer to another person by means of writing it down or verbalizing it. It is the \"know-how\" that lives in our bodies and habits."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Tacit knowledge (or implicit knowledge) is knowledge that is difficult to transfer to another person by means of writing it down or verbalizing it. It is the "know-how" that lives in our bodies and habits.

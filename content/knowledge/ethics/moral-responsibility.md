@@ -1,4 +1,26 @@
-# Moral Responsibility
+---
+title: "Moral Responsibility"
+slug: "moral-responsibility"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Metaphysics"
+tags:
+  - "free-will"
+  - "determinism"
+  - "blame"
+  - "praise"
+  - "agency"
+  - "causality"
+difficulty: "intermediate"
+reading_time: 5
+summary: "Moral responsibility refers to the status of morally deserving praise, blame, reward, or punishment for an act or omission performed in accordance with one's moral obligations."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Moral responsibility refers to the status of morally deserving praise, blame, reward, or punishment for an act or omission performed in accordance with one's moral obligations.

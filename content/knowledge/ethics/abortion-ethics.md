@@ -1,4 +1,26 @@
-# Abortion Ethics
+---
+title: "Abortion Ethics"
+slug: "abortion-ethics"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Medicine"
+tags:
+  - "personhood"
+  - "rights"
+  - "bodily-autonomy"
+  - "life"
+  - "moral-status"
+  - "controversy"
+difficulty: "intermediate"
+reading_time: 5
+summary: "The ethics of abortion centers on the moral status of the fetus and the rights of the pregnant person. It is one of the most polarized debates in modern society."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 The ethics of abortion centers on the moral status of the fetus and the rights of the pregnant person. It is one of the most polarized debates in modern society.

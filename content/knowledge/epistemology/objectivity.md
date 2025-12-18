@@ -1,4 +1,26 @@
-# Objectivity
+---
+title: "Objectivity"
+slug: "objectivity"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Science"
+tags:
+  - "bias"
+  - "neutrality"
+  - "facts"
+  - "perspective"
+  - "truth"
+  - "standards"
+difficulty: "intermediate"
+reading_time: 5
+summary: "Objectivity is the quality of being true independently of individual subjectivity, bias, or interpretation. In epistemology, it is the ideal of seeing the world \"as it really is,\" rather than how we wish or fear it to be."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Objectivity is the quality of being true independently of individual subjectivity, bias, or interpretation. In epistemology, it is the ideal of seeing the world "as it really is," rather than how we wish or fear it to be.

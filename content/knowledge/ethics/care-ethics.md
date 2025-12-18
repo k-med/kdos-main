@@ -1,4 +1,26 @@
-# Care Ethics
+---
+title: "Care Ethics"
+slug: "care-ethics"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Sociology"
+tags:
+  - "relationships"
+  - "empathy"
+  - "feminism"
+  - "gilligan"
+  - "responsibility"
+  - "context"
+difficulty: "intermediate"
+reading_time: 5
+summary: "Care ethics (or the ethics of care) is a normative ethical theory that holds that moral action centers on interpersonal relationships and care or benevolence as a virtue. It developed as a feminist critique of traditional ethical theories like deontology and utilitarianism."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Care ethics (or the ethics of care) is a normative ethical theory that holds that moral action centers on interpersonal relationships and care or benevolence as a virtue. It developed as a feminist critique of traditional ethical theories like deontology and utilitarianism.

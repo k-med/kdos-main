@@ -1,4 +1,26 @@
-# Altruism
+---
+title: "Altruism"
+slug: "altruism"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Psychology"
+tags:
+  - "selflessness"
+  - "helping"
+  - "evolution"
+  - "empathy"
+  - "charity"
+  - "sacrifice"
+difficulty: "beginner"
+reading_time: 5
+summary: "Altruism is the principle and moral practice of concern for the happiness of other human beings or other animals, resulting in a quality of life both material and spiritual."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Altruism is the principle and moral practice of concern for the happiness of other human beings or other animals, resulting in a quality of life both material and spiritual.

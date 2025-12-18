@@ -1,4 +1,26 @@
-# Moral Relativism
+---
+title: "Moral Relativism"
+slug: "moral-relativism"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Anthropology"
+tags:
+  - "culture"
+  - "subjectivity"
+  - "truth"
+  - "tolerance"
+  - "norms"
+  - "diversity"
+difficulty: "beginner"
+reading_time: 5
+summary: "Moral relativism is the view that moral judgments are true or false only relative to some particular standpoint (for instance, that of a culture or a historical period) and that no standpoint is uniquely privileged over all others."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Moral relativism is the view that moral judgments are true or false only relative to some particular standpoint (for instance, that of a culture or a historical period) and that no standpoint is uniquely privileged over all others.

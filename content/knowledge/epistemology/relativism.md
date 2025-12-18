@@ -1,4 +1,26 @@
-# Relativism
+---
+title: "Relativism"
+slug: "relativism"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Anthropology"
+tags:
+  - "truth"
+  - "culture"
+  - "perspective"
+  - "objectivity"
+  - "validity"
+  - "pluralism"
+difficulty: "beginner"
+reading_time: 5
+summary: "Relativism is the philosophical view that knowledge, truth, and morality exist in relation to culture, society, or historical context, and are not absolute. In epistemology, it suggests that what counts as \"true\" or \"justified\" depends on the framework you are using."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Relativism is the philosophical view that knowledge, truth, and morality exist in relation to culture, society, or historical context, and are not absolute. In epistemology, it suggests that what counts as "true" or "justified" depends on the framework you are using.

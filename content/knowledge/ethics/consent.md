@@ -1,4 +1,26 @@
-# Consent
+---
+title: "Consent"
+slug: "consent"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Law"
+tags:
+  - "agreement"
+  - "autonomy"
+  - "permission"
+  - "sexuality"
+  - "contracts"
+  - "medical"
+difficulty: "beginner"
+reading_time: 5
+summary: "Consent is a fundamental concept in ethics, law, and social philosophy. It is the agreement or permission given by a person to allow something to happen or to do something. It transforms what would otherwise be a violation (like assault or theft) into a permissible act (like surgery or a gift)."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Consent is a fundamental concept in ethics, law, and social philosophy. It is the agreement or permission given by a person to allow something to happen or to do something. It transforms what would otherwise be a violation (like assault or theft) into a permissible act (like surgery or a gift).

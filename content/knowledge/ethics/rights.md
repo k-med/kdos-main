@@ -1,4 +1,26 @@
-# Rights
+---
+title: "Rights"
+slug: "rights"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Law"
+tags:
+  - "liberty"
+  - "claims"
+  - "duties"
+  - "natural-rights"
+  - "human-rights"
+  - "justice"
+difficulty: "beginner"
+reading_time: 5
+summary: "Rights are legal, social, or ethical principles of freedom or entitlement. They are the fundamental normative rules about what is allowed of people or owed to people."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Rights are legal, social, or ethical principles of freedom or entitlement. They are the fundamental normative rules about what is allowed of people or owed to people.

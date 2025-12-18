@@ -1,4 +1,26 @@
-# Memory
+---
+title: "Memory"
+slug: "memory"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Psychology"
+tags:
+  - "recall"
+  - "justification"
+  - "reliability"
+  - "past"
+  - "preservation"
+  - "source"
+difficulty: "intermediate"
+reading_time: 5
+summary: "In epistemology, memory is the faculty of the mind by which information is encoded, stored, and retrieved. The philosophical questions concern whether memory is a distinct source of knowledge (like perception) or merely a way of preserving knowledge acquired in the past."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 In epistemology, memory is the faculty of the mind by which information is encoded, stored, and retrieved. The philosophical questions concern whether memory is a distinct source of knowledge (like perception) or merely a way of preserving knowledge acquired in the past.

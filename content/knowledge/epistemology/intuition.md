@@ -1,4 +1,26 @@
-# Intuition
+---
+title: "Intuition"
+slug: "intuition"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Psychology"
+tags:
+  - "insight"
+  - "immediate-knowledge"
+  - "reason"
+  - "justification"
+  - "feeling"
+  - "cognition"
+difficulty: "beginner"
+reading_time: 5
+summary: "In epistemology, intuition is an immediate form of knowledge or justification that does not rely on conscious reasoning or inference. It is often described as an \"intellectual seeing\" or a \"gut feeling\" that something is true."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 In epistemology, intuition is an immediate form of knowledge or justification that does not rely on conscious reasoning or inference. It is often described as an "intellectual seeing" or a "gut feeling" that something is true.

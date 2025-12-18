@@ -1,4 +1,26 @@
-# Epistemic Normativity
+---
+title: "Epistemic Normativity"
+slug: "epistemic-normativity"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Ethics"
+tags:
+  - "ought"
+  - "rules"
+  - "justification"
+  - "value"
+  - "rationality"
+  - "obligations"
+difficulty: "advanced"
+reading_time: 5
+summary: "Epistemic normativity refers to the \"oughts\" and \"shoulds\" of belief. It deals with the rules or standards that govern correct thinking. Just as ethics tells us how we should act, epistemology tells us how we should believe."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Epistemic normativity refers to the "oughts" and "shoulds" of belief. It deals with the rules or standards that govern correct thinking. Just as ethics tells us how we should act, epistemology tells us how we should believe.

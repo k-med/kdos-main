@@ -1,4 +1,26 @@
-# Pragmatism
+---
+title: "Pragmatism"
+slug: "pragmatism"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Philosophy"
+tags:
+  - "james"
+  - "dewey"
+  - "truth"
+  - "utility"
+  - "action"
+  - "consequences"
+difficulty: "intermediate"
+reading_time: 5
+summary: "Pragmatism is a philosophical tradition (originating in the US) that evaluates theories or beliefs in terms of the success of their practical application. In epistemology, it links truth and justification to utility and action."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Pragmatism is a philosophical tradition (originating in the US) that evaluates theories or beliefs in terms of the success of their practical application. In epistemology, it links truth and justification to utility and action.

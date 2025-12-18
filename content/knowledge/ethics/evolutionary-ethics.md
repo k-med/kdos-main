@@ -1,4 +1,26 @@
-# Evolutionary Ethics
+---
+title: "Evolutionary Ethics"
+slug: "evolutionary-ethics"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Biology"
+tags:
+  - "darwin"
+  - "origins"
+  - "cooperation"
+  - "instinct"
+  - "natural-selection"
+  - "morality"
+difficulty: "advanced"
+reading_time: 5
+summary: "Evolutionary ethics is a field that explores how evolutionary theory can bear on our understanding of ethics and morality. It asks: Did morality evolve? And if so, does that debunk it?"
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Evolutionary ethics is a field that explores how evolutionary theory can bear on our understanding of ethics and morality. It asks: Did morality evolve? And if so, does that debunk it?

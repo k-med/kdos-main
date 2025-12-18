@@ -1,4 +1,26 @@
-# Animal Rights
+---
+title: "Animal Rights"
+slug: "animal-rights"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Biology"
+tags:
+  - "sentience"
+  - "veganism"
+  - "singer"
+  - "welfare"
+  - "speciesism"
+  - "moral-status"
+difficulty: "beginner"
+reading_time: 5
+summary: "Animal rights is the philosophy that non-human animals have moral status and are entitled to certain fundamental rights, such as the right to life and freedom from suffering. It challenges the traditional view that animals exist solely for human use."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Animal rights is the philosophy that non-human animals have moral status and are entitled to certain fundamental rights, such as the right to life and freedom from suffering. It challenges the traditional view that animals exist solely for human use.

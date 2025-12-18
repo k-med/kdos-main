@@ -1,4 +1,26 @@
-# Forgiveness
+---
+title: "Forgiveness"
+slug: "forgiveness"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Psychology"
+tags:
+  - "resentment"
+  - "reconciliation"
+  - "mercy"
+  - "relationships"
+  - "healing"
+  - "wrongdoing"
+difficulty: "beginner"
+reading_time: 5
+summary: "Forgiveness is the intentional and voluntary process by which a victim undergoes a change in feelings and attitude regarding an offense, letting go of negative emotions such as resentment and vengeance."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Forgiveness is the intentional and voluntary process by which a victim undergoes a change in feelings and attitude regarding an offense, letting go of negative emotions such as resentment and vengeance.

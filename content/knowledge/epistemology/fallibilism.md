@@ -1,4 +1,26 @@
-# Fallibilism
+---
+title: "Fallibilism"
+slug: "fallibilism"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Science"
+tags:
+  - "certainty"
+  - "error"
+  - "knowledge"
+  - "peirce"
+  - "inquiry"
+  - "correction"
+difficulty: "beginner"
+reading_time: 5
+summary: "Fallibilism is the epistemological principle that human beings could be wrong about their beliefs, expectations, or understanding of the world. It holds that absolute certainty is impossible for empirical knowledge."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Fallibilism is the epistemological principle that human beings could be wrong about their beliefs, expectations, or understanding of the world. It holds that absolute certainty is impossible for empirical knowledge.

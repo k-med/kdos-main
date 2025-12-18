@@ -1,4 +1,26 @@
-# Contextualism
+---
+title: "Contextualism"
+slug: "contextualism"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Linguistics"
+tags:
+  - "standards"
+  - "knowledge-claims"
+  - "semantics"
+  - "context"
+  - "skepticism"
+  - "meaning"
+difficulty: "intermediate"
+reading_time: 5
+summary: "Epistemic contextualism is the view that the truth conditions of knowledge attributions (sentences like \"S knows that P\") vary depending on the context in which the attribution is made."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Epistemic contextualism is the view that the truth conditions of knowledge attributions (sentences like "S knows that P") vary depending on the context in which the attribution is made.

@@ -1,4 +1,26 @@
-# Self-Knowledge
+---
+title: "Self-Knowledge"
+slug: "self-knowledge"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Psychology"
+tags:
+  - "introspection"
+  - "consciousness"
+  - "access"
+  - "identity"
+  - "mind"
+  - "awareness"
+difficulty: "intermediate"
+reading_time: 5
+summary: "Self-knowledge refers to knowledge of one's own mental states (beliefs, desires, sensations, emotions). It is often thought to be special because it is direct and authoritative in a way that knowledge of the external world or other minds is not."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Self-knowledge refers to knowledge of one's own mental states (beliefs, desires, sensations, emotions). It is often thought to be special because it is direct and authoritative in a way that knowledge of the external world or other minds is not.

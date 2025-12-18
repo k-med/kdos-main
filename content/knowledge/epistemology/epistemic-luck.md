@@ -1,4 +1,26 @@
-# Epistemic Luck
+---
+title: "Epistemic Luck"
+slug: "epistemic-luck"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Logic"
+tags:
+  - "knowledge"
+  - "accident"
+  - "safety"
+  - "sensitivity"
+  - "control"
+  - "definition"
+difficulty: "advanced"
+reading_time: 5
+summary: "Epistemic luck refers to the role of chance in the acquisition of true belief. The central intuition in epistemology is that knowledge is incompatible with luck. If you are right just by accident, you don't \"know.\""
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Epistemic luck refers to the role of chance in the acquisition of true belief. The central intuition in epistemology is that knowledge is incompatible with luck. If you are right just by accident, you don't "know."

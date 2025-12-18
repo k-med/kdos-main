@@ -1,4 +1,26 @@
-# Naturalized Epistemology
+---
+title: "Naturalized Epistemology"
+slug: "naturalized-epistemology"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Psychology"
+tags:
+  - "quine"
+  - "science"
+  - "cognition"
+  - "empirical"
+  - "normativity"
+  - "replacement"
+difficulty: "advanced"
+reading_time: 5
+summary: "Naturalized epistemology is a collection of views that argue epistemology should be closely connected to, or even replaced by, natural science (especially psychology and cognitive science). It was famously proposed by W.V.O. Quine."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Naturalized epistemology is a collection of views that argue epistemology should be closely connected to, or even replaced by, natural science (especially psychology and cognitive science). It was famously proposed by W.V.O. Quine.

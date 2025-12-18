@@ -1,4 +1,26 @@
-# Professional Ethics
+---
+title: "Professional Ethics"
+slug: "professional-ethics"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Sociology"
+tags:
+  - "codes"
+  - "conduct"
+  - "responsibility"
+  - "workplace"
+  - "integrity"
+  - "standards"
+difficulty: "beginner"
+reading_time: 5
+summary: "Professional ethics encompass the personal and corporate standards of behavior expected by professionals. It involves the ethical obligations that people have in virtue of their role as a professional (e.g., doctor, lawyer, engineer)."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Professional ethics encompass the personal and corporate standards of behavior expected by professionals. It involves the ethical obligations that people have in virtue of their role as a professional (e.g., doctor, lawyer, engineer).

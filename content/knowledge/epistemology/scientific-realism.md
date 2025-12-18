@@ -1,4 +1,26 @@
-# Scientific Realism
+---
+title: "Scientific Realism"
+slug: "scientific-realism"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Science"
+tags:
+  - "truth"
+  - "unobservables"
+  - "theories"
+  - "success"
+  - "miracle-argument"
+  - "ontology"
+difficulty: "advanced"
+reading_time: 5
+summary: "Scientific realism is the view that the universe described by science is real regardless of how it may be interpreted. It holds that mature scientific theories are approximately true descriptions of both observable and unobservable aspects of the mind-independent world."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Scientific realism is the view that the universe described by science is real regardless of how it may be interpreted. It holds that mature scientific theories are approximately true descriptions of both observable and unobservable aspects of the mind-independent world.

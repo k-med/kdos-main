@@ -1,4 +1,26 @@
-# Moral Luck
+---
+title: "Moral Luck"
+slug: "moral-luck"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Philosophy"
+tags:
+  - "control"
+  - "blame"
+  - "nagel"
+  - "williams"
+  - "circumstance"
+  - "responsibility"
+difficulty: "advanced"
+reading_time: 5
+summary: "Moral luck describes circumstances whereby a moral agent is assigned moral blame or praise for an action or its consequences even if it is clear that said agent did not have full control over either the action or its consequences."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Moral luck describes circumstances whereby a moral agent is assigned moral blame or praise for an action or its consequences even if it is clear that said agent did not have full control over either the action or its consequences.

@@ -1,4 +1,26 @@
-# Feminist Epistemology
+---
+title: "Feminist Epistemology"
+slug: "feminist-epistemology"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Sociology"
+tags:
+  - "standpoint-theory"
+  - "situated-knowledge"
+  - "gender"
+  - "objectivity"
+  - "power"
+  - "bias"
+difficulty: "intermediate"
+reading_time: 5
+summary: "Feminist epistemology is an approach that examines how gender and gendered power relations influence the production, validation, and distribution of knowledge. It challenges the traditional ideal of the \"generic,\" objective knower."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Feminist epistemology is an approach that examines how gender and gendered power relations influence the production, validation, and distribution of knowledge. It challenges the traditional ideal of the "generic," objective knower.

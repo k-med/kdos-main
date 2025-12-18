@@ -1,4 +1,26 @@
-# Moral Realism
+---
+title: "Moral Realism"
+slug: "moral-realism"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Metaphysics"
+tags:
+  - "facts"
+  - "objectivity"
+  - "truth"
+  - "ontology"
+  - "naturalism"
+  - "existence"
+difficulty: "advanced"
+reading_time: 5
+summary: "Moral realism is the meta-ethical view that there are objective moral facts or truths in the world, independent of human opinion or culture."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Moral realism is the meta-ethical view that there are objective moral facts or truths in the world, independent of human opinion or culture.

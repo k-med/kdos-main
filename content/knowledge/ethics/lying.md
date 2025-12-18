@@ -1,4 +1,26 @@
-# Lying
+---
+title: "Lying"
+slug: "lying"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Philosophy"
+tags:
+  - "deception"
+  - "truth"
+  - "kant"
+  - "honesty"
+  - "consequences"
+  - "intent"
+difficulty: "beginner"
+reading_time: 5
+summary: "Lying is the act of making a false statement with the intention to deceive. The ethics of lying is one of the oldest debates in philosophy."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Lying is the act of making a false statement with the intention to deceive. The ethics of lying is one of the oldest debates in philosophy.

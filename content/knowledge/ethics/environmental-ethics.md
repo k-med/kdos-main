@@ -1,4 +1,26 @@
-# Environmental Ethics
+---
+title: "Environmental Ethics"
+slug: "environmental-ethics"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Environment"
+tags:
+  - "nature"
+  - "sustainability"
+  - "animals"
+  - "climate-change"
+  - "value"
+  - "responsibility"
+difficulty: "beginner"
+reading_time: 5
+summary: "Environmental ethics is the discipline in philosophy that studies the moral relationship of human beings to, and also the value and moral status of, the environment and its non-human contents."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Environmental ethics is the discipline in philosophy that studies the moral relationship of human beings to, and also the value and moral status of, the environment and its non-human contents.

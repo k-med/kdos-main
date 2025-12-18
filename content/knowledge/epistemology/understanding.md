@@ -1,4 +1,26 @@
-# Understanding
+---
+title: "Understanding"
+slug: "understanding"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Education"
+tags:
+  - "knowledge"
+  - "explanation"
+  - "grasping"
+  - "insight"
+  - "value"
+  - "depth"
+difficulty: "intermediate"
+reading_time: 5
+summary: "In recent years, epistemologists have begun to focus on \"understanding\" as a distinct and perhaps higher epistemic goal than knowledge. Understanding involves grasping connections, causes, and \"why\" things are the way they are."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 In recent years, epistemologists have begun to focus on "understanding" as a distinct and perhaps higher epistemic goal than knowledge. Understanding involves grasping connections, causes, and "why" things are the way they are.

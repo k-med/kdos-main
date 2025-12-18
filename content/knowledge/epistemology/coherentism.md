@@ -1,4 +1,26 @@
-# Coherentism
+---
+title: "Coherentism"
+slug: "coherentism"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Logic"
+tags:
+  - "justification"
+  - "beliefs"
+  - "system"
+  - "consistency"
+  - "web-of-belief"
+  - "quine"
+difficulty: "advanced"
+reading_time: 5
+summary: "Coherentism is a theory of justification which holds that a belief is justified if and only if it coheres with a system of other beliefs. It rejects the idea that there are \"basic\" beliefs that serve as a foundation for all others."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Coherentism is a theory of justification which holds that a belief is justified if and only if it coheres with a system of other beliefs. It rejects the idea that there are "basic" beliefs that serve as a foundation for all others.

@@ -1,4 +1,26 @@
-# Empiricism
+---
+title: "Empiricism"
+slug: "empiricism"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Philosophy"
+tags:
+  - "experience"
+  - "senses"
+  - "locke"
+  - "hume"
+  - "knowledge"
+  - "observation"
+difficulty: "beginner"
+reading_time: 5
+summary: "Empiricism is a fundamental theory in epistemology which asserts that knowledge comes primarily or solely from sensory experience. It emphasizes the role of empirical evidence in the formation of ideas, rather than innate ideas or traditions. Empiricism stands in contrast to rationalism, which em..."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Empiricism is a fundamental theory in epistemology which asserts that knowledge comes primarily or solely from sensory experience. It emphasizes the role of empirical evidence in the formation of ideas, rather than innate ideas or traditions. Empiricism stands in contrast to rationalism, which emphasizes reason as the source of knowledge.

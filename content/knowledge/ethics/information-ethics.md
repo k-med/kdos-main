@@ -1,4 +1,26 @@
-# Information Ethics
+---
+title: "Information Ethics"
+slug: "information-ethics"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Computer Science"
+tags:
+  - "privacy"
+  - "data"
+  - "surveillance"
+  - "internet"
+  - "access"
+  - "censorship"
+difficulty: "intermediate"
+reading_time: 5
+summary: "Information ethics is the branch of ethics that focuses on the relationship between the creation, organization, dissemination, and use of information, and the ethical standards and moral codes governing human conduct in society."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Information ethics is the branch of ethics that focuses on the relationship between the creation, organization, dissemination, and use of information, and the ethical standards and moral codes governing human conduct in society.

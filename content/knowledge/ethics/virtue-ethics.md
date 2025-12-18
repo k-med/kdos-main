@@ -1,4 +1,26 @@
-# Virtue Ethics
+---
+title: "Virtue Ethics"
+slug: "virtue-ethics"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Philosophy"
+tags:
+  - "character"
+  - "aristotle"
+  - "eudaimonia"
+  - "habits"
+  - "wisdom"
+  - "flourishing"
+difficulty: "intermediate"
+reading_time: 5
+summary: "Virtue ethics is a broad term for theories that emphasize the role of character and virtue in moral philosophy rather than either doing one's duty (deontology) or acting in order to bring about good consequences (consequentialism)."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Virtue ethics is a broad term for theories that emphasize the role of character and virtue in moral philosophy rather than either doing one's duty (deontology) or acting in order to bring about good consequences (consequentialism).

@@ -1,4 +1,26 @@
-# Trust
+---
+title: "Trust"
+slug: "trust"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Sociology"
+tags:
+  - "relationships"
+  - "cooperation"
+  - "betrayal"
+  - "reliability"
+  - "social-capital"
+  - "confidence"
+difficulty: "beginner"
+reading_time: 5
+summary: "Trust is a reliance on the integrity, strength, ability, or surety of a person or thing. In ethics, it is the glue that holds society together."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Trust is a reliance on the integrity, strength, ability, or surety of a person or thing. In ethics, it is the glue that holds society together.

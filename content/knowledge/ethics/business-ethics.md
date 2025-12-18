@@ -1,4 +1,26 @@
-# Business Ethics
+---
+title: "Business Ethics"
+slug: "business-ethics"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Economics"
+tags:
+  - "corporate-responsibility"
+  - "profit"
+  - "stakeholders"
+  - "fairness"
+  - "corruption"
+  - "markets"
+difficulty: "beginner"
+reading_time: 5
+summary: "Business ethics (also corporate ethics) is a form of applied ethics or professional ethics that examines ethical principles and moral or ethical problems that arise in a business environment."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Business ethics (also corporate ethics) is a form of applied ethics or professional ethics that examines ethical principles and moral or ethical problems that arise in a business environment.

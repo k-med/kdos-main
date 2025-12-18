@@ -1,4 +1,26 @@
-# Epistemic Injustice
+---
+title: "Epistemic Injustice"
+slug: "epistemic-injustice"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Ethics"
+tags:
+  - "fricker"
+  - "testimonial-injustice"
+  - "hermeneutical-injustice"
+  - "power"
+  - "marginalization"
+  - "credibility"
+difficulty: "intermediate"
+reading_time: 5
+summary: "Epistemic injustice refers to a wrong done to someone specifically in their capacity as a knower. Coined by Miranda Fricker, it highlights how prejudice can harm people's ability to convey knowledge or make sense of their own experiences."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Epistemic injustice refers to a wrong done to someone specifically in their capacity as a knower. Coined by Miranda Fricker, it highlights how prejudice can harm people's ability to convey knowledge or make sense of their own experiences.

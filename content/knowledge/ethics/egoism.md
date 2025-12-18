@@ -1,4 +1,26 @@
-# Egoism
+---
+title: "Egoism"
+slug: "egoism"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Psychology"
+tags:
+  - "self-interest"
+  - "rand"
+  - "motivation"
+  - "altruism"
+  - "rationality"
+  - "benefit"
+difficulty: "beginner"
+reading_time: 5
+summary: "Egoism is an ethical theory that treats self-interest as the foundation of morality. It comes in two main forms: Psychological Egoism (we *always* act in self-interest) and Ethical Egoism (we *ought* to act in self-interest)."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Egoism is an ethical theory that treats self-interest as the foundation of morality. It comes in two main forms: Psychological Egoism (we *always* act in self-interest) and Ethical Egoism (we *ought* to act in self-interest).

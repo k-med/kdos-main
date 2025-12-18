@@ -1,4 +1,26 @@
-# Evidence
+---
+title: "Evidence"
+slug: "evidence"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Law"
+tags:
+  - "support"
+  - "proof"
+  - "justification"
+  - "probability"
+  - "confirmation"
+  - "data"
+difficulty: "beginner"
+reading_time: 5
+summary: "Evidence is the information or data that supports a belief or proposition. In epistemology, it is the currency of justification. The central question is: What constitutes evidence, and how does it justify belief?"
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Evidence is the information or data that supports a belief or proposition. In epistemology, it is the currency of justification. The central question is: What constitutes evidence, and how does it justify belief?

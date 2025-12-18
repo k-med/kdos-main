@@ -1,4 +1,26 @@
-# Euthanasia
+---
+title: "Euthanasia"
+slug: "euthanasia"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Medicine"
+tags:
+  - "death"
+  - "autonomy"
+  - "suffering"
+  - "assisted-suicide"
+  - "dignity"
+  - "law"
+difficulty: "intermediate"
+reading_time: 5
+summary: "Euthanasia (from Greek \"good death\") is the practice of intentionally ending a life to relieve pain and suffering. It is a central topic in bioethics, raising questions about autonomy, the value of life, and the role of medicine."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Euthanasia (from Greek "good death") is the practice of intentionally ending a life to relieve pain and suffering. It is a central topic in bioethics, raising questions about autonomy, the value of life, and the role of medicine.

@@ -1,4 +1,26 @@
-# Divine Command Theory
+---
+title: "Divine Command Theory"
+slug: "divine-command-theory"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Theology"
+tags:
+  - "god"
+  - "morality"
+  - "religion"
+  - "authority"
+  - "euthyphro"
+  - "obedience"
+difficulty: "intermediate"
+reading_time: 5
+summary: "Divine Command Theory (DCT) is a meta-ethical theory which proposes that an action's status as morally good or bad is equivalent to whether it is commanded or forbidden by God."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Divine Command Theory (DCT) is a meta-ethical theory which proposes that an action's status as morally good or bad is equivalent to whether it is commanded or forbidden by God.

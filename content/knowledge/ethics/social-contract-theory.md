@@ -1,4 +1,26 @@
-# Social Contract Theory
+---
+title: "Social Contract Theory"
+slug: "social-contract-theory"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Political Science"
+tags:
+  - "hobbes"
+  - "locke"
+  - "rousseau"
+  - "agreement"
+  - "society"
+  - "authority"
+difficulty: "intermediate"
+reading_time: 5
+summary: "Social Contract Theory is the view that moral and political obligations are dependent upon a contract or agreement among them to form the society in which they live."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Social Contract Theory is the view that moral and political obligations are dependent upon a contract or agreement among them to form the society in which they live.

@@ -1,4 +1,26 @@
-# Gettier Problems
+---
+title: "Gettier Problems"
+slug: "gettier-problems"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Logic"
+tags:
+  - "jtb"
+  - "knowledge"
+  - "counterexamples"
+  - "luck"
+  - "definition"
+  - "analysis"
+difficulty: "intermediate"
+reading_time: 5
+summary: "Gettier problems are a set of thought experiments introduced by Edmund Gettier in 1963 that challenged the traditional definition of knowledge as Justified True Belief (JTB). They demonstrate cases where a person has a justified true belief that intuitively does not count as knowledge."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Gettier problems are a set of thought experiments introduced by Edmund Gettier in 1963 that challenged the traditional definition of knowledge as Justified True Belief (JTB). They demonstrate cases where a person has a justified true belief that intuitively does not count as knowledge.

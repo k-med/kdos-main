@@ -1,4 +1,26 @@
-# Supererogation
+---
+title: "Supererogation"
+slug: "supererogation"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Theology"
+tags:
+  - "heroism"
+  - "duty"
+  - "saint"
+  - "beyond-call"
+  - "praise"
+  - "obligation"
+difficulty: "advanced"
+reading_time: 5
+summary: "Supererogation refers to acts that are morally good but not (strictly) required. They go \"above and beyond the call of duty.\""
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Supererogation refers to acts that are morally good but not (strictly) required. They go "above and beyond the call of duty."

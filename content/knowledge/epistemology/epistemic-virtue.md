@@ -1,4 +1,26 @@
-# Epistemic Virtue
+---
+title: "Epistemic Virtue"
+slug: "epistemic-virtue"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Ethics"
+tags:
+  - "character"
+  - "intellectual-virtues"
+  - "open-mindedness"
+  - "curiosity"
+  - "humility"
+  - "zagzebski"
+difficulty: "beginner"
+reading_time: 5
+summary: "Epistemic virtue is an approach to epistemology that focuses on the intellectual character of the knower rather than just the properties of beliefs (like justification). It parallels virtue ethics by emphasizing traits that promote intellectual flourishing."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Epistemic virtue is an approach to epistemology that focuses on the intellectual character of the knower rather than just the properties of beliefs (like justification). It parallels virtue ethics by emphasizing traits that promote intellectual flourishing.

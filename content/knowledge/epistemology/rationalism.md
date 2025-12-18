@@ -1,4 +1,26 @@
-# Rationalism
+---
+title: "Rationalism"
+slug: "rationalism"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Philosophy"
+tags:
+  - "reason"
+  - "descartes"
+  - "leibniz"
+  - "innate-ideas"
+  - "logic"
+  - "deduction"
+difficulty: "beginner"
+reading_time: 5
+summary: "Rationalism is an epistemological view that regards reason as the chief source and test of knowledge. Rationalists believe that reality has an intrinsically logical structure and that certain truths exist that the intellect can grasp directly."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Rationalism is an epistemological view that regards reason as the chief source and test of knowledge. Rationalists believe that reality has an intrinsically logical structure and that certain truths exist that the intellect can grasp directly.

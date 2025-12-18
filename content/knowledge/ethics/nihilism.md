@@ -1,4 +1,26 @@
-# Nihilism
+---
+title: "Nihilism"
+slug: "nihilism"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Philosophy"
+tags:
+  - "meaning"
+  - "values"
+  - "nietzsche"
+  - "nothingness"
+  - "skepticism"
+  - "existentialism"
+difficulty: "intermediate"
+reading_time: 5
+summary: "Nihilism is the philosophical view that life is without objective meaning, purpose, or intrinsic value. In ethics, moral nihilism is the view that nothing is morally right or wrong."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Nihilism is the philosophical view that life is without objective meaning, purpose, or intrinsic value. In ethics, moral nihilism is the view that nothing is morally right or wrong.

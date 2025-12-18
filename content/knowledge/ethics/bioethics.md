@@ -1,4 +1,26 @@
-# Bioethics
+---
+title: "Bioethics"
+slug: "bioethics"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Biology"
+tags:
+  - "technology"
+  - "genetics"
+  - "cloning"
+  - "enhancement"
+  - "crispr"
+  - "medicine"
+difficulty: "intermediate"
+reading_time: 5
+summary: "Bioethics is the study of the ethical issues emerging from advances in biology and medicine. It is a multidisciplinary field combining philosophy, theology, law, and medicine."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Bioethics is the study of the ethical issues emerging from advances in biology and medicine. It is a multidisciplinary field combining philosophy, theology, law, and medicine.

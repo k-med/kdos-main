@@ -1,4 +1,26 @@
-# Disagreement
+---
+title: "Disagreement"
+slug: "disagreement"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Ethics"
+tags:
+  - "peers"
+  - "rationality"
+  - "consensus"
+  - "conflict"
+  - "judgment"
+  - "tolerance"
+difficulty: "intermediate"
+reading_time: 5
+summary: "The epistemology of disagreement asks: What should I do when I discover that an \"epistemic peer\" (someone just as smart and well-informed as I am) disagrees with me? Should I stick to my guns or lower my confidence?"
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 The epistemology of disagreement asks: What should I do when I discover that an "epistemic peer" (someone just as smart and well-informed as I am) disagrees with me? Should I stick to my guns or lower my confidence?

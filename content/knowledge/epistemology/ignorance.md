@@ -1,4 +1,26 @@
-# Ignorance
+---
+title: "Ignorance"
+slug: "ignorance"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Sociology"
+tags:
+  - "agnotology"
+  - "secrecy"
+  - "knowledge"
+  - "unknowns"
+  - "bias"
+  - "blind-spots"
+difficulty: "intermediate"
+reading_time: 5
+summary: "Ignorance is the lack of knowledge or information. Traditionally seen as a mere void, recent work (Agnotology) studies ignorance as a substantive phenomenon—something that is often actively constructed, maintained, or strategically used."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Ignorance is the lack of knowledge or information. Traditionally seen as a mere void, recent work (Agnotology) studies ignorance as a substantive phenomenon—something that is often actively constructed, maintained, or strategically used.

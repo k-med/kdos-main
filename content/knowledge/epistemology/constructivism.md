@@ -1,4 +1,26 @@
-# Constructivism
+---
+title: "Constructivism"
+slug: "constructivism"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Sociology"
+tags:
+  - "social-construction"
+  - "reality"
+  - "knowledge"
+  - "culture"
+  - "relativism"
+  - "interaction"
+difficulty: "intermediate"
+reading_time: 5
+summary: "In epistemology, constructivism is the view that knowledge (and sometimes reality itself) is not just \"discovered\" but is actively \"constructed\" by human beings through social practices, language, and culture."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 In epistemology, constructivism is the view that knowledge (and sometimes reality itself) is not just "discovered" but is actively "constructed" by human beings through social practices, language, and culture.

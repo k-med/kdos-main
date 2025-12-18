@@ -1,4 +1,26 @@
-# Moral Dilemmas
+---
+title: "Moral Dilemmas"
+slug: "moral-dilemmas"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Logic"
+tags:
+  - "trolley-problem"
+  - "conflict"
+  - "choices"
+  - "intuition"
+  - "reasoning"
+  - "scenarios"
+difficulty: "beginner"
+reading_time: 5
+summary: "A moral dilemma is a situation in which an agent has moral reasons to do each of two actions, but doing both is impossible. Thus, the agent seems condemned to moral failure no matter what they do."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 A moral dilemma is a situation in which an agent has moral reasons to do each of two actions, but doing both is impossible. Thus, the agent seems condemned to moral failure no matter what they do.

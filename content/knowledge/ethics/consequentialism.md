@@ -1,4 +1,26 @@
-# Consequentialism
+---
+title: "Consequentialism"
+slug: "consequentialism"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Philosophy"
+tags:
+  - "outcomes"
+  - "utility"
+  - "mill"
+  - "good"
+  - "actions"
+  - "calculation"
+difficulty: "intermediate"
+reading_time: 5
+summary: "Consequentialism is a class of normative ethical theories holding that the consequences of one's conduct are the ultimate basis for any judgment about the rightness or wrongness of that conduct."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Consequentialism is a class of normative ethical theories holding that the consequences of one's conduct are the ultimate basis for any judgment about the rightness or wrongness of that conduct.

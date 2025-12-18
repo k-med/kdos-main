@@ -1,4 +1,26 @@
-# Global Justice
+---
+title: "Global Justice"
+slug: "global-justice"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Political Science"
+tags:
+  - "poverty"
+  - "inequality"
+  - "cosmopolitanism"
+  - "aid"
+  - "borders"
+  - "rights"
+difficulty: "intermediate"
+reading_time: 5
+summary: "Global justice is an issue in political philosophy arising from the concern that the world is unjust. It focuses on the moral obligations we have to people across national borders."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Global justice is an issue in political philosophy arising from the concern that the world is unjust. It focuses on the moral obligations we have to people across national borders.

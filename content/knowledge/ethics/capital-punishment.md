@@ -1,4 +1,26 @@
-# Capital Punishment
+---
+title: "Capital Punishment"
+slug: "capital-punishment"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Ethics"
+  - "Law"
+tags:
+  - "justice"
+  - "retribution"
+  - "deterrence"
+  - "death-penalty"
+  - "rights"
+  - "state"
+difficulty: "intermediate"
+reading_time: 5
+summary: "Capital punishment (the death penalty) is the state-sanctioned killing of a person as punishment for a crime. The ethical debate focuses on justice, deterrence, and human rights."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Capital punishment (the death penalty) is the state-sanctioned killing of a person as punishment for a crime. The ethical debate focuses on justice, deterrence, and human rights.

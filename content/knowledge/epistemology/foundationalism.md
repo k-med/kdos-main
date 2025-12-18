@@ -1,4 +1,26 @@
-# Foundationalism
+---
+title: "Foundationalism"
+slug: "foundationalism"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Logic"
+tags:
+  - "basic-beliefs"
+  - "justification"
+  - "regress"
+  - "structure"
+  - "certainty"
+  - "axioms"
+difficulty: "advanced"
+reading_time: 5
+summary: "Foundationalism is a theory of epistemic justification which posits that there are two types of beliefs: basic beliefs (which are self-justifying or justified non-inferentially) and non-basic beliefs (which derive their justification from basic beliefs)."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Foundationalism is a theory of epistemic justification which posits that there are two types of beliefs: basic beliefs (which are self-justifying or justified non-inferentially) and non-basic beliefs (which derive their justification from basic beliefs).

@@ -1,4 +1,26 @@
-# Internalism vs Externalism
+---
+title: "Internalism vs Externalism"
+slug: "internalism-vs-externalism"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Philosophy"
+tags:
+  - "justification"
+  - "access"
+  - "reliability"
+  - "mental-states"
+  - "process"
+  - "debate"
+difficulty: "advanced"
+reading_time: 5
+summary: "The debate between internalism and externalism in epistemology concerns the conditions for epistemic justification. It asks whether the factors that justify a belief must be accessible to the believer's mind (internalism) or if they can depend on external factors like the reliability of the cogni..."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 The debate between internalism and externalism in epistemology concerns the conditions for epistemic justification. It asks whether the factors that justify a belief must be accessible to the believer's mind (internalism) or if they can depend on external factors like the reliability of the cognitive process (externalism).

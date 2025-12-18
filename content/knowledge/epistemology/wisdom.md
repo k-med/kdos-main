@@ -1,4 +1,26 @@
-# Wisdom
+---
+title: "Wisdom"
+slug: "wisdom"
+type: "knowledge"
+status: "draft"
+date_created: "2025-12-18"
+last_updated: "2025-12-18"
+domains:
+  - "Epistemology"
+  - "Ethics"
+tags:
+  - "judgment"
+  - "life"
+  - "knowledge"
+  - "virtue"
+  - "practical"
+  - "socrates"
+difficulty: "beginner"
+reading_time: 5
+summary: "Wisdom is often considered the pinnacle of human intellectual and moral development. In epistemology, it is distinguished from mere knowledge or intelligence. It typically involves a deep understanding of the fundamental nature of reality and the ability to apply that understanding to living a go..."
+ai_generated: true
+ai_prompt_version: "kdos-md-v1.0"
+---
 
 ## Overview
 Wisdom is often considered the pinnacle of human intellectual and moral development. In epistemology, it is distinguished from mere knowledge or intelligence. It typically involves a deep understanding of the fundamental nature of reality and the ability to apply that understanding to living a good life.
