@@ -1,0 +1,59 @@
+[[topics]]
+topic = "Strategy vs Tactics"
+difficulty = "beginner"
+domains = ["Military"]
+tags = ["planning", "execution", "goals", "maneuver", "logistics", "scale"]
+
+[[topics]]
+topic = "Sun Tzu"
+difficulty = "intermediate"
+domains = ["Military", "Philosophy"]
+tags = ["art-of-war", "deception", "knowing-enemy", "winning-without-fighting", "terrain", "leadership"]
+
+[[topics]]
+topic = "Clausewitz"
+difficulty = "advanced"
+domains = ["Military", "Philosophy"]
+tags = ["on-war", "friction", "fog-of-war", "center-of-gravity", "politics", "trinity"]
+
+[[topics]]
+topic = "Logistics"
+difficulty = "intermediate"
+domains = ["Military", "Systems"]
+tags = ["supply-chain", "transportation", "maintenance", "resources", "infrastructure", "mobility"]
+
+[[topics]]
+topic = "Guerrilla Warfare"
+difficulty = "intermediate"
+domains = ["Military", "Political Science"]
+tags = ["insurgency", "asymmetric", "ambush", "sabotage", "irregular", "resistance"]
+
+[[topics]]
+topic = "Naval Warfare"
+difficulty = "intermediate"
+domains = ["Military", "History"]
+tags = ["sea-power", "control-of-sea", "blockade", "amphibious", "fleet", "maritime"]
+
+[[topics]]
+topic = "Air Power"
+difficulty = "intermediate"
+domains = ["Military", "Engineering"]
+tags = ["superiority", "bombing", "reconnaissance", "drones", "aerospace", "mobility"]
+
+[[topics]]
+topic = "Cyber Warfare"
+difficulty = "advanced"
+domains = ["Military", "Computer Science"]
+tags = ["hacking", "information-warfare", "infrastructure", "espionage", "defense", "zero-day"]
+
+[[topics]]
+topic = "Just War Theory"
+difficulty = "advanced"
+domains = ["Military", "Ethics"]
+tags = ["jus-ad-bellum", "jus-in-bello", "proportionality", "discrimination", "last-resort", "morality"]
+
+[[topics]]
+topic = "Nuclear Deterrence"
+difficulty = "advanced"
+domains = ["Military", "Game Theory"]
+tags = ["mutually-assured-destruction", "second-strike", "proliferation", "arms-control", "strategy", "cold-war"]

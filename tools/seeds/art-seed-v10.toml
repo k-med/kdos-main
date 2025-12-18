@@ -1,0 +1,59 @@
+[[topics]]
+topic = "Art History"
+difficulty = "beginner"
+domains = ["Art", "History"]
+tags = ["renaissance", "baroque", "impressionism", "modernism", "movements", "visual-culture"]
+
+[[topics]]
+topic = "Color Theory"
+difficulty = "intermediate"
+domains = ["Art", "Physics"]
+tags = ["hue", "saturation", "value", "complementary", "rgb", "cmyk"]
+
+[[topics]]
+topic = "Composition"
+difficulty = "intermediate"
+domains = ["Art", "Aesthetics"]
+tags = ["balance", "contrast", "emphasis", "movement", "pattern", "rhythm"]
+
+[[topics]]
+topic = "Perspective"
+difficulty = "intermediate"
+domains = ["Art", "Mathematics"]
+tags = ["vanishing-point", "horizon-line", "foreshortening", "depth", "linear-perspective", "atmospheric-perspective"]
+
+[[topics]]
+topic = "Sculpture"
+difficulty = "beginner"
+domains = ["Art"]
+tags = ["3d", "form", "material", "casting", "carving", "modeling"]
+
+[[topics]]
+topic = "Architecture"
+difficulty = "intermediate"
+domains = ["Art", "Engineering"]
+tags = ["design", "structure", "function", "space", "style", "urban-planning"]
+
+[[topics]]
+topic = "Photography"
+difficulty = "beginner"
+domains = ["Art", "Physics"]
+tags = ["light", "exposure", "aperture", "shutter-speed", "composition", "digital"]
+
+[[topics]]
+topic = "Digital Art"
+difficulty = "beginner"
+domains = ["Art", "Computer Science"]
+tags = ["pixels", "vectors", "software", "3d-modeling", "animation", "generative-art"]
+
+[[topics]]
+topic = "Art Criticism"
+difficulty = "advanced"
+domains = ["Art", "Philosophy"]
+tags = ["interpretation", "judgment", "meaning", "context", "formalism", "expressionism"]
+
+[[topics]]
+topic = "The Art Market"
+difficulty = "intermediate"
+domains = ["Art", "Economics"]
+tags = ["galleries", "auctions", "valuation", "collecting", "investment", "provenance"]
