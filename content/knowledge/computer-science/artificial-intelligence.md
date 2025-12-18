@@ -2,62 +2,54 @@
 title: "Artificial Intelligence"
 slug: "artificial-intelligence"
 type: "knowledge"
-status: "draft"
-date_created: "2025-12-18"
-last_updated: "2025-12-18"
-domains:
-  - "Computer Science"
-  - "Statistics"
-tags:
-  - "machine-learning"
-  - "neural-networks"
-  - "search-algorithms"
-  - "knowledge-representation"
-  - "natural-language-processing"
+status: "seed"
+date: 2025-12-18
+domains: ["Computer Science", "Philosophy"]
+tags: ["reasoning", "planning", "learning", "perception", "robotics", "turing-test"]
 difficulty: "intermediate"
-reading_time: 6
-summary: >
-  Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals including humans.
-ai_generated: true
-ai_prompt_version: "kdos-md-v1.0"
+reading_time: "7 mins"
+summary: "The theory and development of computer systems able to perform tasks that normally require human intelligence."
 ---
 
 ## Overview
-AI is the quest to build machines that can think, learn, and perceive. It has moved from symbolic logic ("If A then B") to statistical learning ("Based on 1 million examples, A usually leads to B").
+**Artificial Intelligence (AI)** is the quest to build a brain. It is the science of making machines smart.
 
 ## Core Idea
-**Machine Learning:** Instead of programming the rules explicitly, we give the computer data and let it figure out the rules.
-**Neural Networks:** Algorithms inspired by the human brain, capable of learning complex patterns (Deep Learning).
+The core idea is **Simulation**. Can we simulate the cognitive functions of a human mind (learning, reasoning, problem-solving) in a machine?
 
-## Formal Definition (if applicable)
-**Turing Test:** A test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human.
+## Formal Definition
+The study of "intelligent agents": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals.
 
 ## Intuition
-- **Old AI (Symbolic):** Teaching a computer to play chess by programming every rule and strategy.
-- **New AI (Machine Learning):** Showing a computer 10,000 games of chess and letting it figure out how to win.
+-   **The Calculator vs. The Poet:** A calculator is better than you at math, but it's not "intelligent" in the AI sense. AI aims for the messy, fuzzy stuff: recognizing a face, driving a car, writing a poem.
+-   **Narrow vs. General AI:**
+    -   *Narrow AI (ANI):* Good at one thing (Chess, Spam filtering). We have this now.
+    -   *General AI (AGI):* Good at everything (like a human). We don't have this yet.
 
 ## Examples
-- **ChatGPT:** A Large Language Model (LLM) that predicts the next word in a sentence.
-- **AlphaGo:** An AI that beat the world champion at Go.
-- **Self-Driving Cars:** Using computer vision to navigate.
+-   **Deep Blue:** Beat Kasparov at Chess (1997). (Brute force search).
+-   **AlphaGo:** Beat Lee Sedol at Go (2016). (Deep Learning + Reinforcement Learning).
+-   **ChatGPT:** Generates human-like text. (Large Language Model).
 
 ## Common Misconceptions
-- "AI is conscious." (Current AI is just math—matrix multiplication and probability. It has no feelings or awareness.)
-- "AI will kill us all." (The risk is less "Terminator" and more "algorithmic bias" or "job displacement.")
+-   **Misconception:** AI is conscious.
+    -   **Correction:** Current AI is just math. It doesn't "know" anything; it just predicts the next word or pixel.
+-   **Misconception:** It will kill us all (Terminator).
+    -   **Correction:** The risk is real (Alignment Problem), but it's more about "unintended consequences" than "evil robots."
 
 ## Related Concepts
-- **Supervised Learning:** Learning with labeled data (e.g., "This is a cat").
-- **Unsupervised Learning:** Finding patterns in unlabeled data.
-- **Reinforcement Learning:** Learning by trial and error (rewards/punishments).
+-   **[Machine Learning](file:///home/kdos/Anvil/kdos-main/content/knowledge/computer-science/machine-learning.md):** The current dominant approach to AI.
+-   **[Turing Test](file:///home/kdos/Anvil/kdos-main/content/knowledge/computer-science/turing-test.md):** Can a machine fool a human?
 
 ## Applications
-- **Healthcare:** Diagnosing diseases from X-rays.
-- **Finance:** Fraud detection.
-- **Art:** Generative AI creating images and music.
+-   **Healthcare:** Diagnosing diseases from X-rays.
+-   **Transportation:** Self-driving cars.
+-   **Creativity:** AI art and music.
 
-## Criticism / Limitations
-"Black Box" problem: We often don't know *why* a neural network made a specific decision. Also, AI models can hallucinate (make things up) and perpetuate societal biases.
+## Criticism and Limitations
+-   **Hallucination:** AI models often confidently state falsehoods.
+-   **Job Displacement:** Automation of cognitive labor.
 
 ## Further Reading
-- Russell & Norvig, *Artificial Intelligence: A Modern Approach*
-- Goodfellow et al., *Deep Learning*
+-   *Artificial Intelligence: A Modern Approach* by Russell and Norvig
+-   *Superintelligence* by Nick Bostrom
