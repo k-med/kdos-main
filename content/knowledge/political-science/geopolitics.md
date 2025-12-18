@@ -4,7 +4,7 @@ slug: "geopolitics"
 type: "knowledge"
 status: "seed"
 date: 2025-12-18
-domains: ["Political Science", "Geography"]
+domains: ["Political Science"]
 tags: ["strategy", "resources", "borders", "heartland-theory", "imperialism", "diplomacy"]
 difficulty: "intermediate"
 reading_time: "6 mins"

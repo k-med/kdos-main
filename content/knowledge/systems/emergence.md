@@ -4,7 +4,7 @@ slug: "emergence"
 type: "knowledge"
 status: "seed"
 date: 2025-12-18
-domains: ["Systems", "Philosophy", "Complexity"]
+domains: ["Systems", "Philosophy"]
 tags: ["synergy", "self-organization", "whole-parts", "collective-behavior", "supervenience", "gestalt"]
 difficulty: "intermediate"
 reading_time: "7 mins"

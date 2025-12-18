@@ -4,7 +4,7 @@ slug: "cognitive-psychology"
 type: "knowledge"
 status: "seed"
 date: 2025-12-18
-domains: ["Psychology", "Cognitive Science"]
+domains: ["Psychology"]
 tags: ["memory", "attention", "perception", "language", "problem-solving", "mental-models"]
 difficulty: "intermediate"
 reading_time: "7 mins"

@@ -4,7 +4,7 @@ slug: "neuropsychology"
 type: "knowledge"
 status: "seed"
 date: 2025-12-18
-domains: ["Psychology", "Neuroscience"]
+domains: ["Psychology"]
 tags: ["brain", "lesions", "plasticity", "frontal-lobe", "aphasia", "fmri"]
 difficulty: "advanced"
 reading_time: "7 mins"

@@ -4,7 +4,7 @@ slug: "software-engineering"
 type: "knowledge"
 status: "seed"
 date: 2025-12-18
-domains: ["Computer Science", "Management"]
+domains: ["Computer Science"]
 tags: ["agile", "devops", "testing", "architecture", "design-patterns", "version-control"]
 difficulty: "intermediate"
 reading_time: "7 mins"

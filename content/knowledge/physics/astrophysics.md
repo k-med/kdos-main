@@ -4,7 +4,7 @@ slug: "astrophysics"
 type: "knowledge"
 status: "seed"
 date: 2025-12-18
-domains: ["Physics", "Astronomy"]
+domains: ["Physics"]
 tags: ["stars", "galaxies", "black-holes", "stellar-evolution", "exoplanets", "nucleosynthesis"]
 difficulty: "intermediate"
 reading_time: "7 mins"

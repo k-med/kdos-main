@@ -4,7 +4,7 @@ slug: "aesthetics"
 type: "knowledge"
 status: "seed"
 date: 2025-12-18
-domains: ["Philosophy", "Art"]
+domains: ["Philosophy"]
 tags: ["beauty", "art", "taste", "sublime", "criticism", "perception"]
 difficulty: "intermediate"
 reading_time: "6 mins"

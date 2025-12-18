@@ -4,7 +4,7 @@ slug: "cosmology"
 type: "knowledge"
 status: "seed"
 date: 2025-12-18
-domains: ["Physics", "Astronomy"]
+domains: ["Physics"]
 tags: ["big-bang", "dark-matter", "dark-energy", "inflation", "cmb", "expansion"]
 difficulty: "advanced"
 reading_time: "7 mins"

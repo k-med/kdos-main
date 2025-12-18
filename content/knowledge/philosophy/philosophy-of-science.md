@@ -4,7 +4,7 @@ slug: "philosophy-of-science"
 type: "knowledge"
 status: "seed"
 date: 2025-12-18
-domains: ["Philosophy", "Science"]
+domains: ["Philosophy"]
 tags: ["scientific-method", "falsifiability", "paradigm-shift", "realism", "induction", "demarcation"]
 difficulty: "intermediate"
 reading_time: "7 mins"

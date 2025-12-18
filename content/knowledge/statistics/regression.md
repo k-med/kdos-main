@@ -4,7 +4,7 @@ slug: "regression"
 type: "knowledge"
 status: "seed"
 date: 2025-12-18
-domains: ["Statistics", "Data Science"]
+domains: ["Statistics"]
 tags: ["linear-regression", "correlation", "prediction", "variables", "r-squared", "modeling"]
 difficulty: "intermediate"
 reading_time: "7 mins"

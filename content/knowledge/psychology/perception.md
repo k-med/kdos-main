@@ -4,7 +4,7 @@ slug: "perception"
 type: "knowledge"
 status: "seed"
 date: 2025-12-18
-domains: ["Psychology", "Neuroscience"]
+domains: ["Psychology"]
 tags: ["senses", "vision", "illusion", "gestalt", "bottom-up", "top-down"]
 difficulty: "intermediate"
 reading_time: "7 mins"

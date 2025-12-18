@@ -4,7 +4,7 @@ slug: "gender"
 type: "knowledge"
 status: "seed"
 date: 2025-12-18
-domains: ["Sociology", "Gender Studies"]
+domains: ["Sociology"]
 tags: ["sex", "patriarchy", "feminism", "roles", "identity", "queer-theory"]
 difficulty: "intermediate"
 reading_time: "7 mins"

@@ -4,7 +4,7 @@ slug: "deviance"
 type: "knowledge"
 status: "seed"
 date: 2025-12-18
-domains: ["Sociology", "Criminology"]
+domains: ["Sociology"]
 tags: ["crime", "norms", "stigma", "labeling-theory", "social-control", "anomie"]
 difficulty: "intermediate"
 reading_time: "7 mins"

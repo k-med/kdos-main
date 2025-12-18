@@ -4,7 +4,7 @@ slug: "memory"
 type: "knowledge"
 status: "seed"
 date: 2025-12-18
-domains: ["Psychology", "Neuroscience"]
+domains: ["Psychology"]
 tags: ["amnesia", "hippocampus", "working-memory", "long-term-memory", "encoding", "retrieval"]
 difficulty: "intermediate"
 reading_time: "7 mins"

@@ -4,7 +4,7 @@ slug: "systems-thinking"
 type: "knowledge"
 status: "seed"
 date: 2025-12-18
-domains: ["Systems", "Management"]
+domains: ["Systems"]
 tags: ["holism", "interconnectedness", "feedback-loops", "leverage-points", "mental-models", "sustainability"]
 difficulty: "intermediate"
 reading_time: "7 mins"
