@@ -1,0 +1,31 @@
+{{- with site.Params.homeInfoParams }}
+<article class="first-entry home-info">
+    <header class="entry-header">
+        <h1>{{ .Title | markdownify }}</h1>
+    </header>
+    <div class="entry-content">
+        {{ .Content | markdownify }}
+    </div>
+
+    <!-- Domains List -->
+    <div class="entry-content" style="margin-top: 20px;">
+        <ul class="terms-tags" style="justify-content: center; display: flex; flex-wrap: wrap; gap: 10px; padding: 0;">
+            {{- $type := "domains" }}
+            {{- range $key, $value := (site.GetPage (printf "/%s" $type)).Data.Terms.Alphabetical }}
+            {{- $name := .Name }}
+            {{- $count := .Count }}
+            {{- with site.GetPage (printf "/%s/%s" $type $name) }}
+            <li style="list-style: none; margin: 0;">
+                <a href="{{ .Permalink }}" class="domain-pill domain-{{ $name | urlize }}">{{ .Name }}
+                    <sup><strong><sup>{{ $count }}</sup></strong></sup> </a>
+            </li>
+            {{- end }}
+            {{- end }}
+        </ul>
+    </div>
+
+    <footer class="entry-footer">
+        {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
+    </footer>
+</article>
+{{- end -}}

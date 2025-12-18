@@ -76,6 +76,11 @@ buildExpired = false
   url = "/search/"
   weight = 40
 
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 50
+
 [outputs]
   section = ["HTML", "RSS"]
   home = ["HTML", "RSS", "JSON"]
