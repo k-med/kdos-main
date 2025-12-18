@@ -1,0 +1,179 @@
+[[topics]]
+topic = "Realism"
+difficulty = "intermediate"
+domains = ["Political Science", "International Relations"]
+tags = ["power", "states", "anarchy", "security", "self-interest", "conflict"]
+
+[[topics]]
+topic = "Liberalism"
+difficulty = "intermediate"
+domains = ["Political Science", "International Relations"]
+tags = ["cooperation", "institutions", "democracy", "peace", "trade", "rights"]
+
+[[topics]]
+topic = "Constructivism"
+difficulty = "advanced"
+domains = ["Political Science", "Sociology"]
+tags = ["identity", "norms", "ideas", "social-construction", "culture", "change"]
+
+[[topics]]
+topic = "Game Theory"
+difficulty = "intermediate"
+domains = ["Political Science", "Economics"]
+tags = ["strategy", "decisions", "conflict", "cooperation", "prisoners-dilemma", "rationality"]
+
+[[topics]]
+topic = "Federalism"
+difficulty = "beginner"
+domains = ["Political Science", "Law"]
+tags = ["government", "states", "power", "constitution", "centralization", "autonomy"]
+
+[[topics]]
+topic = "Separation of Powers"
+difficulty = "beginner"
+domains = ["Political Science", "Law"]
+tags = ["checks-and-balances", "branches", "executive", "legislative", "judicial", "constitution"]
+
+[[topics]]
+topic = "Lobbying"
+difficulty = "beginner"
+domains = ["Political Science", "Economics"]
+tags = ["influence", "interest-groups", "policy", "corruption", "advocacy", "legislation"]
+
+[[topics]]
+topic = "Populism"
+difficulty = "intermediate"
+domains = ["Political Science", "Sociology"]
+tags = ["people", "elites", "movements", "democracy", "rhetoric", "leaders"]
+
+[[topics]]
+topic = "Totalitarianism"
+difficulty = "intermediate"
+domains = ["Political Science", "History"]
+tags = ["control", "dictatorship", "ideology", "repression", "state", "propaganda"]
+
+[[topics]]
+topic = "Soft Power"
+difficulty = "intermediate"
+domains = ["Political Science", "International Relations"]
+tags = ["influence", "culture", "diplomacy", "attraction", "nye", "values"]
+
+[[topics]]
+topic = "Bureaucracy"
+difficulty = "intermediate"
+domains = ["Political Science", "Sociology"]
+tags = ["administration", "weber", "efficiency", "rules", "organization", "government"]
+
+[[topics]]
+topic = "Electoral Systems"
+difficulty = "intermediate"
+domains = ["Political Science", "Mathematics"]
+tags = ["voting", "representation", "proportional", "majoritarian", "districts", "parties"]
+
+[[topics]]
+topic = "Political Polarization"
+difficulty = "beginner"
+domains = ["Political Science", "Sociology"]
+tags = ["division", "ideology", "partisanship", "conflict", "media", "society"]
+
+[[topics]]
+topic = "Civil Disobedience"
+difficulty = "beginner"
+domains = ["Political Science", "Ethics"]
+tags = ["protest", "law", "justice", "resistance", "thoreau", "nonviolence"]
+
+[[topics]]
+topic = "Sovereignty"
+difficulty = "intermediate"
+domains = ["Political Science", "International Relations"]
+tags = ["authority", "states", "borders", "independence", "recognition", "power"]
+
+[[topics]]
+topic = "Nationalism"
+difficulty = "beginner"
+domains = ["Political Science", "History"]
+tags = ["identity", "nation", "patriotism", "unity", "conflict", "state"]
+
+[[topics]]
+topic = "The Welfare State"
+difficulty = "intermediate"
+domains = ["Political Science", "Economics"]
+tags = ["social-security", "healthcare", "government", "support", "policy", "equality"]
+
+[[topics]]
+topic = "Feminist Political Theory"
+difficulty = "intermediate"
+domains = ["Political Science", "Sociology"]
+tags = ["gender", "power", "equality", "patriarchy", "rights", "critique"]
+
+[[topics]]
+topic = "Democratic Peace Theory"
+difficulty = "intermediate"
+domains = ["Political Science", "International Relations"]
+tags = ["war", "democracy", "peace", "conflict", "evidence", "kant"]
+
+[[topics]]
+topic = "Political Socialization"
+difficulty = "beginner"
+domains = ["Political Science", "Sociology"]
+tags = ["learning", "values", "family", "education", "beliefs", "citizenship"]
+
+[[topics]]
+topic = "Public Opinion"
+difficulty = "beginner"
+domains = ["Political Science", "Statistics"]
+tags = ["polls", "attitudes", "media", "democracy", "influence", "measurement"]
+
+[[topics]]
+topic = "Terrorism"
+difficulty = "intermediate"
+domains = ["Political Science", "Military"]
+tags = ["violence", "fear", "tactics", "ideology", "security", "non-state-actors"]
+
+[[topics]]
+topic = "Globalization"
+difficulty = "beginner"
+domains = ["Political Science", "Economics"]
+tags = ["interdependence", "trade", "culture", "sovereignty", "integration", "challenges"]
+
+[[topics]]
+topic = "Corruption"
+difficulty = "beginner"
+domains = ["Political Science", "Ethics"]
+tags = ["bribery", "abuse", "power", "governance", "transparency", "trust"]
+
+[[topics]]
+topic = "Social Movements"
+difficulty = "beginner"
+domains = ["Political Science", "Sociology"]
+tags = ["activism", "change", "organization", "protest", "collective-action", "goals"]
+
+[[topics]]
+topic = "Biopolitics"
+difficulty = "advanced"
+domains = ["Political Science", "Philosophy"]
+tags = ["foucault", "life", "power", "population", "control", "bodies"]
+
+[[topics]]
+topic = "Meritocracy"
+difficulty = "intermediate"
+domains = ["Political Science", "Sociology"]
+tags = ["talent", "effort", "inequality", "mobility", "system", "critique"]
+
+[[topics]]
+topic = "Technocracy"
+difficulty = "intermediate"
+domains = ["Political Science", "Technology"]
+tags = ["experts", "governance", "science", "efficiency", "democracy", "management"]
+
+[[topics]]
+topic = "Anarchism"
+difficulty = "intermediate"
+domains = ["Political Science", "Philosophy"]
+tags = ["state", "hierarchy", "freedom", "cooperation", "order", "resistance"]
+
+[[topics]]
+topic = "Fascism"
+difficulty = "intermediate"
+domains = ["Political Science", "History"]
+tags = ["nationalism", "authoritarianism", "dictator", "ideology", "power", "state"]

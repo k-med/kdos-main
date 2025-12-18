@@ -1,0 +1,64 @@
+--- PROMPT FOR STATISTICS ---
+I need to generate 100 new seed topics for the domain 'Statistics'.
+Here is the list of ALL topics that ALREADY EXIST in 'Statistics' (do not generate these):
+```
+- Artificial Intelligence
+- Assessment and Evaluation
+- Bayes
+- Bayes' Theorem
+- Bayesian Epistemology
+- Bayesian Statistics
+- Big Data
+- Central Limit Theorem
+- Confidence Intervals
+- Correlation vs Causation
+- Descriptive Statistics
+- Distributions
+- Econometrics
+- Epidemiology
+- Hypothesis Testing
+- Inductive Logic
+- Inferential Statistics
+- Linear Regression
+- Machine Learning
+- Mean vs Median
+- Mutual Information
+- Normal Distribution
+- P-value
+- Portfolio Theory
+- Probability
+- Regression
+- Risk Management
+- Sampling
+- Sampling Bias
+- Standard Deviation
+- Student
+- Student's t-test
+- Survival Analysis
+- Time Series Analysis
+- Type I and Type II Errors
+- Variance
+- Z-score
+```
+
+Please generate 100 NEW, distinct topics for 'Statistics' that are not in the list above.
+
+CRITICAL INSTRUCTION FOR BREADTH & HOMOGENEITY:
+- Span the WIDEST possible range within this theme/domain.
+- Distribute the topics evenly to cover different aspects (e.g., different eras, different types, different theories).
+- Avoid clustering around a single sub-topic.
+- Ensure maximum distinctness between topics to prevent information overlap.
+
+CRITICAL: You must ONLY use domains from the following allowed list:
+```
+Mathematics, Statistics, Computer Science, Engineering, Physics, Chemistry, Biology, Medicine, Economics, Finance, Philosophy, History, Psychology, Linguistics, Sociology, Anthropology, Law, Political Science, Ethics, Logic, Metaphysics, Epistemology, Aesthetics, Theology, Mythology, Literature, Education, Systems, Information Theory, Meta, Art, Military
+```
+
+Format the output as a TOML file following this schema:
+
+[[topics]]
+topic = "Topic Name"
+difficulty = "beginner" # or intermediate, advanced
+domains = ["Domain", "Related Domain"] # MUST be from the allowed list above
+tags = ["tag1", "tag2", "tag3"]
+

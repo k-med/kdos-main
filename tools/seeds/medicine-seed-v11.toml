@@ -1,0 +1,179 @@
+[[topics]]
+topic = "Placebo Effect"
+difficulty = "intermediate"
+domains = ["Medicine", "Psychology"]
+tags = ["mind-body", "belief", "treatment", "trials", "ethics", "healing"]
+
+[[topics]]
+topic = "Antibiotic Resistance"
+difficulty = "intermediate"
+domains = ["Medicine", "Biology"]
+tags = ["bacteria", "evolution", "public-health", "drugs", "infection", "crisis"]
+
+[[topics]]
+topic = "Vaccines"
+difficulty = "beginner"
+domains = ["Medicine", "Biology"]
+tags = ["immunity", "prevention", "history", "public-health", "mechanism", "disease"]
+
+[[topics]]
+topic = "Personalized Medicine"
+difficulty = "intermediate"
+domains = ["Medicine", "Genetics"]
+tags = ["genomics", "treatment", "precision", "drugs", "biomarkers", "future"]
+
+[[topics]]
+topic = "Telemedicine"
+difficulty = "beginner"
+domains = ["Medicine", "Technology"]
+tags = ["remote-care", "access", "digital-health", "future", "technology", "consultation"]
+
+[[topics]]
+topic = "Global Health"
+difficulty = "intermediate"
+domains = ["Medicine", "Political Science"]
+tags = ["inequality", "pandemics", "access", "who", "policy", "disease"]
+
+[[topics]]
+topic = "Mental Health Stigma"
+difficulty = "beginner"
+domains = ["Medicine", "Sociology"]
+tags = ["awareness", "discrimination", "culture", "barriers", "psychiatry", "society"]
+
+[[topics]]
+topic = "Palliative Care"
+difficulty = "intermediate"
+domains = ["Medicine", "Ethics"]
+tags = ["end-of-life", "comfort", "hospice", "pain-management", "dignity", "support"]
+
+[[topics]]
+topic = "Epidemiology"
+difficulty = "intermediate"
+domains = ["Medicine", "Statistics"]
+tags = ["disease", "patterns", "populations", "transmission", "public-health", "data"]
+
+[[topics]]
+topic = "Surgery"
+difficulty = "beginner"
+domains = ["Medicine", "History"]
+tags = ["procedures", "anesthesia", "technology", "skills", "risks", "intervention"]
+
+[[topics]]
+topic = "Traditional Medicine"
+difficulty = "intermediate"
+domains = ["Medicine", "Anthropology"]
+tags = ["culture", "herbalism", "practices", "history", "alternatives", "healing"]
+
+[[topics]]
+topic = "Pain Management"
+difficulty = "intermediate"
+domains = ["Medicine", "Neuroscience"]
+tags = ["opioids", "chronic-pain", "treatment", "perception", "addiction", "relief"]
+
+[[topics]]
+topic = "Medical Imaging"
+difficulty = "intermediate"
+domains = ["Medicine", "Physics"]
+tags = ["x-ray", "mri", "ct-scan", "ultrasound", "diagnosis", "technology"]
+
+[[topics]]
+topic = "Gene Therapy"
+difficulty = "advanced"
+domains = ["Medicine", "Genetics"]
+tags = ["crispr", "dna", "treatment", "diseases", "ethics", "innovation"]
+
+[[topics]]
+topic = "Nutrition"
+difficulty = "beginner"
+domains = ["Medicine", "Biology"]
+tags = ["diet", "health", "metabolism", "prevention", "nutrients", "lifestyle"]
+
+[[topics]]
+topic = "Addiction"
+difficulty = "intermediate"
+domains = ["Medicine", "Psychology"]
+tags = ["brain", "dependence", "recovery", "substances", "behavior", "treatment"]
+
+[[topics]]
+topic = "Autoimmune Diseases"
+difficulty = "intermediate"
+domains = ["Medicine", "Biology"]
+tags = ["immunity", "inflammation", "body", "chronic", "lupus", "mechanisms"]
+
+[[topics]]
+topic = "Stem Cell Therapy"
+difficulty = "advanced"
+domains = ["Medicine", "Biology"]
+tags = ["regeneration", "research", "potential", "ethics", "tissue", "treatment"]
+
+[[topics]]
+topic = "Public Health Policy"
+difficulty = "intermediate"
+domains = ["Medicine", "Political Science"]
+tags = ["regulations", "prevention", "government", "safety", "populations", "interventions"]
+
+[[topics]]
+topic = "History of Medicine"
+difficulty = "beginner"
+domains = ["Medicine", "History"]
+tags = ["hippocrates", "germ-theory", "discoveries", "practices", "evolution", "science"]
+
+[[topics]]
+topic = "Sleep Medicine"
+difficulty = "beginner"
+domains = ["Medicine", "Neuroscience"]
+tags = ["insomnia", "circadian-rhythms", "health", "disorders", "rest", "brain"]
+
+[[topics]]
+topic = "Forensic Pathology"
+difficulty = "intermediate"
+domains = ["Medicine", "Law"]
+tags = ["autopsy", "death", "investigation", "cause", "evidence", "science"]
+
+[[topics]]
+topic = "Emergency Medicine"
+difficulty = "beginner"
+domains = ["Medicine", "Systems"]
+tags = ["trauma", "triage", "er", "critical-care", "response", "urgency"]
+
+[[topics]]
+topic = "Pharmacogenomics"
+difficulty = "advanced"
+domains = ["Medicine", "Genetics"]
+tags = ["drugs", "dna", "response", "personalization", "metabolism", "efficacy"]
+
+[[topics]]
+topic = "Reproductive Health"
+difficulty = "intermediate"
+domains = ["Medicine", "Sociology"]
+tags = ["fertility", "contraception", "pregnancy", "rights", "health", "biology"]
+
+[[topics]]
+topic = "Nanomedicine"
+difficulty = "advanced"
+domains = ["Medicine", "Engineering"]
+tags = ["delivery", "nanoparticles", "treatment", "diagnosis", "technology", "scale"]
+
+[[topics]]
+topic = "Infectious Diseases"
+difficulty = "beginner"
+domains = ["Medicine", "Biology"]
+tags = ["viruses", "bacteria", "transmission", "outbreaks", "pathogens", "control"]
+
+[[topics]]
+topic = "Medical Education"
+difficulty = "beginner"
+domains = ["Medicine", "Education"]
+tags = ["training", "doctors", "residency", "skills", "curriculum", "profession"]
+
+[[topics]]
+topic = "Geriatrics"
+difficulty = "intermediate"
+domains = ["Medicine", "Sociology"]
+tags = ["aging", "elderly", "care", "diseases", "longevity", "health"]
+
+[[topics]]
+topic = "Alternative Medicine"
+difficulty = "intermediate"
+domains = ["Medicine", "Sociology"]
+tags = ["complementary", "acupuncture", "homeopathy", "skepticism", "practices", "wellness"]

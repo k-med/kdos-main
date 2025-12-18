@@ -1,0 +1,179 @@
+[[topics]]
+topic = "Determinism"
+difficulty = "intermediate"
+domains = ["Metaphysics", "Physics"]
+tags = ["causality", "fate", "free-will", "laplace", "universe", "predictability"]
+
+[[topics]]
+topic = "Substance Dualism"
+difficulty = "intermediate"
+domains = ["Metaphysics", "Philosophy"]
+tags = ["descartes", "mind", "body", "soul", "matter", "interaction"]
+
+[[topics]]
+topic = "Materialism"
+difficulty = "beginner"
+domains = ["Metaphysics", "Physics"]
+tags = ["matter", "physicalism", "reality", "atoms", "science", "existence"]
+
+[[topics]]
+topic = "Idealism"
+difficulty = "intermediate"
+domains = ["Metaphysics", "Philosophy"]
+tags = ["berkeley", "mind", "ideas", "perception", "reality", "consciousness"]
+
+[[topics]]
+topic = "Panpsychism"
+difficulty = "advanced"
+domains = ["Metaphysics", "Philosophy"]
+tags = ["consciousness", "matter", "mind", "universe", "experience", "ubiquity"]
+
+[[topics]]
+topic = "Possible Worlds"
+difficulty = "advanced"
+domains = ["Metaphysics", "Logic"]
+tags = ["lewis", "modality", "necessity", "possibility", "counterfactuals", "reality"]
+
+[[topics]]
+topic = "Universals"
+difficulty = "advanced"
+domains = ["Metaphysics", "Philosophy"]
+tags = ["properties", "platonism", "nominalism", "types", "instantiation", "abstract"]
+
+[[topics]]
+topic = "Personal Identity"
+difficulty = "intermediate"
+domains = ["Metaphysics", "Psychology"]
+tags = ["self", "memory", "continuity", "change", "persistence", "locke"]
+
+[[topics]]
+topic = "The Problem of Evil"
+difficulty = "intermediate"
+domains = ["Metaphysics", "Theology"]
+tags = ["god", "suffering", "theodicy", "omnipotence", "benevolence", "existence"]
+
+[[topics]]
+topic = "Mereology"
+difficulty = "advanced"
+domains = ["Metaphysics", "Logic"]
+tags = ["parts", "wholes", "composition", "parthood", "structure", "ontology"]
+
+[[topics]]
+topic = "Process Philosophy"
+difficulty = "advanced"
+domains = ["Metaphysics", "Philosophy"]
+tags = ["whitehead", "becoming", "events", "change", "flux", "reality"]
+
+[[topics]]
+topic = "Solipsism"
+difficulty = "beginner"
+domains = ["Metaphysics", "Epistemology"]
+tags = ["self", "mind", "skepticism", "existence", "isolation", "reality"]
+
+[[topics]]
+topic = "Emergence"
+difficulty = "intermediate"
+domains = ["Metaphysics", "Systems"]
+tags = ["complexity", "properties", "levels", "reductionism", "novelty", "whole"]
+
+[[topics]]
+topic = "Existentialism"
+difficulty = "beginner"
+domains = ["Metaphysics", "Philosophy"]
+tags = ["sartre", "freedom", "meaning", "absurdity", "existence", "essence"]
+
+[[topics]]
+topic = "Nihilism"
+difficulty = "beginner"
+domains = ["Metaphysics", "Ethics"]
+tags = ["meaninglessness", "values", "nietzsche", "nothingness", "belief", "purpose"]
+
+[[topics]]
+topic = "Fatalism"
+difficulty = "beginner"
+domains = ["Metaphysics", "Philosophy"]
+tags = ["destiny", "inevitability", "future", "control", "events", "time"]
+
+[[topics]]
+topic = "The Ship of Theseus"
+difficulty = "beginner"
+domains = ["Metaphysics", "Philosophy"]
+tags = ["identity", "change", "parts", "paradox", "persistence", "objects"]
+
+[[topics]]
+topic = "Simulacra"
+difficulty = "advanced"
+domains = ["Metaphysics", "Sociology"]
+tags = ["baudrillard", "representation", "reality", "copies", "hyperreality", "signs"]
+
+[[topics]]
+topic = "Qualia"
+difficulty = "intermediate"
+domains = ["Metaphysics", "Psychology"]
+tags = ["consciousness", "experience", "subjectivity", "sensation", "feeling", "mind"]
+
+[[topics]]
+topic = "Supervenience"
+difficulty = "advanced"
+domains = ["Metaphysics", "Philosophy"]
+tags = ["dependence", "properties", "levels", "physicalism", "relations", "ontology"]
+
+[[topics]]
+topic = "Presentism"
+difficulty = "advanced"
+domains = ["Metaphysics", "Physics"]
+tags = ["time", "now", "past", "future", "existence", "theory"]
+
+[[topics]]
+topic = "Eternalism"
+difficulty = "advanced"
+domains = ["Metaphysics", "Physics"]
+tags = ["block-universe", "time", "relativity", "existence", "dimensions", "space-time"]
+
+[[topics]]
+topic = "Bundle Theory"
+difficulty = "advanced"
+domains = ["Metaphysics", "Philosophy"]
+tags = ["hume", "objects", "properties", "substance", "identity", "collection"]
+
+[[topics]]
+topic = "Tropes"
+difficulty = "advanced"
+domains = ["Metaphysics", "Philosophy"]
+tags = ["properties", "particulars", "universals", "abstract", "concrete", "ontology"]
+
+[[topics]]
+topic = "Haecceity"
+difficulty = "advanced"
+domains = ["Metaphysics", "Philosophy"]
+tags = ["thisness", "individuality", "scotus", "essence", "identity", "particularity"]
+
+[[topics]]
+topic = "Monism"
+difficulty = "intermediate"
+domains = ["Metaphysics", "Philosophy"]
+tags = ["oneness", "spinoza", "substance", "reality", "unity", "pluralism"]
+
+[[topics]]
+topic = "Pluralism"
+difficulty = "intermediate"
+domains = ["Metaphysics", "Political Science"]
+tags = ["diversity", "reality", "multiple", "james", "perspectives", "truth"]
+
+[[topics]]
+topic = "Cosmological Argument"
+difficulty = "intermediate"
+domains = ["Metaphysics", "Theology"]
+tags = ["cause", "god", "universe", "existence", "aquinas", "origins"]
+
+[[topics]]
+topic = "Ontological Argument"
+difficulty = "intermediate"
+domains = ["Metaphysics", "Theology"]
+tags = ["anselm", "god", "existence", "logic", "perfection", "reason"]
+
+[[topics]]
+topic = "Virtual Reality"
+difficulty = "beginner"
+domains = ["Metaphysics", "Computer Science"]
+tags = ["simulation", "experience", "digital", "immersion", "perception", "worlds"]

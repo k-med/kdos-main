@@ -1,0 +1,41 @@
+--- PROMPT FOR AESTHETICS ---
+I need to generate 100 new seed topics for the domain 'Aesthetics'.
+Here is the list of ALL topics that ALREADY EXIST in 'Aesthetics' (do not generate these):
+```
+- Aesthetic Experience
+- Art
+- Beauty
+- Composition
+- Drama
+- Environmental Aesthetics
+- Mimesis
+- Narrative
+- Philosophy of Music
+- Poetry
+- Renaissance
+- Taste
+- The Sublime
+- Tragedy
+```
+
+Please generate 100 NEW, distinct topics for 'Aesthetics' that are not in the list above.
+
+CRITICAL INSTRUCTION FOR BREADTH & HOMOGENEITY:
+- Span the WIDEST possible range within this theme/domain.
+- Distribute the topics evenly to cover different aspects (e.g., different eras, different types, different theories).
+- Avoid clustering around a single sub-topic.
+- Ensure maximum distinctness between topics to prevent information overlap.
+
+CRITICAL: You must ONLY use domains from the following allowed list:
+```
+Mathematics, Statistics, Computer Science, Engineering, Physics, Chemistry, Biology, Medicine, Economics, Finance, Philosophy, History, Psychology, Linguistics, Sociology, Anthropology, Law, Political Science, Ethics, Logic, Metaphysics, Epistemology, Aesthetics, Theology, Mythology, Literature, Education, Systems, Information Theory, Meta, Art, Military
+```
+
+Format the output as a TOML file following this schema:
+
+[[topics]]
+topic = "Topic Name"
+difficulty = "beginner" # or intermediate, advanced
+domains = ["Domain", "Related Domain"] # MUST be from the allowed list above
+tags = ["tag1", "tag2", "tag3"]
+

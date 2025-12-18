@@ -1,0 +1,179 @@
+[[topics]]
+topic = "Universal Grammar"
+difficulty = "intermediate"
+domains = ["Linguistics", "Psychology"]
+tags = ["chomsky", "syntax", "innateness", "language-acquisition", "principles", "parameters"]
+
+[[topics]]
+topic = "Language Families"
+difficulty = "beginner"
+domains = ["Linguistics", "History"]
+tags = ["indo-european", "classification", "ancestry", "evolution", "relationships", "diversity"]
+
+[[topics]]
+topic = "Dialectology"
+difficulty = "beginner"
+domains = ["Linguistics", "Sociology"]
+tags = ["variation", "accents", "geography", "isoglosses", "identity", "speech-communities"]
+
+[[topics]]
+topic = "Corpus Linguistics"
+difficulty = "intermediate"
+domains = ["Linguistics", "Computer Science"]
+tags = ["data", "frequency", "analysis", "text", "patterns", "methodology"]
+
+[[topics]]
+topic = "Forensic Linguistics"
+difficulty = "intermediate"
+domains = ["Linguistics", "Law"]
+tags = ["crime", "authorship", "evidence", "voice-analysis", "legal", "investigation"]
+
+[[topics]]
+topic = "Language Death"
+difficulty = "beginner"
+domains = ["Linguistics", "Anthropology"]
+tags = ["endangered-languages", "preservation", "culture", "loss", "revitalization", "diversity"]
+
+[[topics]]
+topic = "Semiotics"
+difficulty = "intermediate"
+domains = ["Linguistics", "Philosophy"]
+tags = ["signs", "symbols", "saussure", "peirce", "meaning", "communication"]
+
+[[topics]]
+topic = "Pidgins and Creoles"
+difficulty = "intermediate"
+domains = ["Linguistics", "Sociology"]
+tags = ["contact", "hybridity", "grammar", "evolution", "colonialism", "communication"]
+
+[[topics]]
+topic = "Neurolinguistics"
+difficulty = "advanced"
+domains = ["Linguistics", "Biology"]
+tags = ["brain", "aphasia", "brocas-area", "wernickes-area", "processing", "cognition"]
+
+[[topics]]
+topic = "Translation Studies"
+difficulty = "beginner"
+domains = ["Linguistics", "Literature"]
+tags = ["interpretation", "culture", "equivalence", "theory", "practice", "meaning"]
+
+[[topics]]
+topic = "Discourse Analysis"
+difficulty = "intermediate"
+domains = ["Linguistics", "Sociology"]
+tags = ["conversation", "power", "context", "interaction", "speech-acts", "structure"]
+
+[[topics]]
+topic = "Etymology"
+difficulty = "beginner"
+domains = ["Linguistics", "History"]
+tags = ["origins", "words", "evolution", "roots", "change", "meaning"]
+
+[[topics]]
+topic = "Language Acquisition"
+difficulty = "beginner"
+domains = ["Linguistics", "Psychology"]
+tags = ["children", "learning", "development", "stages", "input", "bilingualism"]
+
+[[topics]]
+topic = "Constructed Languages"
+difficulty = "beginner"
+domains = ["Linguistics", "Art"]
+tags = ["conlangs", "esperanto", "klingon", "tolkien", "invention", "creativity"]
+
+[[topics]]
+topic = "Speech Acts"
+difficulty = "intermediate"
+domains = ["Linguistics", "Philosophy"]
+tags = ["austin", "performative", "illocutionary", "pragmatics", "communication", "intent"]
+
+[[topics]]
+topic = "Code-Switching"
+difficulty = "beginner"
+domains = ["Linguistics", "Sociology"]
+tags = ["bilingualism", "identity", "context", "mixing", "social-norms", "communication"]
+
+[[topics]]
+topic = "Lexicography"
+difficulty = "intermediate"
+domains = ["Linguistics", "Education"]
+tags = ["dictionaries", "definitions", "words", "compilation", "usage", "meaning"]
+
+[[topics]]
+topic = "Language Policy"
+difficulty = "intermediate"
+domains = ["Linguistics", "Political Science"]
+tags = ["planning", "official-languages", "rights", "education", "government", "status"]
+
+[[topics]]
+topic = "Sign Languages"
+difficulty = "beginner"
+domains = ["Linguistics", "Sociology"]
+tags = ["deaf-culture", "grammar", "visual-spatial", "asl", "communication", "modality"]
+
+[[topics]]
+topic = "Cognitive Linguistics"
+difficulty = "advanced"
+domains = ["Linguistics", "Psychology"]
+tags = ["metaphor", "embodiment", "categorization", "mind", "meaning", "lakoff"]
+
+[[topics]]
+topic = "Structuralism"
+difficulty = "advanced"
+domains = ["Linguistics", "Philosophy"]
+tags = ["saussure", "system", "relations", "langue", "parole", "theory"]
+
+[[topics]]
+topic = "Generative Grammar"
+difficulty = "advanced"
+domains = ["Linguistics", "Computer Science"]
+tags = ["chomsky", "rules", "syntax", "structure", "trees", "computation"]
+
+[[topics]]
+topic = "Language and Gender"
+difficulty = "intermediate"
+domains = ["Linguistics", "Sociology"]
+tags = ["identity", "dominance", "difference", "speech-styles", "sexism", "discourse"]
+
+[[topics]]
+topic = "Prescriptivism vs Descriptivism"
+difficulty = "beginner"
+domains = ["Linguistics", "Education"]
+tags = ["grammar", "rules", "usage", "standard-language", "correctness", "observation"]
+
+[[topics]]
+topic = "Orthography"
+difficulty = "intermediate"
+domains = ["Linguistics", "History"]
+tags = ["spelling", "writing-systems", "standardization", "scripts", "literacy", "conventions"]
+
+[[topics]]
+topic = "Tone Languages"
+difficulty = "intermediate"
+domains = ["Linguistics", "Music"]
+tags = ["pitch", "meaning", "mandarin", "phonology", "contour", "prosody"]
+
+[[topics]]
+topic = "Language Evolution"
+difficulty = "advanced"
+domains = ["Linguistics", "Biology"]
+tags = ["origins", "adaptation", "communication", "change", "selection", "complexity"]
+
+[[topics]]
+topic = "Onomastics"
+difficulty = "beginner"
+domains = ["Linguistics", "History"]
+tags = ["names", "places", "identity", "origins", "culture", "meaning"]
+
+[[topics]]
+topic = "Bilingualism"
+difficulty = "beginner"
+domains = ["Linguistics", "Psychology"]
+tags = ["cognition", "brain", "fluency", "advantages", "acquisition", "multilingualism"]
+
+[[topics]]
+topic = "Machine Translation"
+difficulty = "intermediate"
+domains = ["Linguistics", "Computer Science"]
+tags = ["google-translate", "algorithms", "neural-networks", "accuracy", "automation", "nlp"]

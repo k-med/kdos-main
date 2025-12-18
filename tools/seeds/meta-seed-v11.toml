@@ -1,0 +1,179 @@
+[[topics]]
+topic = "The Map is Not the Territory"
+difficulty = "intermediate"
+domains = ["Meta", "Epistemology"]
+tags = ["korzybski", "representation", "reality", "models", "abstraction", "semantics"]
+
+[[topics]]
+topic = "Quine's Paradox"
+difficulty = "advanced"
+domains = ["Meta", "Logic"]
+tags = ["self-reference", "language", "sentences", "truth", "logic", "structure"]
+
+[[topics]]
+topic = "Strange Loops"
+difficulty = "advanced"
+domains = ["Meta", "Computer Science"]
+tags = ["hofstadter", "hierarchy", "levels", "consciousness", "self", "systems"]
+
+[[topics]]
+topic = "Metacognition"
+difficulty = "intermediate"
+domains = ["Meta", "Psychology"]
+tags = ["thinking-about-thinking", "awareness", "learning", "reflection", "monitoring", "control"]
+
+[[topics]]
+topic = "The Fourth Wall"
+difficulty = "beginner"
+domains = ["Meta", "Art"]
+tags = ["theater", "fiction", "audience", "breaking", "illusion", "conventions"]
+
+[[topics]]
+topic = "Recursion"
+difficulty = "intermediate"
+domains = ["Meta", "Computer Science"]
+tags = ["self-similarity", "definition", "processes", "structure", "infinity", "patterns"]
+
+[[topics]]
+topic = "Self-Fulfilling Prophecy"
+difficulty = "beginner"
+domains = ["Meta", "Sociology"]
+tags = ["expectations", "outcomes", "belief", "causality", "merton", "feedback"]
+
+[[topics]]
+topic = "Observer Effect"
+difficulty = "intermediate"
+domains = ["Meta", "Physics"]
+tags = ["measurement", "influence", "systems", "perception", "reality", "interaction"]
+
+[[topics]]
+topic = "Paradigm Shifts"
+difficulty = "intermediate"
+domains = ["Meta", "History"]
+tags = ["kuhn", "science", "change", "frameworks", "revolutions", "knowledge"]
+
+[[topics]]
+topic = "Gödel Numbering"
+difficulty = "advanced"
+domains = ["Meta", "Mathematics"]
+tags = ["encoding", "arithmetization", "proofs", "logic", "syntax", "mapping"]
+
+[[topics]]
+topic = "Simulacra and Simulation"
+difficulty = "advanced"
+domains = ["Meta", "Philosophy"]
+tags = ["baudrillard", "reality", "signs", "hyperreality", "copies", "culture"]
+
+[[topics]]
+topic = "Feedback Loops"
+difficulty = "beginner"
+domains = ["Meta", "Systems"]
+tags = ["cybernetics", "causality", "positive", "negative", "regulation", "cycles"]
+
+[[topics]]
+topic = "Emergence"
+difficulty = "intermediate"
+domains = ["Meta", "Systems"]
+tags = ["complexity", "parts", "whole", "properties", "levels", "organization"]
+
+[[topics]]
+topic = "The Anthropic Principle"
+difficulty = "advanced"
+domains = ["Meta", "Physics"]
+tags = ["universe", "observation", "existence", "conditions", "life", "cosmology"]
+
+[[topics]]
+topic = "Infinite Regress"
+difficulty = "intermediate"
+domains = ["Meta", "Logic"]
+tags = ["reasoning", "justification", "chains", "foundations", "turtles", "arguments"]
+
+[[topics]]
+topic = "Meta-Ethics"
+difficulty = "advanced"
+domains = ["Meta", "Ethics"]
+tags = ["morality", "nature", "meaning", "objectivity", "truth", "foundations"]
+
+[[topics]]
+topic = "Second-Order Cybernetics"
+difficulty = "advanced"
+domains = ["Meta", "Systems"]
+tags = ["observation", "systems", "reflexivity", "participation", "control", "von-foerster"]
+
+[[topics]]
+topic = "Autopoiesis"
+difficulty = "advanced"
+domains = ["Meta", "Biology"]
+tags = ["self-creation", "systems", "life", "maturana", "varela", "organization"]
+
+[[topics]]
+topic = "Interdisciplinary Studies"
+difficulty = "beginner"
+domains = ["Meta", "Education"]
+tags = ["integration", "knowledge", "boundaries", "synthesis", "fields", "holism"]
+
+[[topics]]
+topic = "Systems Thinking"
+difficulty = "intermediate"
+domains = ["Meta", "Systems"]
+tags = ["holism", "interconnectedness", "analysis", "complexity", "relationships", "perspective"]
+
+[[topics]]
+topic = "Context"
+difficulty = "beginner"
+domains = ["Meta", "Linguistics"]
+tags = ["meaning", "environment", "interpretation", "situation", "background", "framing"]
+
+[[topics]]
+topic = "Abstraction"
+difficulty = "intermediate"
+domains = ["Meta", "Computer Science"]
+tags = ["simplification", "levels", "models", "details", "generalization", "concepts"]
+
+[[topics]]
+topic = "Ontology"
+difficulty = "advanced"
+domains = ["Meta", "Philosophy"]
+tags = ["being", "existence", "categories", "reality", "classification", "nature"]
+
+[[topics]]
+topic = "Epistemology of Ignorance"
+difficulty = "intermediate"
+domains = ["Meta", "Sociology"]
+tags = ["unknowns", "bias", "blind-spots", "knowledge", "production", "agnotology"]
+
+[[topics]]
+topic = "Consilience"
+difficulty = "advanced"
+domains = ["Meta", "Science"]
+tags = ["unity", "knowledge", "wilson", "convergence", "disciplines", "evidence"]
+
+[[topics]]
+topic = "Pattern Recognition"
+difficulty = "beginner"
+domains = ["Meta", "Psychology"]
+tags = ["perception", "data", "structure", "learning", "identification", "cognition"]
+
+[[topics]]
+topic = "Heuristics"
+difficulty = "intermediate"
+domains = ["Meta", "Psychology"]
+tags = ["shortcuts", "problem-solving", "decisions", "rules-of-thumb", "efficiency", "bias"]
+
+[[topics]]
+topic = "Reductionism"
+difficulty = "intermediate"
+domains = ["Meta", "Philosophy"]
+tags = ["parts", "explanation", "complexity", "science", "levels", "analysis"]
+
+[[topics]]
+topic = "Holism"
+difficulty = "intermediate"
+domains = ["Meta", "Philosophy"]
+tags = ["whole", "parts", "systems", "integration", "emergent", "perspective"]
+
+[[topics]]
+topic = "The Medium is the Message"
+difficulty = "intermediate"
+domains = ["Meta", "Sociology"]
+tags = ["mcluhan", "technology", "communication", "society", "effects", "media"]

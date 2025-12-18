@@ -1,0 +1,179 @@
+[[topics]]
+topic = "Absurdism"
+difficulty = "intermediate"
+domains = ["Philosophy", "Literature"]
+tags = ["camus", "meaning", "suicide", "revolt", "sisyphus", "existence"]
+
+[[topics]]
+topic = "Dualism"
+difficulty = "intermediate"
+domains = ["Philosophy", "Metaphysics"]
+tags = ["descartes", "mind", "body", "substance", "interaction", "soul"]
+
+[[topics]]
+topic = "Empiricism"
+difficulty = "beginner"
+domains = ["Philosophy", "Epistemology"]
+tags = ["experience", "locke", "hume", "knowledge", "senses", "science"]
+
+[[topics]]
+topic = "Rationalism"
+difficulty = "beginner"
+domains = ["Philosophy", "Epistemology"]
+tags = ["reason", "descartes", "leibniz", "spinoza", "innate-ideas", "logic"]
+
+[[topics]]
+topic = "Utilitarianism"
+difficulty = "beginner"
+domains = ["Philosophy", "Ethics"]
+tags = ["mill", "bentham", "happiness", "consequences", "ethics", "pleasure"]
+
+[[topics]]
+topic = "Nihilism"
+difficulty = "beginner"
+domains = ["Philosophy", "Ethics"]
+tags = ["nietzsche", "meaning", "values", "nothingness", "belief", "truth"]
+
+[[topics]]
+topic = "Determinism"
+difficulty = "intermediate"
+domains = ["Philosophy", "Metaphysics"]
+tags = ["causality", "free-will", "fate", "physics", "necessity", "action"]
+
+[[topics]]
+topic = "Solipsism"
+difficulty = "intermediate"
+domains = ["Philosophy", "Epistemology"]
+tags = ["mind", "self", "existence", "skepticism", "reality", "isolation"]
+
+[[topics]]
+topic = "Phenomenology"
+difficulty = "advanced"
+domains = ["Philosophy", "Psychology"]
+tags = ["husserl", "heidegger", "consciousness", "experience", "intentionality", "perception"]
+
+[[topics]]
+topic = "Structuralism"
+difficulty = "advanced"
+domains = ["Philosophy", "Linguistics"]
+tags = ["saussure", "levi-strauss", "systems", "language", "culture", "meaning"]
+
+[[topics]]
+topic = "Post-Structuralism"
+difficulty = "advanced"
+domains = ["Philosophy", "Literature"]
+tags = ["derrida", "foucault", "deconstruction", "power", "text", "meaning"]
+
+[[topics]]
+topic = "Analytic Philosophy"
+difficulty = "advanced"
+domains = ["Philosophy", "Logic"]
+tags = ["russell", "wittgenstein", "language", "logic", "clarity", "analysis"]
+
+[[topics]]
+topic = "Continental Philosophy"
+difficulty = "advanced"
+domains = ["Philosophy", "History"]
+tags = ["europe", "existentialism", "phenomenology", "critical-theory", "hegel", "tradition"]
+
+[[topics]]
+topic = "Pragmatism"
+difficulty = "intermediate"
+domains = ["Philosophy", "Education"]
+tags = ["james", "dewey", "peirce", "truth", "action", "consequences"]
+
+[[topics]]
+topic = "Humanism"
+difficulty = "beginner"
+domains = ["Philosophy", "History"]
+tags = ["reason", "ethics", "secularism", "agency", "dignity", "renaissance"]
+
+[[topics]]
+topic = "Scholasticism"
+difficulty = "intermediate"
+domains = ["Philosophy", "Theology"]
+tags = ["aquinas", "medieval", "aristotle", "faith", "reason", "logic"]
+
+[[topics]]
+topic = "Cynicism"
+difficulty = "beginner"
+domains = ["Philosophy", "History"]
+tags = ["diogenes", "virtue", "nature", "convention", "asceticism", "greece"]
+
+[[topics]]
+topic = "Hedonism"
+difficulty = "beginner"
+domains = ["Philosophy", "Ethics"]
+tags = ["pleasure", "pain", "epicurus", "happiness", "ethics", "life"]
+
+[[topics]]
+topic = "Objectivism"
+difficulty = "intermediate"
+domains = ["Philosophy", "Economics"]
+tags = ["rand", "egoism", "reason", "capitalism", "reality", "self-interest"]
+
+[[topics]]
+topic = "Transhumanism"
+difficulty = "intermediate"
+domains = ["Philosophy", "Technology"]
+tags = ["enhancement", "future", "technology", "evolution", "humanity", "ethics"]
+
+[[topics]]
+topic = "Panpsychism"
+difficulty = "advanced"
+domains = ["Philosophy", "Metaphysics"]
+tags = ["consciousness", "mind", "matter", "universe", "experience", "reality"]
+
+[[topics]]
+topic = "Moral Relativism"
+difficulty = "beginner"
+domains = ["Philosophy", "Ethics"]
+tags = ["culture", "values", "truth", "subjectivity", "tolerance", "norms"]
+
+[[topics]]
+topic = "Social Contract"
+difficulty = "intermediate"
+domains = ["Philosophy", "Political Science"]
+tags = ["hobbes", "locke", "rousseau", "state", "authority", "rights"]
+
+[[topics]]
+topic = "Virtue Ethics"
+difficulty = "intermediate"
+domains = ["Philosophy", "Ethics"]
+tags = ["aristotle", "character", "eudaimonia", "habits", "wisdom", "good"]
+
+[[topics]]
+topic = "Categorical Imperative"
+difficulty = "intermediate"
+domains = ["Philosophy", "Ethics"]
+tags = ["kant", "duty", "universal", "rules", "morality", "reason"]
+
+[[topics]]
+topic = "Dialectic"
+difficulty = "advanced"
+domains = ["Philosophy", "Logic"]
+tags = ["hegel", "marx", "socrates", "thesis", "antithesis", "synthesis"]
+
+[[topics]]
+topic = "Epiphenomenalism"
+difficulty = "advanced"
+domains = ["Philosophy", "Metaphysics"]
+tags = ["mind", "body", "causality", "consciousness", "brain", "events"]
+
+[[topics]]
+topic = "Logical Positivism"
+difficulty = "advanced"
+domains = ["Philosophy", "Science"]
+tags = ["verification", "meaning", "vienna-circle", "language", "empiricism", "metaphysics"]
+
+[[topics]]
+topic = "Philosophy of Language"
+difficulty = "advanced"
+domains = ["Philosophy", "Linguistics"]
+tags = ["meaning", "reference", "truth", "communication", "speech-acts", "wittgenstein"]
+
+[[topics]]
+topic = "Feminist Philosophy"
+difficulty = "intermediate"
+domains = ["Philosophy", "Sociology"]
+tags = ["gender", "justice", "epistemology", "ethics", "power", "critique"]

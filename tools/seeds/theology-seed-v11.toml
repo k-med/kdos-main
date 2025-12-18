@@ -1,0 +1,179 @@
+[[topics]]
+topic = "Liberation Theology"
+difficulty = "intermediate"
+domains = ["Theology", "Political Science"]
+tags = ["justice", "poverty", "oppression", "latin-america", "christianity", "marxism"]
+
+[[topics]]
+topic = "Process Theology"
+difficulty = "advanced"
+domains = ["Theology", "Metaphysics"]
+tags = ["whitehead", "cobb", "change", "god", "becoming", "panentheism"]
+
+[[topics]]
+topic = "Negative Theology"
+difficulty = "advanced"
+domains = ["Theology", "Philosophy"]
+tags = ["apophatic", "ineffability", "mystery", "god", "language", "knowledge"]
+
+[[topics]]
+topic = "Feminist Theology"
+difficulty = "intermediate"
+domains = ["Theology", "Sociology"]
+tags = ["gender", "patriarchy", "god", "critique", "experience", "women"]
+
+[[topics]]
+topic = "Natural Theology"
+difficulty = "intermediate"
+domains = ["Theology", "Philosophy"]
+tags = ["reason", "nature", "existence", "god", "design", "evidence"]
+
+[[topics]]
+topic = "Divine Simplicity"
+difficulty = "advanced"
+domains = ["Theology", "Metaphysics"]
+tags = ["attributes", "essence", "god", "unity", "aquinas", "nature"]
+
+[[topics]]
+topic = "Predestination"
+difficulty = "intermediate"
+domains = ["Theology", "Philosophy"]
+tags = ["calvinism", "free-will", "salvation", "god", "sovereignty", "choice"]
+
+[[topics]]
+topic = "The Trinity"
+difficulty = "intermediate"
+domains = ["Theology", "Logic"]
+tags = ["father", "son", "spirit", "unity", "persons", "doctrine"]
+
+[[topics]]
+topic = "Incarnation"
+difficulty = "intermediate"
+domains = ["Theology", "Metaphysics"]
+tags = ["jesus", "god", "humanity", "nature", "union", "christology"]
+
+[[topics]]
+topic = "Sacramental Theology"
+difficulty = "intermediate"
+domains = ["Theology", "Ritual"]
+tags = ["grace", "signs", "baptism", "eucharist", "mystery", "church"]
+
+[[topics]]
+topic = "Ecclesiology"
+difficulty = "intermediate"
+domains = ["Theology", "Sociology"]
+tags = ["church", "community", "structure", "authority", "mission", "body"]
+
+[[topics]]
+topic = "Pneumatology"
+difficulty = "intermediate"
+domains = ["Theology", "Philosophy"]
+tags = ["holy-spirit", "presence", "action", "god", "life", "inspiration"]
+
+[[topics]]
+topic = "Missiology"
+difficulty = "beginner"
+domains = ["Theology", "Anthropology"]
+tags = ["mission", "culture", "evangelism", "dialogue", "witness", "global"]
+
+[[topics]]
+topic = "Biblical Criticism"
+difficulty = "intermediate"
+domains = ["Theology", "History"]
+tags = ["text", "authorship", "context", "interpretation", "sources", "analysis"]
+
+[[topics]]
+topic = "Systematic Theology"
+difficulty = "intermediate"
+domains = ["Theology", "Logic"]
+tags = ["doctrine", "coherence", "organization", "beliefs", "framework", "study"]
+
+[[topics]]
+topic = "Moral Theology"
+difficulty = "intermediate"
+domains = ["Theology", "Ethics"]
+tags = ["conduct", "virtue", "sin", "conscience", "law", "life"]
+
+[[topics]]
+topic = "Mystical Theology"
+difficulty = "intermediate"
+domains = ["Theology", "Psychology"]
+tags = ["experience", "union", "contemplation", "god", "prayer", "spirituality"]
+
+[[topics]]
+topic = "Political Theology"
+difficulty = "intermediate"
+domains = ["Theology", "Political Science"]
+tags = ["power", "sovereignty", "schmitt", "state", "religion", "authority"]
+
+[[topics]]
+topic = "Queer Theology"
+difficulty = "intermediate"
+domains = ["Theology", "Sociology"]
+tags = ["sexuality", "identity", "inclusion", "critique", "body", "god"]
+
+[[topics]]
+topic = "Black Theology"
+difficulty = "intermediate"
+domains = ["Theology", "Sociology"]
+tags = ["race", "cone", "liberation", "oppression", "identity", "justice"]
+
+[[topics]]
+topic = "Postcolonial Theology"
+difficulty = "intermediate"
+domains = ["Theology", "History"]
+tags = ["empire", "culture", "critique", "power", "identity", "context"]
+
+[[topics]]
+topic = "Ecotheology"
+difficulty = "intermediate"
+domains = ["Theology", "Environment"]
+tags = ["creation", "stewardship", "nature", "crisis", "responsibility", "god"]
+
+[[topics]]
+topic = "Open Theism"
+difficulty = "advanced"
+domains = ["Theology", "Philosophy"]
+tags = ["omniscience", "future", "free-will", "god", "time", "relationship"]
+
+[[topics]]
+topic = "Death of God Theology"
+difficulty = "advanced"
+domains = ["Theology", "Philosophy"]
+tags = ["secularization", "nietzsche", "culture", "meaning", "radical", "belief"]
+
+[[topics]]
+topic = "Liturgical Theology"
+difficulty = "intermediate"
+domains = ["Theology", "Art"]
+tags = ["worship", "ritual", "prayer", "community", "meaning", "practice"]
+
+[[topics]]
+topic = "Patristics"
+difficulty = "intermediate"
+domains = ["Theology", "History"]
+tags = ["fathers", "early-church", "doctrine", "tradition", "development", "writings"]
+
+[[topics]]
+topic = "Reformed Theology"
+difficulty = "intermediate"
+domains = ["Theology", "History"]
+tags = ["calvin", "sovereignty", "covenant", "grace", "tradition", "doctrine"]
+
+[[topics]]
+topic = "Catholic Theology"
+difficulty = "intermediate"
+domains = ["Theology", "History"]
+tags = ["tradition", "magisterium", "sacraments", "aquinas", "church", "doctrine"]
+
+[[topics]]
+topic = "Orthodox Theology"
+difficulty = "intermediate"
+domains = ["Theology", "History"]
+tags = ["east", "tradition", "icons", "mystery", "theosis", "church"]
+
+[[topics]]
+topic = "Islamic Theology"
+difficulty = "intermediate"
+domains = ["Theology", "History"]
+tags = ["kalam", "allah", "quran", "prophecy", "tawhid", "doctrine"]

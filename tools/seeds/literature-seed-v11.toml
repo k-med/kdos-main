@@ -1,0 +1,179 @@
+[[topics]]
+topic = "Magical Realism"
+difficulty = "intermediate"
+domains = ["Literature", "Art"]
+tags = ["marquez", "latin-america", "fantasy", "reality", "genre", "style"]
+
+[[topics]]
+topic = "The Gothic"
+difficulty = "intermediate"
+domains = ["Literature", "History"]
+tags = ["horror", "architecture", "mystery", "supernatural", "poe", "shelley"]
+
+[[topics]]
+topic = "Postmodern Literature"
+difficulty = "advanced"
+domains = ["Literature", "Philosophy"]
+tags = ["metafiction", "fragmentation", "irony", "pynchon", "wallace", "play"]
+
+[[topics]]
+topic = "The Epic"
+difficulty = "beginner"
+domains = ["Literature", "History"]
+tags = ["homer", "hero", "journey", "poetry", "mythology", "scale"]
+
+[[topics]]
+topic = "Stream of Consciousness"
+difficulty = "advanced"
+domains = ["Literature", "Psychology"]
+tags = ["joyce", "woolf", "narrative", "mind", "thought", "modernism"]
+
+[[topics]]
+topic = "Dystopian Fiction"
+difficulty = "beginner"
+domains = ["Literature", "Political Science"]
+tags = ["orwell", "huxley", "society", "totalitarianism", "future", "warning"]
+
+[[topics]]
+topic = "The Beat Generation"
+difficulty = "intermediate"
+domains = ["Literature", "Sociology"]
+tags = ["kerouac", "ginsberg", "counterculture", "rebellion", "jazz", "spontaneity"]
+
+[[topics]]
+topic = "Transcendentalism"
+difficulty = "intermediate"
+domains = ["Literature", "Philosophy"]
+tags = ["emerson", "thoreau", "nature", "individualism", "spirituality", "usa"]
+
+[[topics]]
+topic = "The Harlem Renaissance"
+difficulty = "beginner"
+domains = ["Literature", "History"]
+tags = ["hughes", "hurston", "culture", "identity", "jazz-age", "race"]
+
+[[topics]]
+topic = "Southern Gothic"
+difficulty = "intermediate"
+domains = ["Literature", "History"]
+tags = ["faulkner", "oconnor", "grotesque", "south", "decay", "religion"]
+
+[[topics]]
+topic = "Feminist Literature"
+difficulty = "intermediate"
+domains = ["Literature", "Sociology"]
+tags = ["woolf", "atwood", "gender", "patriarchy", "voice", "rights"]
+
+[[topics]]
+topic = "The Lost Generation"
+difficulty = "intermediate"
+domains = ["Literature", "History"]
+tags = ["hemingway", "fitzgerald", "wwi", "disillusionment", "expatriates", "paris"]
+
+[[topics]]
+topic = "Symbolism"
+difficulty = "intermediate"
+domains = ["Literature", "Art"]
+tags = ["poetry", "baudelaire", "meaning", "metaphor", "dreams", "suggestion"]
+
+[[topics]]
+topic = "Russian Realism"
+difficulty = "advanced"
+domains = ["Literature", "Philosophy"]
+tags = ["dostoevsky", "tolstoy", "morality", "society", "psychology", "faith"]
+
+[[topics]]
+topic = "The Short Story"
+difficulty = "beginner"
+domains = ["Literature", "Art"]
+tags = ["chekhov", "poe", "brevity", "structure", "narrative", "form"]
+
+[[topics]]
+topic = "Literature of the Absurd"
+difficulty = "advanced"
+domains = ["Literature", "Philosophy"]
+tags = ["camus", "beckett", "existentialism", "meaninglessness", "theater", "human-condition"]
+
+[[topics]]
+topic = "Victorian Literature"
+difficulty = "intermediate"
+domains = ["Literature", "History"]
+tags = ["dickens", "bronte", "society", "morality", "industrialization", "empire"]
+
+[[topics]]
+topic = "Cyberpunk"
+difficulty = "beginner"
+domains = ["Literature", "Technology"]
+tags = ["gibson", "future", "technology", "dystopia", "hackers", "corporations"]
+
+[[topics]]
+topic = "The Picaresque"
+difficulty = "intermediate"
+domains = ["Literature", "History"]
+tags = ["rogue", "satire", "adventure", "social-class", "journey", "episodic"]
+
+[[topics]]
+topic = "Haiku"
+difficulty = "beginner"
+domains = ["Literature", "Art"]
+tags = ["poetry", "japan", "nature", "syllables", "basho", "simplicity"]
+
+[[topics]]
+topic = "The Graphic Novel"
+difficulty = "beginner"
+domains = ["Literature", "Art"]
+tags = ["comics", "spiegelman", "moore", "visual-storytelling", "medium", "narrative"]
+
+[[topics]]
+topic = "Literature and Madness"
+difficulty = "intermediate"
+domains = ["Literature", "Psychology"]
+tags = ["insanity", "unreliable-narrator", "plath", "perception", "mind", "creativity"]
+
+[[topics]]
+topic = "Travel Writing"
+difficulty = "beginner"
+domains = ["Literature", "Geography"]
+tags = ["exploration", "culture", "journey", "observation", "place", "memoir"]
+
+[[topics]]
+topic = "The Sonnet"
+difficulty = "intermediate"
+domains = ["Literature", "Art"]
+tags = ["shakespeare", "petrarch", "poetry", "form", "love", "meter"]
+
+[[topics]]
+topic = "Detective Fiction"
+difficulty = "beginner"
+domains = ["Literature", "Logic"]
+tags = ["mystery", "holmes", "christie", "deduction", "crime", "puzzle"]
+
+[[topics]]
+topic = "Literature of the Holocaust"
+difficulty = "intermediate"
+domains = ["Literature", "History"]
+tags = ["wiesel", "levi", "memory", "trauma", "testimony", "survival"]
+
+[[topics]]
+topic = "Afrofuturism"
+difficulty = "intermediate"
+domains = ["Literature", "Sociology"]
+tags = ["science-fiction", "culture", "technology", "diaspora", "future", "identity"]
+
+[[topics]]
+topic = "Intertextuality"
+difficulty = "advanced"
+domains = ["Literature", "Linguistics"]
+tags = ["reference", "allusion", "kristeva", "dialogue", "meaning", "text"]
+
+[[topics]]
+topic = "Flash Fiction"
+difficulty = "beginner"
+domains = ["Literature", "Art"]
+tags = ["brevity", "micro-fiction", "storytelling", "minimalism", "impact", "form"]
+
+[[topics]]
+topic = "Literature and Censorship"
+difficulty = "intermediate"
+domains = ["Literature", "Political Science"]
+tags = ["banned-books", "freedom", "politics", "control", "expression", "society"]

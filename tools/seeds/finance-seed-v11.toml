@@ -1,0 +1,179 @@
+[[topics]]
+topic = "Efficient Market Hypothesis"
+difficulty = "intermediate"
+domains = ["Finance", "Economics"]
+tags = ["information", "prices", "random-walk", "fama", "anomalies", "investing"]
+
+[[topics]]
+topic = "Capital Asset Pricing Model"
+difficulty = "intermediate"
+domains = ["Finance", "Statistics"]
+tags = ["risk", "return", "beta", "diversification", "portfolio", "market"]
+
+[[topics]]
+topic = "Black-Scholes Model"
+difficulty = "advanced"
+domains = ["Finance", "Mathematics"]
+tags = ["options", "pricing", "derivatives", "volatility", "hedging", "stochastic-calculus"]
+
+[[topics]]
+topic = "Behavioral Finance"
+difficulty = "intermediate"
+domains = ["Finance", "Psychology"]
+tags = ["biases", "irrationality", "prospect-theory", "heuristics", "decisions", "markets"]
+
+[[topics]]
+topic = "Cryptocurrency"
+difficulty = "beginner"
+domains = ["Finance", "Computer Science"]
+tags = ["bitcoin", "blockchain", "decentralization", "assets", "digital-currency", "volatility"]
+
+[[topics]]
+topic = "Venture Capital"
+difficulty = "beginner"
+domains = ["Finance", "Economics"]
+tags = ["startups", "funding", "equity", "risk", "innovation", "investment"]
+
+[[topics]]
+topic = "Private Equity"
+difficulty = "intermediate"
+domains = ["Finance", "Economics"]
+tags = ["buyouts", "leverage", "management", "funds", "companies", "returns"]
+
+[[topics]]
+topic = "Hedge Funds"
+difficulty = "intermediate"
+domains = ["Finance", "Economics"]
+tags = ["strategies", "arbitrage", "leverage", "fees", "alpha", "investing"]
+
+[[topics]]
+topic = "Microfinance"
+difficulty = "beginner"
+domains = ["Finance", "Sociology"]
+tags = ["poverty", "loans", "development", "entrepreneurship", "banking", "impact"]
+
+[[topics]]
+topic = "Financial Crisis of 2008"
+difficulty = "intermediate"
+domains = ["Finance", "History"]
+tags = ["housing", "mortgages", "banks", "recession", "regulation", "leverage"]
+
+[[topics]]
+topic = "Algorithmic Trading"
+difficulty = "advanced"
+domains = ["Finance", "Computer Science"]
+tags = ["hft", "automation", "strategies", "speed", "markets", "technology"]
+
+[[topics]]
+topic = "Corporate Governance"
+difficulty = "intermediate"
+domains = ["Finance", "Law"]
+tags = ["boards", "shareholders", "management", "ethics", "accountability", "structure"]
+
+[[topics]]
+topic = "Mergers and Acquisitions"
+difficulty = "intermediate"
+domains = ["Finance", "Economics"]
+tags = ["consolidation", "valuation", "synergy", "strategy", "deals", "corporate"]
+
+[[topics]]
+topic = "Initial Public Offering"
+difficulty = "beginner"
+domains = ["Finance", "Economics"]
+tags = ["ipo", "stocks", "public", "listing", "capital", "markets"]
+
+[[topics]]
+topic = "Financial Literacy"
+difficulty = "beginner"
+domains = ["Finance", "Education"]
+tags = ["budgeting", "saving", "investing", "debt", "knowledge", "skills"]
+
+[[topics]]
+topic = "Islamic Finance"
+difficulty = "intermediate"
+domains = ["Finance", "Theology"]
+tags = ["sharia", "interest", "usury", "sukuk", "ethics", "banking"]
+
+[[topics]]
+topic = "Sustainable Finance"
+difficulty = "beginner"
+domains = ["Finance", "Environment"]
+tags = ["esg", "green-bonds", "impact-investing", "climate", "responsibility", "investing"]
+
+[[topics]]
+topic = "Financial Engineering"
+difficulty = "advanced"
+domains = ["Finance", "Mathematics"]
+tags = ["modeling", "products", "derivatives", "risk", "innovation", "complexity"]
+
+[[topics]]
+topic = "Credit Rating Agencies"
+difficulty = "intermediate"
+domains = ["Finance", "Economics"]
+tags = ["moodys", "sp", "bonds", "risk", "default", "conflict-of-interest"]
+
+[[topics]]
+topic = "Central Banking"
+difficulty = "intermediate"
+domains = ["Finance", "Economics"]
+tags = ["fed", "interest-rates", "monetary-policy", "inflation", "money-supply", "stability"]
+
+[[topics]]
+topic = "Crowdfunding"
+difficulty = "beginner"
+domains = ["Finance", "Technology"]
+tags = ["kickstarter", "fundraising", "internet", "community", "startups", "equity"]
+
+[[topics]]
+topic = "Insurance"
+difficulty = "beginner"
+domains = ["Finance", "Statistics"]
+tags = ["risk", "premiums", "coverage", "actuarial", "protection", "pooling"]
+
+[[topics]]
+topic = "Real Estate Finance"
+difficulty = "beginner"
+domains = ["Finance", "Economics"]
+tags = ["mortgages", "property", "investment", "housing", "valuation", "markets"]
+
+[[topics]]
+topic = "International Finance"
+difficulty = "intermediate"
+domains = ["Finance", "Economics"]
+tags = ["exchange-rates", "currencies", "trade", "balance-of-payments", "global", "markets"]
+
+[[topics]]
+topic = "Tax Havens"
+difficulty = "intermediate"
+domains = ["Finance", "Law"]
+tags = ["offshore", "avoidance", "secrecy", "regulation", "global-economy", "ethics"]
+
+[[topics]]
+topic = "Ponzi Schemes"
+difficulty = "beginner"
+domains = ["Finance", "Law"]
+tags = ["fraud", "madoff", "scams", "returns", "investors", "crime"]
+
+[[topics]]
+topic = "Universal Basic Income"
+difficulty = "intermediate"
+domains = ["Finance", "Sociology"]
+tags = ["welfare", "distribution", "poverty", "policy", "economics", "security"]
+
+[[topics]]
+topic = "Financial Regulation"
+difficulty = "intermediate"
+domains = ["Finance", "Law"]
+tags = ["sec", "compliance", "stability", "rules", "markets", "protection"]
+
+[[topics]]
+topic = "Arbitrage"
+difficulty = "intermediate"
+domains = ["Finance", "Economics"]
+tags = ["pricing", "markets", "profit", "efficiency", "risk-free", "opportunities"]
+
+[[topics]]
+topic = "Compound Interest"
+difficulty = "beginner"
+domains = ["Finance", "Mathematics"]
+tags = ["growth", "savings", "time", "exponential", "wealth", "calculation"]

@@ -1,0 +1,179 @@
+[[topics]]
+topic = "Polymer Chemistry"
+difficulty = "intermediate"
+domains = ["Chemistry", "Materials Science"]
+tags = ["plastics", "macromolecules", "synthesis", "chains", "properties", "applications"]
+
+[[topics]]
+topic = "Green Chemistry"
+difficulty = "beginner"
+domains = ["Chemistry", "Environment"]
+tags = ["sustainability", "waste-reduction", "catalysis", "efficiency", "solvents", "principles"]
+
+[[topics]]
+topic = "Spectroscopy"
+difficulty = "intermediate"
+domains = ["Chemistry", "Physics"]
+tags = ["light", "matter", "analysis", "nmr", "ir", "identification"]
+
+[[topics]]
+topic = "Quantum Chemistry"
+difficulty = "advanced"
+domains = ["Chemistry", "Physics"]
+tags = ["orbitals", "wave-function", "schrodinger", "bonding", "computation", "electrons"]
+
+[[topics]]
+topic = "Stereochemistry"
+difficulty = "intermediate"
+domains = ["Chemistry", "Biology"]
+tags = ["chirality", "isomers", "3d-structure", "enantiomers", "reactions", "pharmaceuticals"]
+
+[[topics]]
+topic = "Catalysis"
+difficulty = "intermediate"
+domains = ["Chemistry", "Engineering"]
+tags = ["reaction-rate", "enzymes", "activation-energy", "surface-chemistry", "industry", "efficiency"]
+
+[[topics]]
+topic = "Nuclear Chemistry"
+difficulty = "intermediate"
+domains = ["Chemistry", "Physics"]
+tags = ["radioactivity", "fission", "fusion", "isotopes", "decay", "energy"]
+
+[[topics]]
+topic = "Supramolecular Chemistry"
+difficulty = "advanced"
+domains = ["Chemistry", "Biology"]
+tags = ["host-guest", "self-assembly", "non-covalent", "molecular-machines", "recognition", "complexes"]
+
+[[topics]]
+topic = "Colloids"
+difficulty = "beginner"
+domains = ["Chemistry", "Physics"]
+tags = ["mixtures", "suspensions", "emulsions", "gels", "properties", "interface"]
+
+[[topics]]
+topic = "Astrochemistry"
+difficulty = "intermediate"
+domains = ["Chemistry", "Astronomy"]
+tags = ["space", "interstellar-medium", "molecules", "origins", "spectroscopy", "stars"]
+
+[[topics]]
+topic = "Medicinal Chemistry"
+difficulty = "intermediate"
+domains = ["Chemistry", "Medicine"]
+tags = ["drug-design", "synthesis", "pharmacology", "structure-activity", "therapeutics", "discovery"]
+
+[[topics]]
+topic = "Coordination Chemistry"
+difficulty = "intermediate"
+domains = ["Chemistry", "Physics"]
+tags = ["metals", "ligands", "complexes", "bonding", "color", "magnetism"]
+
+[[topics]]
+topic = "Forensic Chemistry"
+difficulty = "beginner"
+domains = ["Chemistry", "Law"]
+tags = ["analysis", "evidence", "crime", "toxicology", "drugs", "investigation"]
+
+[[topics]]
+topic = "Nanochemistry"
+difficulty = "intermediate"
+domains = ["Chemistry", "Materials Science"]
+tags = ["nanoparticles", "scale", "synthesis", "properties", "applications", "quantum-dots"]
+
+[[topics]]
+topic = "Surface Chemistry"
+difficulty = "intermediate"
+domains = ["Chemistry", "Physics"]
+tags = ["adsorption", "interface", "catalysis", "colloids", "reactions", "materials"]
+
+[[topics]]
+topic = "Computational Chemistry"
+difficulty = "advanced"
+domains = ["Chemistry", "Computer Science"]
+tags = ["modeling", "simulation", "molecular-dynamics", "algorithms", "prediction", "structure"]
+
+[[topics]]
+topic = "Photochemistry"
+difficulty = "intermediate"
+domains = ["Chemistry", "Physics"]
+tags = ["light", "reactions", "energy", "photosynthesis", "lasers", "fluorescence"]
+
+[[topics]]
+topic = "Food Chemistry"
+difficulty = "beginner"
+domains = ["Chemistry", "Biology"]
+tags = ["nutrition", "flavor", "preservation", "reactions", "cooking", "molecules"]
+
+[[topics]]
+topic = "Geochemistry"
+difficulty = "intermediate"
+domains = ["Chemistry", "Geology"]
+tags = ["earth", "minerals", "cycles", "elements", "composition", "processes"]
+
+[[topics]]
+topic = "Chemical Equilibrium"
+difficulty = "beginner"
+domains = ["Chemistry", "Thermodynamics"]
+tags = ["balance", "le-chatelier", "reactions", "constants", "dynamic", "concentration"]
+
+[[topics]]
+topic = "Redox Reactions"
+difficulty = "beginner"
+domains = ["Chemistry", "Physics"]
+tags = ["oxidation", "reduction", "electrons", "energy", "batteries", "corrosion"]
+
+[[topics]]
+topic = "Periodic Trends"
+difficulty = "beginner"
+domains = ["Chemistry", "Physics"]
+tags = ["elements", "table", "electronegativity", "radius", "ionization", "properties"]
+
+[[topics]]
+topic = "Crystallography"
+difficulty = "intermediate"
+domains = ["Chemistry", "Physics"]
+tags = ["structure", "diffraction", "x-ray", "lattice", "solids", "symmetry"]
+
+[[topics]]
+topic = "Atmospheric Chemistry"
+difficulty = "intermediate"
+domains = ["Chemistry", "Environment"]
+tags = ["air", "pollution", "ozone", "climate", "reactions", "composition"]
+
+[[topics]]
+topic = "Bioinorganic Chemistry"
+difficulty = "advanced"
+domains = ["Chemistry", "Biology"]
+tags = ["metals", "enzymes", "life", "transport", "toxicity", "medicine"]
+
+[[topics]]
+topic = "Chemical Warfare"
+difficulty = "intermediate"
+domains = ["Chemistry", "Military"]
+tags = ["toxins", "agents", "history", "ethics", "protection", "weapons"]
+
+[[topics]]
+topic = "Alchemy"
+difficulty = "beginner"
+domains = ["Chemistry", "History"]
+tags = ["transmutation", "gold", "philosophers-stone", "pre-science", "symbolism", "mysticism"]
+
+[[topics]]
+topic = "Chromatography"
+difficulty = "beginner"
+domains = ["Chemistry", "Biology"]
+tags = ["separation", "analysis", "purification", "technique", "mixture", "phases"]
+
+[[topics]]
+topic = "Solid State Chemistry"
+difficulty = "intermediate"
+domains = ["Chemistry", "Materials Science"]
+tags = ["crystals", "defects", "synthesis", "properties", "conductors", "materials"]
+
+[[topics]]
+topic = "Flavor Chemistry"
+difficulty = "beginner"
+domains = ["Chemistry", "Psychology"]
+tags = ["taste", "smell", "molecules", "perception", "sensory", "food"]

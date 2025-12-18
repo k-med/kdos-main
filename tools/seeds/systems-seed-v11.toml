@@ -1,0 +1,179 @@
+[[topics]]
+topic = "Autopoiesis"
+difficulty = "advanced"
+domains = ["Systems", "Biology"]
+tags = ["self-creation", "maturana", "varela", "organization", "life", "structure"]
+
+[[topics]]
+topic = "Complex Adaptive Systems"
+difficulty = "intermediate"
+domains = ["Systems", "Biology"]
+tags = ["adaptation", "evolution", "agents", "emergence", "patterns", "dynamics"]
+
+[[topics]]
+topic = "Systems Engineering"
+difficulty = "intermediate"
+domains = ["Systems", "Engineering"]
+tags = ["design", "lifecycle", "requirements", "integration", "management", "processes"]
+
+[[topics]]
+topic = "General Systems Theory"
+difficulty = "intermediate"
+domains = ["Systems", "Philosophy"]
+tags = ["bertalanffy", "holism", "interdisciplinary", "principles", "organization", "science"]
+
+[[topics]]
+topic = "Feedback Mechanisms"
+difficulty = "beginner"
+domains = ["Systems", "Cybernetics"]
+tags = ["positive", "negative", "loops", "regulation", "stability", "control"]
+
+[[topics]]
+topic = "Network Science"
+difficulty = "intermediate"
+domains = ["Systems", "Mathematics"]
+tags = ["nodes", "edges", "topology", "connectivity", "small-world", "scale-free"]
+
+[[topics]]
+topic = "Sociotechnical Systems"
+difficulty = "intermediate"
+domains = ["Systems", "Sociology"]
+tags = ["technology", "people", "interaction", "workplace", "design", "organization"]
+
+[[topics]]
+topic = "Ecological Systems"
+difficulty = "beginner"
+domains = ["Systems", "Biology"]
+tags = ["ecosystems", "interactions", "energy-flow", "biodiversity", "balance", "environment"]
+
+[[topics]]
+topic = "Soft Systems Methodology"
+difficulty = "advanced"
+domains = ["Systems", "Management"]
+tags = ["checkland", "problem-solving", "human-factors", "perspective", "learning", "action"]
+
+[[topics]]
+topic = "System Dynamics Modeling"
+difficulty = "intermediate"
+domains = ["Systems", "Computer Science"]
+tags = ["forrester", "simulation", "stocks", "flows", "behavior", "time"]
+
+[[topics]]
+topic = "Tipping Points"
+difficulty = "beginner"
+domains = ["Systems", "Environment"]
+tags = ["thresholds", "change", "irreversible", "dynamics", "stability", "collapse"]
+
+[[topics]]
+topic = "Self-Organization"
+difficulty = "intermediate"
+domains = ["Systems", "Physics"]
+tags = ["order", "chaos", "spontaneous", "structure", "patterns", "emergence"]
+
+[[topics]]
+topic = "Holism"
+difficulty = "beginner"
+domains = ["Systems", "Philosophy"]
+tags = ["whole", "parts", "synergy", "reductionism", "perspective", "understanding"]
+
+[[topics]]
+topic = "Entropy in Systems"
+difficulty = "intermediate"
+domains = ["Systems", "Physics"]
+tags = ["disorder", "energy", "thermodynamics", "information", "decay", "maintenance"]
+
+[[topics]]
+topic = "Viable System Model"
+difficulty = "advanced"
+domains = ["Systems", "Management"]
+tags = ["beer", "organization", "cybernetics", "autonomy", "structure", "functions"]
+
+[[topics]]
+topic = "Critical Systems Heuristics"
+difficulty = "advanced"
+domains = ["Systems", "Ethics"]
+tags = ["ulrich", "boundaries", "judgment", "values", "stakeholders", "improvement"]
+
+[[topics]]
+topic = "Root Cause Analysis"
+difficulty = "beginner"
+domains = ["Systems", "Engineering"]
+tags = ["problem-solving", "failure", "investigation", "prevention", "methods", "quality"]
+
+[[topics]]
+topic = "Systems Biology"
+difficulty = "intermediate"
+domains = ["Systems", "Biology"]
+tags = ["genomics", "networks", "modeling", "integration", "cells", "processes"]
+
+[[topics]]
+topic = "Supply Chain Systems"
+difficulty = "beginner"
+domains = ["Systems", "Economics"]
+tags = ["logistics", "flow", "efficiency", "global", "management", "networks"]
+
+[[topics]]
+topic = "Political Systems"
+difficulty = "beginner"
+domains = ["Systems", "Political Science"]
+tags = ["government", "democracy", "authoritarianism", "structure", "power", "institutions"]
+
+[[topics]]
+topic = "Economic Systems"
+difficulty = "beginner"
+domains = ["Systems", "Economics"]
+tags = ["capitalism", "socialism", "markets", "production", "distribution", "resources"]
+
+[[topics]]
+topic = "Educational Systems"
+difficulty = "beginner"
+domains = ["Systems", "Education"]
+tags = ["schools", "curriculum", "policy", "learning", "structure", "society"]
+
+[[topics]]
+topic = "Healthcare Systems"
+difficulty = "intermediate"
+domains = ["Systems", "Medicine"]
+tags = ["delivery", "access", "insurance", "hospitals", "public-health", "models"]
+
+[[topics]]
+topic = "Legal Systems"
+difficulty = "intermediate"
+domains = ["Systems", "Law"]
+tags = ["courts", "justice", "civil-law", "common-law", "procedures", "rules"]
+
+[[topics]]
+topic = "Transportation Systems"
+difficulty = "beginner"
+domains = ["Systems", "Engineering"]
+tags = ["infrastructure", "mobility", "logistics", "planning", "networks", "urban"]
+
+[[topics]]
+topic = "Communication Systems"
+difficulty = "beginner"
+domains = ["Systems", "Technology"]
+tags = ["networks", "internet", "media", "information", "transmission", "signals"]
+
+[[topics]]
+topic = "Family Systems Theory"
+difficulty = "intermediate"
+domains = ["Systems", "Psychology"]
+tags = ["bowen", "relationships", "dynamics", "roles", "therapy", "patterns"]
+
+[[topics]]
+topic = "Global Systems"
+difficulty = "intermediate"
+domains = ["Systems", "Political Science"]
+tags = ["international-relations", "trade", "climate", "interdependence", "governance", "earth"]
+
+[[topics]]
+topic = "Digital Ecosystems"
+difficulty = "beginner"
+domains = ["Systems", "Technology"]
+tags = ["platforms", "software", "interoperability", "users", "innovation", "networks"]
+
+[[topics]]
+topic = "Resilience Engineering"
+difficulty = "intermediate"
+domains = ["Systems", "Engineering"]
+tags = ["safety", "adaptation", "failure", "recovery", "robustness", "design"]

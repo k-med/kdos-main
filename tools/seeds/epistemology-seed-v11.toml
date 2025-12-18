@@ -1,0 +1,179 @@
+[[topics]]
+topic = "Empiricism"
+difficulty = "beginner"
+domains = ["Epistemology", "Philosophy"]
+tags = ["experience", "senses", "locke", "hume", "knowledge", "observation"]
+
+[[topics]]
+topic = "Rationalism"
+difficulty = "beginner"
+domains = ["Epistemology", "Philosophy"]
+tags = ["reason", "descartes", "leibniz", "innate-ideas", "logic", "deduction"]
+
+[[topics]]
+topic = "Testimony"
+difficulty = "intermediate"
+domains = ["Epistemology", "Sociology"]
+tags = ["trust", "authority", "evidence", "communication", "experts", "social-knowledge"]
+
+[[topics]]
+topic = "Coherentism"
+difficulty = "advanced"
+domains = ["Epistemology", "Logic"]
+tags = ["justification", "beliefs", "system", "consistency", "web-of-belief", "quine"]
+
+[[topics]]
+topic = "Foundationalism"
+difficulty = "advanced"
+domains = ["Epistemology", "Logic"]
+tags = ["basic-beliefs", "justification", "regress", "structure", "certainty", "axioms"]
+
+[[topics]]
+topic = "Internalism vs Externalism"
+difficulty = "advanced"
+domains = ["Epistemology", "Philosophy"]
+tags = ["justification", "access", "reliability", "mental-states", "process", "debate"]
+
+[[topics]]
+topic = "Gettier Problems"
+difficulty = "intermediate"
+domains = ["Epistemology", "Logic"]
+tags = ["jtb", "knowledge", "counterexamples", "luck", "definition", "analysis"]
+
+[[topics]]
+topic = "Epistemic Injustice"
+difficulty = "intermediate"
+domains = ["Epistemology", "Ethics"]
+tags = ["fricker", "testimonial-injustice", "hermeneutical-injustice", "power", "marginalization", "credibility"]
+
+[[topics]]
+topic = "Contextualism"
+difficulty = "intermediate"
+domains = ["Epistemology", "Linguistics"]
+tags = ["standards", "knowledge-claims", "semantics", "context", "skepticism", "meaning"]
+
+[[topics]]
+topic = "Epistemic Virtue"
+difficulty = "beginner"
+domains = ["Epistemology", "Ethics"]
+tags = ["character", "intellectual-virtues", "open-mindedness", "curiosity", "humility", "zagzebski"]
+
+[[topics]]
+topic = "Naturalized Epistemology"
+difficulty = "advanced"
+domains = ["Epistemology", "Psychology"]
+tags = ["quine", "science", "cognition", "empirical", "normativity", "replacement"]
+
+[[topics]]
+topic = "Feminist Epistemology"
+difficulty = "intermediate"
+domains = ["Epistemology", "Sociology"]
+tags = ["standpoint-theory", "situated-knowledge", "gender", "objectivity", "power", "bias"]
+
+[[topics]]
+topic = "Constructivism"
+difficulty = "intermediate"
+domains = ["Epistemology", "Sociology"]
+tags = ["social-construction", "reality", "knowledge", "culture", "relativism", "interaction"]
+
+[[topics]]
+topic = "Pragmatism"
+difficulty = "intermediate"
+domains = ["Epistemology", "Philosophy"]
+tags = ["james", "dewey", "truth", "utility", "action", "consequences"]
+
+[[topics]]
+topic = "Fallibilism"
+difficulty = "beginner"
+domains = ["Epistemology", "Science"]
+tags = ["certainty", "error", "knowledge", "peirce", "inquiry", "correction"]
+
+[[topics]]
+topic = "Memory"
+difficulty = "intermediate"
+domains = ["Epistemology", "Psychology"]
+tags = ["recall", "justification", "reliability", "past", "preservation", "source"]
+
+[[topics]]
+topic = "Self-Knowledge"
+difficulty = "intermediate"
+domains = ["Epistemology", "Psychology"]
+tags = ["introspection", "consciousness", "access", "identity", "mind", "awareness"]
+
+[[topics]]
+topic = "Disagreement"
+difficulty = "intermediate"
+domains = ["Epistemology", "Ethics"]
+tags = ["peers", "rationality", "consensus", "conflict", "judgment", "tolerance"]
+
+[[topics]]
+topic = "Epistemic Luck"
+difficulty = "advanced"
+domains = ["Epistemology", "Logic"]
+tags = ["knowledge", "accident", "safety", "sensitivity", "control", "definition"]
+
+[[topics]]
+topic = "Understanding"
+difficulty = "intermediate"
+domains = ["Epistemology", "Education"]
+tags = ["knowledge", "explanation", "grasping", "insight", "value", "depth"]
+
+[[topics]]
+topic = "Wisdom"
+difficulty = "beginner"
+domains = ["Epistemology", "Ethics"]
+tags = ["judgment", "life", "knowledge", "virtue", "practical", "socrates"]
+
+[[topics]]
+topic = "Scientific Realism"
+difficulty = "advanced"
+domains = ["Epistemology", "Science"]
+tags = ["truth", "unobservables", "theories", "success", "miracle-argument", "ontology"]
+
+[[topics]]
+topic = "Relativism"
+difficulty = "beginner"
+domains = ["Epistemology", "Anthropology"]
+tags = ["truth", "culture", "perspective", "objectivity", "validity", "pluralism"]
+
+[[topics]]
+topic = "Objectivity"
+difficulty = "intermediate"
+domains = ["Epistemology", "Science"]
+tags = ["bias", "neutrality", "facts", "perspective", "truth", "standards"]
+
+[[topics]]
+topic = "Intuition"
+difficulty = "beginner"
+domains = ["Epistemology", "Psychology"]
+tags = ["insight", "immediate-knowledge", "reason", "justification", "feeling", "cognition"]
+
+[[topics]]
+topic = "Evidence"
+difficulty = "beginner"
+domains = ["Epistemology", "Law"]
+tags = ["support", "proof", "justification", "probability", "confirmation", "data"]
+
+[[topics]]
+topic = "Epistemic Normativity"
+difficulty = "advanced"
+domains = ["Epistemology", "Ethics"]
+tags = ["ought", "rules", "justification", "value", "rationality", "obligations"]
+
+[[topics]]
+topic = "Ignorance"
+difficulty = "intermediate"
+domains = ["Epistemology", "Sociology"]
+tags = ["agnotology", "secrecy", "knowledge", "unknowns", "bias", "blind-spots"]
+
+[[topics]]
+topic = "Tacit Knowledge"
+difficulty = "intermediate"
+domains = ["Epistemology", "Psychology"]
+tags = ["polanyi", "skills", "implicit", "know-how", "articulation", "practice"]
+
+[[topics]]
+topic = "Phenomenology"
+difficulty = "advanced"
+domains = ["Epistemology", "Philosophy"]
+tags = ["husserl", "experience", "consciousness", "intentionality", "appearance", "lifeworld"]

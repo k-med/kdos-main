@@ -1,0 +1,179 @@
+[[topics]]
+topic = "Shannon Entropy"
+difficulty = "intermediate"
+domains = ["Information Theory", "Mathematics"]
+tags = ["uncertainty", "bits", "measure", "shannon", "probability", "communication"]
+
+[[topics]]
+topic = "Data Compression"
+difficulty = "beginner"
+domains = ["Information Theory", "Computer Science"]
+tags = ["lossless", "lossy", "encoding", "efficiency", "storage", "algorithms"]
+
+[[topics]]
+topic = "Channel Capacity"
+difficulty = "intermediate"
+domains = ["Information Theory", "Engineering"]
+tags = ["bandwidth", "noise", "shannon-limit", "transmission", "rate", "communication"]
+
+[[topics]]
+topic = "Error Correction Codes"
+difficulty = "intermediate"
+domains = ["Information Theory", "Computer Science"]
+tags = ["hamming", "redundancy", "reliability", "transmission", "detection", "parity"]
+
+[[topics]]
+topic = "Cryptography"
+difficulty = "intermediate"
+domains = ["Information Theory", "Computer Science"]
+tags = ["encryption", "security", "keys", "privacy", "communication", "ciphers"]
+
+[[topics]]
+topic = "Kolmogorov Complexity"
+difficulty = "advanced"
+domains = ["Information Theory", "Computer Science"]
+tags = ["randomness", "description-length", "algorithms", "compressibility", "incomputability", "strings"]
+
+[[topics]]
+topic = "Mutual Information"
+difficulty = "advanced"
+domains = ["Information Theory", "Statistics"]
+tags = ["dependence", "correlation", "variables", "entropy", "measure", "shared-info"]
+
+[[topics]]
+topic = "Signal-to-Noise Ratio"
+difficulty = "beginner"
+domains = ["Information Theory", "Engineering"]
+tags = ["quality", "interference", "measurement", "communication", "clarity", "decibels"]
+
+[[topics]]
+topic = "Source Coding Theorem"
+difficulty = "advanced"
+domains = ["Information Theory", "Mathematics"]
+tags = ["compression", "limits", "shannon", "entropy", "encoding", "efficiency"]
+
+[[topics]]
+topic = "Network Information Theory"
+difficulty = "advanced"
+domains = ["Information Theory", "Computer Science"]
+tags = ["multi-user", "interference", "broadcast", "capacity", "channels", "communication"]
+
+[[topics]]
+topic = "Quantum Information Theory"
+difficulty = "advanced"
+domains = ["Information Theory", "Physics"]
+tags = ["qubits", "entanglement", "teleportation", "computing", "superposition", "shannon"]
+
+[[topics]]
+topic = "Algorithmic Information Theory"
+difficulty = "advanced"
+domains = ["Information Theory", "Computer Science"]
+tags = ["chaitin", "complexity", "randomness", "computation", "programs", "limits"]
+
+[[topics]]
+topic = "Huffman Coding"
+difficulty = "intermediate"
+domains = ["Information Theory", "Computer Science"]
+tags = ["compression", "algorithm", "prefix-codes", "efficiency", "trees", "lossless"]
+
+[[topics]]
+topic = "Rate-Distortion Theory"
+difficulty = "advanced"
+domains = ["Information Theory", "Engineering"]
+tags = ["lossy-compression", "trade-off", "quality", "limits", "quantization", "shannon"]
+
+[[topics]]
+topic = "Information Geometry"
+difficulty = "advanced"
+domains = ["Information Theory", "Mathematics"]
+tags = ["probability", "manifolds", "fisher-information", "distance", "statistics", "structure"]
+
+[[topics]]
+topic = "Fisher Information"
+difficulty = "advanced"
+domains = ["Information Theory", "Statistics"]
+tags = ["estimation", "variance", "parameters", "cramer-rao", "precision", "measure"]
+
+[[topics]]
+topic = "Maximum Entropy Principle"
+difficulty = "intermediate"
+domains = ["Information Theory", "Statistics"]
+tags = ["inference", "probability", "jaynes", "priors", "uncertainty", "constraints"]
+
+[[topics]]
+topic = "Information Bottleneck"
+difficulty = "advanced"
+domains = ["Information Theory", "Machine Learning"]
+tags = ["compression", "relevance", "representation", "deep-learning", "trade-off", "tishby"]
+
+[[topics]]
+topic = "Hamming Distance"
+difficulty = "beginner"
+domains = ["Information Theory", "Computer Science"]
+tags = ["strings", "difference", "error-detection", "metrics", "coding", "comparison"]
+
+[[topics]]
+topic = "Turbo Codes"
+difficulty = "advanced"
+domains = ["Information Theory", "Engineering"]
+tags = ["error-correction", "performance", "shannon-limit", "communication", "iterative", "decoding"]
+
+[[topics]]
+topic = "Lempel-Ziv Complexity"
+difficulty = "intermediate"
+domains = ["Information Theory", "Computer Science"]
+tags = ["compression", "patterns", "sequences", "algorithms", "zip", "randomness"]
+
+[[topics]]
+topic = "Differential Entropy"
+difficulty = "advanced"
+domains = ["Information Theory", "Mathematics"]
+tags = ["continuous", "variables", "probability", "measure", "properties", "shannon"]
+
+[[topics]]
+topic = "Kullback-Leibler Divergence"
+difficulty = "advanced"
+domains = ["Information Theory", "Statistics"]
+tags = ["distance", "probability", "distributions", "relative-entropy", "difference", "measure"]
+
+[[topics]]
+topic = "Stochastic Processes"
+difficulty = "intermediate"
+domains = ["Information Theory", "Statistics"]
+tags = ["randomness", "time", "markov-chains", "sequences", "models", "probability"]
+
+[[topics]]
+topic = "Information in Biology"
+difficulty = "intermediate"
+domains = ["Information Theory", "Biology"]
+tags = ["dna", "genetic-code", "signaling", "complexity", "evolution", "storage"]
+
+[[topics]]
+topic = "Maxwell's Demon"
+difficulty = "intermediate"
+domains = ["Information Theory", "Physics"]
+tags = ["thermodynamics", "entropy", "information", "paradox", "energy", "landauer"]
+
+[[topics]]
+topic = "Landauer's Principle"
+difficulty = "advanced"
+domains = ["Information Theory", "Physics"]
+tags = ["energy", "erasure", "computation", "thermodynamics", "limits", "heat"]
+
+[[topics]]
+topic = "Cybernetics"
+difficulty = "intermediate"
+domains = ["Information Theory", "Systems"]
+tags = ["wiener", "control", "feedback", "communication", "systems", "regulation"]
+
+[[topics]]
+topic = "Digital Communication"
+difficulty = "beginner"
+domains = ["Information Theory", "Engineering"]
+tags = ["signals", "modulation", "transmission", "data", "systems", "networks"]
+
+[[topics]]
+topic = "Redundancy"
+difficulty = "beginner"
+domains = ["Information Theory", "Linguistics"]
+tags = ["language", "reliability", "compression", "repetition", "efficiency", "structure"]

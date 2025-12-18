@@ -1,0 +1,179 @@
+[[topics]]
+topic = "Epigenetics"
+difficulty = "intermediate"
+domains = ["Biology", "Genetics"]
+tags = ["gene-expression", "dna-methylation", "inheritance", "environment", "phenotype", "chromatin"]
+
+[[topics]]
+topic = "CRISPR"
+difficulty = "intermediate"
+domains = ["Biology", "Genetics"]
+tags = ["gene-editing", "cas9", "biotechnology", "ethics", "dna-repair", "genome"]
+
+[[topics]]
+topic = "Symbiosis"
+difficulty = "beginner"
+domains = ["Biology", "Ecology"]
+tags = ["mutualism", "parasitism", "commensalism", "interaction", "coevolution", "microbiome"]
+
+[[topics]]
+topic = "Photosynthesis"
+difficulty = "beginner"
+domains = ["Biology", "Chemistry"]
+tags = ["chlorophyll", "light-reaction", "calvin-cycle", "energy", "plants", "autotrophs"]
+
+[[topics]]
+topic = "Mitosis vs Meiosis"
+difficulty = "beginner"
+domains = ["Biology", "Genetics"]
+tags = ["cell-division", "reproduction", "chromosomes", "gametes", "cell-cycle", "dna-replication"]
+
+[[topics]]
+topic = "Protein Folding"
+difficulty = "advanced"
+domains = ["Biology", "Chemistry"]
+tags = ["amino-acids", "structure", "enzymes", "chaperones", "misfolding", "prions"]
+
+[[topics]]
+topic = "The Central Dogma"
+difficulty = "beginner"
+domains = ["Biology", "Genetics"]
+tags = ["dna", "rna", "protein", "transcription", "translation", "crick"]
+
+[[topics]]
+topic = "Homeostasis"
+difficulty = "beginner"
+domains = ["Biology", "Physiology"]
+tags = ["balance", "regulation", "feedback-loops", "temperature", "stability", "organism"]
+
+[[topics]]
+topic = "Biodiversity"
+difficulty = "beginner"
+domains = ["Biology", "Ecology"]
+tags = ["species", "ecosystem", "conservation", "extinction", "genetic-diversity", "richness"]
+
+[[topics]]
+topic = "Stem Cells"
+difficulty = "intermediate"
+domains = ["Biology", "Medicine"]
+tags = ["differentiation", "regeneration", "pluripotency", "therapy", "development", "ethics"]
+
+[[topics]]
+topic = "Viruses"
+difficulty = "beginner"
+domains = ["Biology", "Microbiology"]
+tags = ["pathogens", "rna", "capsid", "infection", "host", "replication"]
+
+[[topics]]
+topic = "The Microbiome"
+difficulty = "intermediate"
+domains = ["Biology", "Medicine"]
+tags = ["bacteria", "gut-health", "symbiosis", "immunity", "microbes", "ecology"]
+
+[[topics]]
+topic = "Evolutionary Psychology"
+difficulty = "intermediate"
+domains = ["Biology", "Psychology"]
+tags = ["adaptation", "behavior", "selection", "mating", "cognition", "survival"]
+
+[[topics]]
+topic = "Bioluminescence"
+difficulty = "beginner"
+domains = ["Biology", "Chemistry"]
+tags = ["light", "marine-biology", "luciferin", "communication", "predation", "organisms"]
+
+[[topics]]
+topic = "Circadian Rhythms"
+difficulty = "intermediate"
+domains = ["Biology", "Physiology"]
+tags = ["biological-clock", "sleep", "light", "hormones", "cycles", "chronobiology"]
+
+[[topics]]
+topic = "Extremophiles"
+difficulty = "intermediate"
+domains = ["Biology", "Microbiology"]
+tags = ["archaea", "extreme-environments", "adaptation", "astrobiology", "heat", "acid"]
+
+[[topics]]
+topic = "Synthetic Biology"
+difficulty = "advanced"
+domains = ["Biology", "Engineering"]
+tags = ["bioengineering", "design", "genetic-circuits", "artificial-life", "biotechnology", "systems"]
+
+[[topics]]
+topic = "Origin of Life"
+difficulty = "advanced"
+domains = ["Biology", "Chemistry"]
+tags = ["abiogenesis", "rna-world", "primordial-soup", "evolution", "metabolism", "prebiotic"]
+
+[[topics]]
+topic = "Neuroplasticity"
+difficulty = "intermediate"
+domains = ["Biology", "Neuroscience"]
+tags = ["brain", "learning", "synapses", "adaptation", "memory", "recovery"]
+
+[[topics]]
+topic = "Immunotherapy"
+difficulty = "intermediate"
+domains = ["Biology", "Medicine"]
+tags = ["cancer", "immune-system", "antibodies", "t-cells", "treatment", "innovation"]
+
+[[topics]]
+topic = "Pheromones"
+difficulty = "beginner"
+domains = ["Biology", "Chemistry"]
+tags = ["communication", "behavior", "insects", "mating", "signals", "olfaction"]
+
+[[topics]]
+topic = "Apoptosis"
+difficulty = "intermediate"
+domains = ["Biology", "Medicine"]
+tags = ["cell-death", "development", "cancer", "regulation", "suicide", "homeostasis"]
+
+[[topics]]
+topic = "Horizontal Gene Transfer"
+difficulty = "advanced"
+domains = ["Biology", "Genetics"]
+tags = ["bacteria", "evolution", "antibiotic-resistance", "plasmids", "genetic-exchange", "phylogeny"]
+
+[[topics]]
+topic = "Biomimicry"
+difficulty = "beginner"
+domains = ["Biology", "Engineering"]
+tags = ["design", "nature", "innovation", "technology", "adaptation", "solutions"]
+
+[[topics]]
+topic = "Telomeres"
+difficulty = "intermediate"
+domains = ["Biology", "Genetics"]
+tags = ["aging", "chromosomes", "replication", "cancer", "senescence", "protection"]
+
+[[topics]]
+topic = "Metabolism"
+difficulty = "beginner"
+domains = ["Biology", "Chemistry"]
+tags = ["energy", "catabolism", "anabolism", "enzymes", "atp", "pathways"]
+
+[[topics]]
+topic = "Invasive Species"
+difficulty = "beginner"
+domains = ["Biology", "Ecology"]
+tags = ["ecosystem", "competition", "disruption", "conservation", "introduction", "pests"]
+
+[[topics]]
+topic = "Mycology"
+difficulty = "beginner"
+domains = ["Biology", "Ecology"]
+tags = ["fungi", "mushrooms", "mycelium", "decomposition", "symbiosis", "spores"]
+
+[[topics]]
+topic = "Ethology"
+difficulty = "intermediate"
+domains = ["Biology", "Psychology"]
+tags = ["animal-behavior", "instinct", "learning", "lorenz", "tinbergen", "observation"]
+
+[[topics]]
+topic = "Xenobiology"
+difficulty = "advanced"
+domains = ["Biology", "Astronomy"]
+tags = ["aliens", "extraterrestrial-life", "biochemistry", "speculation", "planets", "life"]

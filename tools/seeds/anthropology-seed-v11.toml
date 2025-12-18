@@ -1,0 +1,179 @@
+[[topics]]
+topic = "Structural Functionalism"
+difficulty = "intermediate"
+domains = ["Anthropology", "Sociology"]
+tags = ["social-structure", "institutions", "radcliffe-brown", "stability", "function", "society"]
+
+[[topics]]
+topic = "Cultural Relativism"
+difficulty = "beginner"
+domains = ["Anthropology", "Ethics"]
+tags = ["boas", "ethnocentrism", "values", "context", "understanding", "diversity"]
+
+[[topics]]
+topic = "Ethnography"
+difficulty = "beginner"
+domains = ["Anthropology", "Sociology"]
+tags = ["fieldwork", "participant-observation", "methodology", "writing-culture", "qualitative-research", "description"]
+
+[[topics]]
+topic = "Gift Economy"
+difficulty = "intermediate"
+domains = ["Anthropology", "Economics"]
+tags = ["mauss", "reciprocity", "exchange", "kula-ring", "potlatch", "social-bonds"]
+
+[[topics]]
+topic = "Liminality"
+difficulty = "intermediate"
+domains = ["Anthropology", "Sociology"]
+tags = ["turner", "rites-of-passage", "threshold", "transition", "communitas", "ritual"]
+
+[[topics]]
+topic = "Totemism"
+difficulty = "intermediate"
+domains = ["Anthropology", "Religion"]
+tags = ["durkheim", "symbols", "clans", "nature", "sacred", "identity"]
+
+[[topics]]
+topic = "Hunter-Gatherers"
+difficulty = "beginner"
+domains = ["Anthropology", "History"]
+tags = ["foraging", "subsistence", "egalitarianism", "bands", "evolution", "prehistory"]
+
+[[topics]]
+topic = "Digital Anthropology"
+difficulty = "beginner"
+domains = ["Anthropology", "Computer Science"]
+tags = ["internet", "virtual-communities", "social-media", "technology", "cyberspace", "digital-culture"]
+
+[[topics]]
+topic = "Forensic Anthropology"
+difficulty = "intermediate"
+domains = ["Anthropology", "Medicine"]
+tags = ["bones", "identification", "crime", "skeletal-analysis", "death", "law"]
+
+[[topics]]
+topic = "Paleoanthropology"
+difficulty = "intermediate"
+domains = ["Anthropology", "Biology"]
+tags = ["human-evolution", "fossils", "hominids", "origins", "lucy", "bipedalism"]
+
+[[topics]]
+topic = "Language and Thought"
+difficulty = "intermediate"
+domains = ["Anthropology", "Linguistics"]
+tags = ["sapir-whorf", "relativity", "cognition", "culture", "perception", "communication"]
+
+[[topics]]
+topic = "Shamanism"
+difficulty = "intermediate"
+domains = ["Anthropology", "Religion"]
+tags = ["healing", "spirits", "trance", "altered-states", "intermediary", "indigenous"]
+
+[[topics]]
+topic = "Urban Anthropology"
+difficulty = "beginner"
+domains = ["Anthropology", "Sociology"]
+tags = ["cities", "migration", "poverty", "space", "globalization", "community"]
+
+[[topics]]
+topic = "Visual Anthropology"
+difficulty = "beginner"
+domains = ["Anthropology", "Art"]
+tags = ["photography", "film", "representation", "media", "observation", "documentary"]
+
+[[topics]]
+topic = "Taboo"
+difficulty = "beginner"
+domains = ["Anthropology", "Sociology"]
+tags = ["prohibition", "sacred", "pollution", "douglas", "social-control", "norms"]
+
+[[topics]]
+topic = "Cargo Cults"
+difficulty = "intermediate"
+domains = ["Anthropology", "Religion"]
+tags = ["melanesia", "colonialism", "millenarianism", "wealth", "ritual", "contact"]
+
+[[topics]]
+topic = "Ethnomusicology"
+difficulty = "beginner"
+domains = ["Anthropology", "Music"]
+tags = ["music", "culture", "performance", "tradition", "global-music", "fieldwork"]
+
+[[topics]]
+topic = "Human Ecology"
+difficulty = "intermediate"
+domains = ["Anthropology", "Biology"]
+tags = ["environment", "adaptation", "sustainability", "systems", "interaction", "resources"]
+
+[[topics]]
+topic = "Post-Colonialism"
+difficulty = "advanced"
+domains = ["Anthropology", "Political Science"]
+tags = ["power", "empire", "resistance", "identity", "subaltern", "said"]
+
+[[topics]]
+topic = "Symbolic Anthropology"
+difficulty = "advanced"
+domains = ["Anthropology", "Philosophy"]
+tags = ["geertz", "meaning", "interpretation", "thick-description", "symbols", "culture-as-text"]
+
+[[topics]]
+topic = "Primatology"
+difficulty = "beginner"
+domains = ["Anthropology", "Biology"]
+tags = ["apes", "monkeys", "behavior", "evolution", "goodall", "social-organization"]
+
+[[topics]]
+topic = "Cyborg Anthropology"
+difficulty = "intermediate"
+domains = ["Anthropology", "Technology"]
+tags = ["human-machine", "posthumanism", "interface", "haraway", "technology", "body"]
+
+[[topics]]
+topic = "Museum Studies"
+difficulty = "beginner"
+domains = ["Anthropology", "History"]
+tags = ["curation", "representation", "repatriation", "heritage", "exhibition", "collections"]
+
+[[topics]]
+topic = "Oral History"
+difficulty = "beginner"
+domains = ["Anthropology", "History"]
+tags = ["memory", "narrative", "interview", "tradition", "storytelling", "testimony"]
+
+[[topics]]
+topic = "Development Anthropology"
+difficulty = "intermediate"
+domains = ["Anthropology", "Economics"]
+tags = ["aid", "ngos", "poverty", "global-south", "intervention", "critique"]
+
+[[topics]]
+topic = "Feminist Anthropology"
+difficulty = "intermediate"
+domains = ["Anthropology", "Sociology"]
+tags = ["gender", "patriarchy", "roles", "inequality", "mead", "power"]
+
+[[topics]]
+topic = "Historical Particularism"
+difficulty = "intermediate"
+domains = ["Anthropology", "History"]
+tags = ["boas", "context", "history", "diffusion", "culture-area", "critique-of-evolutionism"]
+
+[[topics]]
+topic = "Material Culture"
+difficulty = "beginner"
+domains = ["Anthropology", "Archaeology"]
+tags = ["objects", "consumption", "artifacts", "meaning", "technology", "social-life-of-things"]
+
+[[topics]]
+topic = "Nomadism"
+difficulty = "beginner"
+domains = ["Anthropology", "Sociology"]
+tags = ["pastoralism", "mobility", "space", "territory", "state", "lifestyle"]
+
+[[topics]]
+topic = "Witchcraft"
+difficulty = "intermediate"
+domains = ["Anthropology", "Religion"]
+tags = ["evans-pritchard", "azande", "magic", "accusation", "social-tension", "belief"]

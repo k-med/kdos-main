@@ -1,0 +1,179 @@
+[[topics]]
+topic = "Montessori Method"
+difficulty = "beginner"
+domains = ["Education", "Psychology"]
+tags = ["child-development", "independence", "hands-on", "maria-montessori", "environment", "learning"]
+
+[[topics]]
+topic = "Constructivism"
+difficulty = "intermediate"
+domains = ["Education", "Psychology"]
+tags = ["piaget", "vygotsky", "active-learning", "scaffolding", "knowledge-construction", "theory"]
+
+[[topics]]
+topic = "Standardized Testing"
+difficulty = "beginner"
+domains = ["Education", "Statistics"]
+tags = ["assessment", "accountability", "measurement", "controversy", "policy", "scores"]
+
+[[topics]]
+topic = "Critical Pedagogy"
+difficulty = "advanced"
+domains = ["Education", "Sociology"]
+tags = ["freire", "oppression", "consciousness", "dialogue", "social-justice", "liberation"]
+
+[[topics]]
+topic = "Distance Learning"
+difficulty = "beginner"
+domains = ["Education", "Technology"]
+tags = ["online-education", "moocs", "access", "virtual-classroom", "zoom", "flexibility"]
+
+[[topics]]
+topic = "Bloom's Taxonomy"
+difficulty = "intermediate"
+domains = ["Education", "Psychology"]
+tags = ["cognitive-domain", "learning-objectives", "classification", "thinking-skills", "mastery", "hierarchy"]
+
+[[topics]]
+topic = "Homeschooling"
+difficulty = "beginner"
+domains = ["Education", "Sociology"]
+tags = ["alternative-education", "parenting", "socialization", "curriculum", "choice", "regulation"]
+
+[[topics]]
+topic = "Andragogy"
+difficulty = "intermediate"
+domains = ["Education", "Psychology"]
+tags = ["adult-learning", "knowles", "self-directed", "experience", "motivation", "lifelong-learning"]
+
+[[topics]]
+topic = "Inclusive Education"
+difficulty = "intermediate"
+domains = ["Education", "Ethics"]
+tags = ["disability", "diversity", "access", "equity", "mainstreaming", "support"]
+
+[[topics]]
+topic = "Gamification in Education"
+difficulty = "beginner"
+domains = ["Education", "Computer Science"]
+tags = ["engagement", "rewards", "game-design", "motivation", "learning", "play"]
+
+[[topics]]
+topic = "Bilingual Education"
+difficulty = "intermediate"
+domains = ["Education", "Linguistics"]
+tags = ["language-acquisition", "immersion", "esl", "cognition", "culture", "policy"]
+
+[[topics]]
+topic = "The Socratic Method"
+difficulty = "beginner"
+domains = ["Education", "Philosophy"]
+tags = ["questioning", "dialogue", "critical-thinking", "teaching", "logic", "discovery"]
+
+[[topics]]
+topic = "School Choice"
+difficulty = "intermediate"
+domains = ["Education", "Political Science"]
+tags = ["vouchers", "charter-schools", "privatization", "equity", "competition", "policy"]
+
+[[topics]]
+topic = "Multiple Intelligences"
+difficulty = "beginner"
+domains = ["Education", "Psychology"]
+tags = ["gardner", "learning-styles", "diversity", "abilities", "critique", "theory"]
+
+[[topics]]
+topic = "Project-Based Learning"
+difficulty = "beginner"
+domains = ["Education", "Engineering"]
+tags = ["collaboration", "real-world", "inquiry", "skills", "projects", "active-learning"]
+
+[[topics]]
+topic = "Literacy"
+difficulty = "beginner"
+domains = ["Education", "Linguistics"]
+tags = ["reading", "writing", "phonics", "comprehension", "skills", "development"]
+
+[[topics]]
+topic = "Education Reform"
+difficulty = "intermediate"
+domains = ["Education", "Political Science"]
+tags = ["policy", "change", "standards", "funding", "equity", "history"]
+
+[[topics]]
+topic = "Gifted Education"
+difficulty = "intermediate"
+domains = ["Education", "Psychology"]
+tags = ["intelligence", "enrichment", "acceleration", "needs", "identification", "talent"]
+
+[[topics]]
+topic = "Hidden Curriculum"
+difficulty = "intermediate"
+domains = ["Education", "Sociology"]
+tags = ["socialization", "norms", "values", "implicit", "culture", "schooling"]
+
+[[topics]]
+topic = "Flipped Classroom"
+difficulty = "beginner"
+domains = ["Education", "Technology"]
+tags = ["instruction", "homework", "video", "active-learning", "model", "teaching"]
+
+[[topics]]
+topic = "Vocational Education"
+difficulty = "beginner"
+domains = ["Education", "Economics"]
+tags = ["skills", "trades", "workforce", "career", "training", "apprenticeship"]
+
+[[topics]]
+topic = "Teacher Burnout"
+difficulty = "intermediate"
+domains = ["Education", "Psychology"]
+tags = ["stress", "retention", "workload", "mental-health", "profession", "support"]
+
+[[topics]]
+topic = "Deschooling Society"
+difficulty = "advanced"
+domains = ["Education", "Philosophy"]
+tags = ["illich", "institutions", "learning-webs", "critique", "society", "autonomy"]
+
+[[topics]]
+topic = "Growth Mindset"
+difficulty = "beginner"
+domains = ["Education", "Psychology"]
+tags = ["dweck", "effort", "intelligence", "resilience", "belief", "achievement"]
+
+[[topics]]
+topic = "STEM Education"
+difficulty = "beginner"
+domains = ["Education", "Science"]
+tags = ["science", "technology", "engineering", "math", "integration", "workforce"]
+
+[[topics]]
+topic = "Philosophy of Education"
+difficulty = "advanced"
+domains = ["Education", "Philosophy"]
+tags = ["dewey", "purpose", "values", "knowledge", "ethics", "theory"]
+
+[[topics]]
+topic = "Peer Learning"
+difficulty = "beginner"
+domains = ["Education", "Sociology"]
+tags = ["collaboration", "tutoring", "interaction", "social-learning", "groups", "support"]
+
+[[topics]]
+topic = "Digital Divide"
+difficulty = "intermediate"
+domains = ["Education", "Sociology"]
+tags = ["access", "inequality", "technology", "internet", "equity", "skills"]
+
+[[topics]]
+topic = "Waldorf Education"
+difficulty = "intermediate"
+domains = ["Education", "Philosophy"]
+tags = ["steiner", "anthroposophy", "arts", "holistic", "development", "imagination"]
+
+[[topics]]
+topic = "Learning Disabilities"
+difficulty = "intermediate"
+domains = ["Education", "Psychology"]
+tags = ["dyslexia", "adhd", "support", "intervention", "neurodiversity", "accommodation"]

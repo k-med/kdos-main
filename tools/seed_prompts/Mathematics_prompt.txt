@@ -1,0 +1,61 @@
+--- PROMPT FOR MATHEMATICS ---
+I need to generate 100 new seed topics for the domain 'Mathematics'.
+Here is the list of ALL topics that ALREADY EXIST in 'Mathematics' (do not generate these):
+```
+- Algorithmic Information Theory
+- Algorithms
+- Calculus
+- Chaos Theory
+- Combinatorics
+- Complexity Theory
+- Control Theory
+- Cryptography
+- Derivatives
+- Differential Equations
+- Game Theory
+- Graph Theory
+- Group Theory
+- Information Theory
+- Kolmogorov Complexity
+- Linear Algebra
+- Logic
+- Model Theory
+- Network Theory
+- Number Theory
+- Perspective
+- Predicate Logic
+- Probability
+- Proof Theory
+- Propositional Logic
+- Real Analysis
+- Set Theory
+- Signal Processing
+- Source Coding Theorem
+- Standard Deviation
+- Time Value of Money
+- Topology
+- Variance
+- Voting Systems
+```
+
+Please generate 100 NEW, distinct topics for 'Mathematics' that are not in the list above.
+
+CRITICAL INSTRUCTION FOR BREADTH & HOMOGENEITY:
+- Span the WIDEST possible range within this theme/domain.
+- Distribute the topics evenly to cover different aspects (e.g., different eras, different types, different theories).
+- Avoid clustering around a single sub-topic.
+- Ensure maximum distinctness between topics to prevent information overlap.
+
+CRITICAL: You must ONLY use domains from the following allowed list:
+```
+Mathematics, Statistics, Computer Science, Engineering, Physics, Chemistry, Biology, Medicine, Economics, Finance, Philosophy, History, Psychology, Linguistics, Sociology, Anthropology, Law, Political Science, Ethics, Logic, Metaphysics, Epistemology, Aesthetics, Theology, Mythology, Literature, Education, Systems, Information Theory, Meta, Art, Military
+```
+
+Format the output as a TOML file following this schema:
+
+[[topics]]
+topic = "Topic Name"
+difficulty = "beginner" # or intermediate, advanced
+domains = ["Domain", "Related Domain"] # MUST be from the allowed list above
+tags = ["tag1", "tag2", "tag3"]
+

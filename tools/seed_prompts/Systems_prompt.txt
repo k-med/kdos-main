@@ -1,0 +1,47 @@
+--- PROMPT FOR SYSTEMS ---
+I need to generate 100 new seed topics for the domain 'Systems'.
+Here is the list of ALL topics that ALREADY EXIST in 'Systems' (do not generate these):
+```
+- Biological Systems
+- Chaos Theory
+- Complexity Theory
+- Control Systems
+- Control Theory
+- Cybernetics
+- Distributed Systems
+- Emergence
+- Feedback Loops
+- Game Theory
+- Hierarchy
+- Information Systems
+- Information Theory
+- Logistics
+- Network Theory
+- Operating Systems
+- Resilience
+- System Dynamics
+- Systems Theory
+- Systems Thinking
+```
+
+Please generate 100 NEW, distinct topics for 'Systems' that are not in the list above.
+
+CRITICAL INSTRUCTION FOR BREADTH & HOMOGENEITY:
+- Span the WIDEST possible range within this theme/domain.
+- Distribute the topics evenly to cover different aspects (e.g., different eras, different types, different theories).
+- Avoid clustering around a single sub-topic.
+- Ensure maximum distinctness between topics to prevent information overlap.
+
+CRITICAL: You must ONLY use domains from the following allowed list:
+```
+Mathematics, Statistics, Computer Science, Engineering, Physics, Chemistry, Biology, Medicine, Economics, Finance, Philosophy, History, Psychology, Linguistics, Sociology, Anthropology, Law, Political Science, Ethics, Logic, Metaphysics, Epistemology, Aesthetics, Theology, Mythology, Literature, Education, Systems, Information Theory, Meta, Art, Military
+```
+
+Format the output as a TOML file following this schema:
+
+[[topics]]
+topic = "Topic Name"
+difficulty = "beginner" # or intermediate, advanced
+domains = ["Domain", "Related Domain"] # MUST be from the allowed list above
+tags = ["tag1", "tag2", "tag3"]
+

@@ -1,0 +1,179 @@
+[[topics]]
+topic = "Kitsch"
+difficulty = "beginner"
+domains = ["Aesthetics", "Sociology"]
+tags = ["taste", "mass-culture", "sentimentality", "art-criticism", "consumerism"]
+
+[[topics]]
+topic = "Camp"
+difficulty = "intermediate"
+domains = ["Aesthetics", "Sociology"]
+tags = ["irony", "exaggeration", "theatricality", "sontag", "style", "pop-culture"]
+
+[[topics]]
+topic = "The Picturesque"
+difficulty = "intermediate"
+domains = ["Aesthetics", "Art History"]
+tags = ["landscape", "nature", "roughness", "variety", "gilpin", "romanticism"]
+
+[[topics]]
+topic = "Grotesque"
+difficulty = "intermediate"
+domains = ["Aesthetics", "Literature"]
+tags = ["distortion", "monstrous", "hybridity", "satire", "carnivalesque", "bakhtin"]
+
+[[topics]]
+topic = "Avant-Garde"
+difficulty = "intermediate"
+domains = ["Aesthetics", "Art History"]
+tags = ["innovation", "rebellion", "modernism", "experimental-art", "politics", "manifesto"]
+
+[[topics]]
+topic = "Aesthetic Judgment"
+difficulty = "advanced"
+domains = ["Aesthetics", "Philosophy"]
+tags = ["kant", "subjectivity", "universality", "disinterestedness", "critique", "taste"]
+
+[[topics]]
+topic = "Everyday Aesthetics"
+difficulty = "beginner"
+domains = ["Aesthetics", "Sociology"]
+tags = ["daily-life", "design", "environment", "routine", "functional-beauty", "saito"]
+
+[[topics]]
+topic = "Feminist Aesthetics"
+difficulty = "intermediate"
+domains = ["Aesthetics", "Sociology"]
+tags = ["gender", "gaze", "representation", "body", "politics", "art-history"]
+
+[[topics]]
+topic = "Japanese Aesthetics"
+difficulty = "intermediate"
+domains = ["Aesthetics", "Philosophy"]
+tags = ["wabi-sabi", "imperfection", "transience", "nature", "zen", "simplicity"]
+
+[[topics]]
+topic = "Neuroaesthetics"
+difficulty = "advanced"
+domains = ["Aesthetics", "Psychology"]
+tags = ["brain", "perception", "neuroscience", "evolutionary-psychology", "visual-cortex", "pleasure"]
+
+[[topics]]
+topic = "The Uncanny"
+difficulty = "intermediate"
+domains = ["Aesthetics", "Psychology"]
+tags = ["freud", "familiarity", "strangeness", "horror", "robots", "uncanny-valley"]
+
+[[topics]]
+topic = "Iconography"
+difficulty = "intermediate"
+domains = ["Aesthetics", "Art History"]
+tags = ["symbols", "meaning", "interpretation", "panofsky", "visual-culture", "religious-art"]
+
+[[topics]]
+topic = "Minimalism"
+difficulty = "beginner"
+domains = ["Aesthetics", "Art"]
+tags = ["simplicity", "reduction", "geometry", "abstraction", "modern-art", "less-is-more"]
+
+[[topics]]
+topic = "Surrealism"
+difficulty = "beginner"
+domains = ["Aesthetics", "Art"]
+tags = ["unconscious", "dreams", "automatism", "breton", "dali", "juxtaposition"]
+
+[[topics]]
+topic = "Postmodernism"
+difficulty = "advanced"
+domains = ["Aesthetics", "Philosophy"]
+tags = ["pastiche", "irony", "fragmentation", "lyotard", "meta-narrative", "relativism"]
+
+[[topics]]
+topic = "Public Art"
+difficulty = "beginner"
+domains = ["Aesthetics", "Sociology"]
+tags = ["urban-space", "community", "monuments", "graffiti", "street-art", "controversy"]
+
+[[topics]]
+topic = "Design Theory"
+difficulty = "intermediate"
+domains = ["Aesthetics", "Engineering"]
+tags = ["function", "form", "usability", "bauhaus", "industrial-design", "ergonomics"]
+
+[[topics]]
+topic = "Musical Formalism"
+difficulty = "advanced"
+domains = ["Aesthetics", "Music"]
+tags = ["hanslick", "structure", "absolute-music", "emotion", "meaning", "autonomy"]
+
+[[topics]]
+topic = "Tragedy vs Comedy"
+difficulty = "beginner"
+domains = ["Aesthetics", "Literature"]
+tags = ["genre", "aristotle", "catharsis", "humor", "suffering", "resolution"]
+
+[[topics]]
+topic = "The Death of the Author"
+difficulty = "intermediate"
+domains = ["Aesthetics", "Literature"]
+tags = ["barthes", "interpretation", "intent", "reader-response", "textuality", "meaning"]
+
+[[topics]]
+topic = "Aestheticism"
+difficulty = "intermediate"
+domains = ["Aesthetics", "Literature"]
+tags = ["art-for-arts-sake", "wilde", "decadence", "beauty", "morality", "19th-century"]
+
+[[topics]]
+topic = "Digital Aesthetics"
+difficulty = "beginner"
+domains = ["Aesthetics", "Computer Science"]
+tags = ["glitch-art", "pixels", "virtual-reality", "internet-art", "generative-art", "new-media"]
+
+[[topics]]
+topic = "Socialist Realism"
+difficulty = "intermediate"
+domains = ["Aesthetics", "Political Science"]
+tags = ["propaganda", "ideology", "soviet-union", "idealization", "politics", "censorship"]
+
+[[topics]]
+topic = "Abstract Expressionism"
+difficulty = "intermediate"
+domains = ["Aesthetics", "Art"]
+tags = ["pollock", "action-painting", "color-field", "emotion", "spontaneity", "new-york-school"]
+
+[[topics]]
+topic = "Hermeneutics"
+difficulty = "advanced"
+domains = ["Aesthetics", "Philosophy"]
+tags = ["interpretation", "text", "gadamer", "understanding", "context", "meaning"]
+
+[[topics]]
+topic = "Participatory Art"
+difficulty = "intermediate"
+domains = ["Aesthetics", "Sociology"]
+tags = ["relational-aesthetics", "audience", "interaction", "community", "social-practice", "bourriaud"]
+
+[[topics]]
+topic = "Fashion Theory"
+difficulty = "beginner"
+domains = ["Aesthetics", "Sociology"]
+tags = ["style", "identity", "trends", "clothing", "body", "culture"]
+
+[[topics]]
+topic = "Culinary Aesthetics"
+difficulty = "beginner"
+domains = ["Aesthetics", "Sociology"]
+tags = ["taste", "food", "gastronomy", "sensory-experience", "presentation", "culture"]
+
+[[topics]]
+topic = "Silence in Art"
+difficulty = "intermediate"
+domains = ["Aesthetics", "Philosophy"]
+tags = ["cage", "void", "absence", "minimalism", "contemplation", "space"]
+
+[[topics]]
+topic = "Authenticity"
+difficulty = "intermediate"
+domains = ["Aesthetics", "Philosophy"]
+tags = ["originality", "forgery", "reproduction", "benjamin", "aura", "truth"]

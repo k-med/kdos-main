@@ -1,0 +1,179 @@
+[[topics]]
+topic = "Syllogisms"
+difficulty = "beginner"
+domains = ["Logic", "Philosophy"]
+tags = ["aristotle", "deduction", "premises", "conclusion", "validity", "structure"]
+
+[[topics]]
+topic = "Fuzzy Logic"
+difficulty = "intermediate"
+domains = ["Logic", "Computer Science"]
+tags = ["degrees-of-truth", "vagueness", "sets", "zadeh", "control-systems", "reasoning"]
+
+[[topics]]
+topic = "Deontic Logic"
+difficulty = "advanced"
+domains = ["Logic", "Ethics"]
+tags = ["obligation", "permission", "prohibition", "norms", "modal-logic", "rules"]
+
+[[topics]]
+topic = "Epistemic Logic"
+difficulty = "advanced"
+domains = ["Logic", "Epistemology"]
+tags = ["knowledge", "belief", "modal-logic", "reasoning", "agents", "information"]
+
+[[topics]]
+topic = "Temporal Logic"
+difficulty = "advanced"
+domains = ["Logic", "Computer Science"]
+tags = ["time", "tense", "future", "past", "reasoning", "verification"]
+
+[[topics]]
+topic = "Paraconsistent Logic"
+difficulty = "advanced"
+domains = ["Logic", "Philosophy"]
+tags = ["contradiction", "inconsistency", "explosion-principle", "reasoning", "truth", "systems"]
+
+[[topics]]
+topic = "Intuitionistic Logic"
+difficulty = "advanced"
+domains = ["Logic", "Mathematics"]
+tags = ["constructivism", "brouwer", "excluded-middle", "proof", "truth", "existence"]
+
+[[topics]]
+topic = "Boolean Algebra"
+difficulty = "beginner"
+domains = ["Logic", "Computer Science"]
+tags = ["true-false", "operators", "circuits", "binary", "computation", "rules"]
+
+[[topics]]
+topic = "The Liar Paradox"
+difficulty = "intermediate"
+domains = ["Logic", "Philosophy"]
+tags = ["truth", "self-reference", "contradiction", "language", "semantics", "tarski"]
+
+[[topics]]
+topic = "Gödel's Incompleteness Theorems"
+difficulty = "advanced"
+domains = ["Logic", "Mathematics"]
+tags = ["provability", "truth", "systems", "arithmetic", "limits", "consistency"]
+
+[[topics]]
+topic = "Logical Positivism"
+difficulty = "intermediate"
+domains = ["Logic", "Philosophy"]
+tags = ["verification", "meaning", "science", "vienna-circle", "language", "empiricism"]
+
+[[topics]]
+topic = "Abductive Reasoning"
+difficulty = "intermediate"
+domains = ["Logic", "Science"]
+tags = ["inference", "best-explanation", "peirce", "hypothesis", "observation", "induction"]
+
+[[topics]]
+topic = "Categorical Logic"
+difficulty = "intermediate"
+domains = ["Logic", "Philosophy"]
+tags = ["categories", "aristotle", "propositions", "square-of-opposition", "relations", "terms"]
+
+[[topics]]
+topic = "Symbolic Logic"
+difficulty = "beginner"
+domains = ["Logic", "Mathematics"]
+tags = ["formalism", "notation", "variables", "operators", "reasoning", "structure"]
+
+[[topics]]
+topic = "Relevance Logic"
+difficulty = "advanced"
+domains = ["Logic", "Philosophy"]
+tags = ["implication", "connection", "entailment", "premises", "conclusion", "systems"]
+
+[[topics]]
+topic = "Many-Valued Logic"
+difficulty = "intermediate"
+domains = ["Logic", "Mathematics"]
+tags = ["truth-values", "systems", "binary", "lukasiewicz", "possibility", "reasoning"]
+
+[[topics]]
+topic = "Dialetheism"
+difficulty = "advanced"
+domains = ["Logic", "Philosophy"]
+tags = ["contradiction", "truth", "priest", "paradoxes", "reality", "consistency"]
+
+[[topics]]
+topic = "Second-Order Logic"
+difficulty = "advanced"
+domains = ["Logic", "Mathematics"]
+tags = ["quantifiers", "properties", "sets", "expressiveness", "semantics", "variables"]
+
+[[topics]]
+topic = "Game Semantics"
+difficulty = "advanced"
+domains = ["Logic", "Computer Science"]
+tags = ["dialogue", "proofs", "games", "interaction", "truth", "strategies"]
+
+[[topics]]
+topic = "Lambda Calculus"
+difficulty = "advanced"
+domains = ["Logic", "Computer Science"]
+tags = ["functions", "computation", "church", "variables", "abstraction", "application"]
+
+[[topics]]
+topic = "Type Theory"
+difficulty = "advanced"
+domains = ["Logic", "Computer Science"]
+tags = ["russell", "classification", "paradoxes", "programming", "foundations", "systems"]
+
+[[topics]]
+topic = "Counterfactuals"
+difficulty = "intermediate"
+domains = ["Logic", "Philosophy"]
+tags = ["conditionals", "possibility", "lewis", "causality", "worlds", "reasoning"]
+
+[[topics]]
+topic = "Sorites Paradox"
+difficulty = "intermediate"
+domains = ["Logic", "Philosophy"]
+tags = ["vagueness", "heap", "boundaries", "language", "predicates", "reasoning"]
+
+[[topics]]
+topic = "Non-Monotonic Logic"
+difficulty = "advanced"
+domains = ["Logic", "Artificial Intelligence"]
+tags = ["defeasible", "reasoning", "assumptions", "knowledge", "updates", "exceptions"]
+
+[[topics]]
+topic = "Description Logics"
+difficulty = "advanced"
+domains = ["Logic", "Computer Science"]
+tags = ["knowledge-representation", "ontologies", "semantic-web", "reasoning", "concepts", "roles"]
+
+[[topics]]
+topic = "Quantum Logic"
+difficulty = "advanced"
+domains = ["Logic", "Physics"]
+tags = ["mechanics", "distributivity", "birkhoff", "von-neumann", "propositions", "systems"]
+
+[[topics]]
+topic = "Informal Logic"
+difficulty = "beginner"
+domains = ["Logic", "Education"]
+tags = ["argumentation", "critical-thinking", "language", "rhetoric", "reasoning", "context"]
+
+[[topics]]
+topic = "Truth Tables"
+difficulty = "beginner"
+domains = ["Logic", "Mathematics"]
+tags = ["validity", "operators", "propositions", "values", "calculation", "method"]
+
+[[topics]]
+topic = "Logical Atomism"
+difficulty = "advanced"
+domains = ["Logic", "Philosophy"]
+tags = ["russell", "wittgenstein", "language", "facts", "analysis", "structure"]
+
+[[topics]]
+topic = "Argumentation Theory"
+difficulty = "intermediate"
+domains = ["Logic", "Communication"]
+tags = ["debate", "persuasion", "reasoning", "dialogue", "structure", "fallacies"]

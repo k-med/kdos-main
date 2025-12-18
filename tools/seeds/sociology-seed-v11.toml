@@ -1,0 +1,179 @@
+[[topics]]
+topic = "Social Capital"
+difficulty = "intermediate"
+domains = ["Sociology", "Economics"]
+tags = ["networks", "trust", "putnam", "resources", "community", "relationships"]
+
+[[topics]]
+topic = "Symbolic Interactionism"
+difficulty = "intermediate"
+domains = ["Sociology", "Psychology"]
+tags = ["mead", "goffman", "meaning", "symbols", "interaction", "self"]
+
+[[topics]]
+topic = "Functionalism"
+difficulty = "intermediate"
+domains = ["Sociology", "Systems"]
+tags = ["durkheim", "parsons", "stability", "institutions", "society", "order"]
+
+[[topics]]
+topic = "Conflict Theory"
+difficulty = "intermediate"
+domains = ["Sociology", "Political Science"]
+tags = ["marx", "power", "inequality", "struggle", "change", "resources"]
+
+[[topics]]
+topic = "Gentrification"
+difficulty = "beginner"
+domains = ["Sociology", "Economics"]
+tags = ["urban", "displacement", "class", "development", "housing", "neighborhoods"]
+
+[[topics]]
+topic = "Intersectionality"
+difficulty = "intermediate"
+domains = ["Sociology", "Political Science"]
+tags = ["crenshaw", "identity", "oppression", "race", "gender", "class"]
+
+[[topics]]
+topic = "Globalization"
+difficulty = "beginner"
+domains = ["Sociology", "Economics"]
+tags = ["culture", "integration", "world-systems", "migration", "homogenization", "connectivity"]
+
+[[topics]]
+topic = "Secularization"
+difficulty = "intermediate"
+domains = ["Sociology", "Theology"]
+tags = ["religion", "modernity", "decline", "belief", "society", "institutions"]
+
+[[topics]]
+topic = "Social Mobility"
+difficulty = "beginner"
+domains = ["Sociology", "Economics"]
+tags = ["class", "opportunity", "status", "movement", "meritocracy", "inequality"]
+
+[[topics]]
+topic = "The Looking-Glass Self"
+difficulty = "beginner"
+domains = ["Sociology", "Psychology"]
+tags = ["cooley", "identity", "perception", "reflection", "socialization", "self"]
+
+[[topics]]
+topic = "Anomie"
+difficulty = "intermediate"
+domains = ["Sociology", "Psychology"]
+tags = ["durkheim", "normlessness", "suicide", "instability", "society", "breakdown"]
+
+[[topics]]
+topic = "Cultural Capital"
+difficulty = "intermediate"
+domains = ["Sociology", "Education"]
+tags = ["bourdieu", "knowledge", "status", "class", "taste", "advantage"]
+
+[[topics]]
+topic = "Habitus"
+difficulty = "advanced"
+domains = ["Sociology", "Psychology"]
+tags = ["bourdieu", "dispositions", "structure", "agency", "embodiment", "practice"]
+
+[[topics]]
+topic = "McDonaldization"
+difficulty = "beginner"
+domains = ["Sociology", "Economics"]
+tags = ["ritzer", "efficiency", "rationalization", "control", "predictability", "culture"]
+
+[[topics]]
+topic = "Social Construction of Reality"
+difficulty = "intermediate"
+domains = ["Sociology", "Philosophy"]
+tags = ["berger", "luckmann", "knowledge", "institutions", "language", "objectivity"]
+
+[[topics]]
+topic = "Deviance"
+difficulty = "beginner"
+domains = ["Sociology", "Law"]
+tags = ["norms", "crime", "labeling", "control", "sanctions", "behavior"]
+
+[[topics]]
+topic = "Moral Panics"
+difficulty = "beginner"
+domains = ["Sociology", "Psychology"]
+tags = ["media", "fear", "folk-devils", "reaction", "society", "threat"]
+
+[[topics]]
+topic = "Digital Divide"
+difficulty = "beginner"
+domains = ["Sociology", "Technology"]
+tags = ["access", "inequality", "internet", "skills", "information", "gap"]
+
+[[topics]]
+topic = "Social Movements"
+difficulty = "beginner"
+domains = ["Sociology", "Political Science"]
+tags = ["activism", "change", "collective-action", "protest", "organization", "goals"]
+
+[[topics]]
+topic = "Ethnocentrism"
+difficulty = "beginner"
+domains = ["Sociology", "Anthropology"]
+tags = ["culture", "bias", "judgment", "superiority", "relativism", "perspective"]
+
+[[topics]]
+topic = "Bureaucracy"
+difficulty = "intermediate"
+domains = ["Sociology", "Political Science"]
+tags = ["weber", "rationality", "organization", "rules", "efficiency", "iron-cage"]
+
+[[topics]]
+topic = "The Power Elite"
+difficulty = "intermediate"
+domains = ["Sociology", "Political Science"]
+tags = ["mills", "power", "military", "corporate", "government", "control"]
+
+[[topics]]
+topic = "Gender Roles"
+difficulty = "beginner"
+domains = ["Sociology", "Psychology"]
+tags = ["socialization", "expectations", "identity", "norms", "masculinity", "femininity"]
+
+[[topics]]
+topic = "Subcultures"
+difficulty = "beginner"
+domains = ["Sociology", "Anthropology"]
+tags = ["groups", "identity", "style", "resistance", "values", "norms"]
+
+[[topics]]
+topic = "Mass Media"
+difficulty = "beginner"
+domains = ["Sociology", "Communication"]
+tags = ["influence", "propaganda", "culture", "information", "society", "technology"]
+
+[[topics]]
+topic = "Urbanization"
+difficulty = "beginner"
+domains = ["Sociology", "Geography"]
+tags = ["cities", "migration", "development", "population", "lifestyle", "change"]
+
+[[topics]]
+topic = "Demography"
+difficulty = "intermediate"
+domains = ["Sociology", "Statistics"]
+tags = ["population", "birth-rates", "mortality", "migration", "trends", "analysis"]
+
+[[topics]]
+topic = "Social Networks"
+difficulty = "intermediate"
+domains = ["Sociology", "Computer Science"]
+tags = ["connections", "structure", "analysis", "ties", "influence", "interaction"]
+
+[[topics]]
+topic = "Collective Memory"
+difficulty = "intermediate"
+domains = ["Sociology", "History"]
+tags = ["group", "identity", "past", "narratives", "remembrance", "society"]
+
+[[topics]]
+topic = "Post-Industrial Society"
+difficulty = "intermediate"
+domains = ["Sociology", "Economics"]
+tags = ["bell", "services", "information", "knowledge", "economy", "change"]

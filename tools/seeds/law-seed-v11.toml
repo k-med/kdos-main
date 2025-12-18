@@ -1,0 +1,179 @@
+[[topics]]
+topic = "Environmental Law"
+difficulty = "intermediate"
+domains = ["Law", "Environment"]
+tags = ["regulation", "pollution", "conservation", "climate-change", "epa", "liability"]
+
+[[topics]]
+topic = "Family Law"
+difficulty = "beginner"
+domains = ["Law", "Sociology"]
+tags = ["marriage", "divorce", "custody", "adoption", "domestic-violence", "rights"]
+
+[[topics]]
+topic = "Cyber Law"
+difficulty = "intermediate"
+domains = ["Law", "Computer Science"]
+tags = ["internet", "privacy", "hacking", "data-protection", "jurisdiction", "crime"]
+
+[[topics]]
+topic = "Labor Law"
+difficulty = "beginner"
+domains = ["Law", "Economics"]
+tags = ["employment", "unions", "wages", "discrimination", "safety", "rights"]
+
+[[topics]]
+topic = "Tax Law"
+difficulty = "intermediate"
+domains = ["Law", "Finance"]
+tags = ["irs", "income", "deductions", "corporate", "evasion", "policy"]
+
+[[topics]]
+topic = "Maritime Law"
+difficulty = "intermediate"
+domains = ["Law", "International Relations"]
+tags = ["admiralty", "shipping", "oceans", "piracy", "jurisdiction", "commerce"]
+
+[[topics]]
+topic = "Space Law"
+difficulty = "advanced"
+domains = ["Law", "Astronomy"]
+tags = ["treaties", "sovereignty", "satellites", "resources", "exploration", "liability"]
+
+[[topics]]
+topic = "Medical Law"
+difficulty = "intermediate"
+domains = ["Law", "Medicine"]
+tags = ["malpractice", "consent", "bioethics", "healthcare", "negligence", "rights"]
+
+[[topics]]
+topic = "Immigration Law"
+difficulty = "beginner"
+domains = ["Law", "Political Science"]
+tags = ["visas", "citizenship", "asylum", "borders", "deportation", "policy"]
+
+[[topics]]
+topic = "Bankruptcy Law"
+difficulty = "intermediate"
+domains = ["Law", "Finance"]
+tags = ["insolvency", "debt", "liquidation", "restructuring", "creditors", "protection"]
+
+[[topics]]
+topic = "Antitrust Law"
+difficulty = "intermediate"
+domains = ["Law", "Economics"]
+tags = ["monopoly", "competition", "mergers", "regulation", "fairness", "markets"]
+
+[[topics]]
+topic = "Evidence"
+difficulty = "intermediate"
+domains = ["Law", "Epistemology"]
+tags = ["proof", "admissibility", "witnesses", "hearsay", "discovery", "trial"]
+
+[[topics]]
+topic = "Civil Procedure"
+difficulty = "intermediate"
+domains = ["Law", "Systems"]
+tags = ["courts", "litigation", "jurisdiction", "pleadings", "process", "rules"]
+
+[[topics]]
+topic = "Legal Ethics"
+difficulty = "beginner"
+domains = ["Law", "Ethics"]
+tags = ["responsibility", "confidentiality", "conflict-of-interest", "professionalism", "bar", "conduct"]
+
+[[topics]]
+topic = "Comparative Law"
+difficulty = "advanced"
+domains = ["Law", "Sociology"]
+tags = ["systems", "civil-law", "common-law", "analysis", "global", "differences"]
+
+[[topics]]
+topic = "Legal History"
+difficulty = "intermediate"
+domains = ["Law", "History"]
+tags = ["development", "codes", "precedent", "evolution", "magna-carta", "tradition"]
+
+[[topics]]
+topic = "Sports Law"
+difficulty = "beginner"
+domains = ["Law", "Sociology"]
+tags = ["contracts", "agents", "doping", "antitrust", "ncaa", "regulation"]
+
+[[topics]]
+topic = "Entertainment Law"
+difficulty = "beginner"
+domains = ["Law", "Art"]
+tags = ["media", "contracts", "copyright", "celebrity", "licensing", "industry"]
+
+[[topics]]
+topic = "Military Law"
+difficulty = "intermediate"
+domains = ["Law", "Military"]
+tags = ["justice", "courts-martial", "war-crimes", "geneva-convention", "conduct", "rules"]
+
+[[topics]]
+topic = "Education Law"
+difficulty = "intermediate"
+domains = ["Law", "Education"]
+tags = ["rights", "disabilities", "access", "policy", "schools", "students"]
+
+[[topics]]
+topic = "Animal Law"
+difficulty = "beginner"
+domains = ["Law", "Ethics"]
+tags = ["welfare", "rights", "protection", "cruelty", "status", "legislation"]
+
+[[topics]]
+topic = "Election Law"
+difficulty = "intermediate"
+domains = ["Law", "Political Science"]
+tags = ["voting", "campaign-finance", "gerrymandering", "democracy", "rights", "regulation"]
+
+[[topics]]
+topic = "Banking Law"
+difficulty = "intermediate"
+domains = ["Law", "Finance"]
+tags = ["regulation", "compliance", "institutions", "lending", "security", "policy"]
+
+[[topics]]
+topic = "Consumer Protection"
+difficulty = "beginner"
+domains = ["Law", "Economics"]
+tags = ["safety", "fraud", "rights", "products", "liability", "fairness"]
+
+[[topics]]
+topic = "Privacy Law"
+difficulty = "intermediate"
+domains = ["Law", "Sociology"]
+tags = ["data", "surveillance", "rights", "gdpr", "protection", "information"]
+
+[[topics]]
+topic = "Native American Law"
+difficulty = "intermediate"
+domains = ["Law", "History"]
+tags = ["sovereignty", "treaties", "tribes", "jurisdiction", "rights", "land"]
+
+[[topics]]
+topic = "Rule of Law"
+difficulty = "beginner"
+domains = ["Law", "Political Science"]
+tags = ["justice", "equality", "governance", "principles", "accountability", "order"]
+
+[[topics]]
+topic = "Legal Realism"
+difficulty = "advanced"
+domains = ["Law", "Philosophy"]
+tags = ["theory", "judges", "context", "behavior", "pragmatism", "critique"]
+
+[[topics]]
+topic = "Natural Law"
+difficulty = "advanced"
+domains = ["Law", "Philosophy"]
+tags = ["morality", "reason", "aquinas", "justice", "universal", "principles"]
+
+[[topics]]
+topic = "Legal Positivism"
+difficulty = "advanced"
+domains = ["Law", "Philosophy"]
+tags = ["hart", "austin", "rules", "separation", "authority", "validity"]

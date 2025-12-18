@@ -1,0 +1,179 @@
+[[topics]]
+topic = "Impressionism"
+difficulty = "beginner"
+domains = ["Art", "History"]
+tags = ["light", "color", "monet", "plein-air", "france", "modernity"]
+
+[[topics]]
+topic = "Cubism"
+difficulty = "intermediate"
+domains = ["Art", "Geometry"]
+tags = ["picasso", "braque", "fragmentation", "perspective", "abstraction", "collage"]
+
+[[topics]]
+topic = "Baroque"
+difficulty = "intermediate"
+domains = ["Art", "History"]
+tags = ["drama", "movement", "chiaroscuro", "caravaggio", "bernini", "grandeur"]
+
+[[topics]]
+topic = "Dada"
+difficulty = "intermediate"
+domains = ["Art", "Philosophy"]
+tags = ["anti-art", "absurdity", "duchamp", "readymade", "war", "chance"]
+
+[[topics]]
+topic = "Pop Art"
+difficulty = "beginner"
+domains = ["Art", "Sociology"]
+tags = ["warhol", "consumerism", "mass-media", "advertising", "repetition", "celebrity"]
+
+[[topics]]
+topic = "Land Art"
+difficulty = "intermediate"
+domains = ["Art", "Environment"]
+tags = ["earthworks", "nature", "site-specific", "smithson", "scale", "ephemeral"]
+
+[[topics]]
+topic = "Performance Art"
+difficulty = "intermediate"
+domains = ["Art", "Theater"]
+tags = ["body", "presence", "abramovic", "endurance", "live", "audience"]
+
+[[topics]]
+topic = "Bauhaus"
+difficulty = "beginner"
+domains = ["Art", "Design"]
+tags = ["function", "modernism", "gropius", "architecture", "craft", "germany"]
+
+[[topics]]
+topic = "Abstract Art"
+difficulty = "beginner"
+domains = ["Art", "Philosophy"]
+tags = ["kandinsky", "non-representational", "form", "spirituality", "color", "pure-art"]
+
+[[topics]]
+topic = "Gothic Art"
+difficulty = "intermediate"
+domains = ["Art", "History"]
+tags = ["cathedrals", "stained-glass", "verticality", "religion", "middle-ages", "light"]
+
+[[topics]]
+topic = "Romanticism in Art"
+difficulty = "intermediate"
+domains = ["Art", "Literature"]
+tags = ["emotion", "nature", "sublime", "friedrich", "turner", "individualism"]
+
+[[topics]]
+topic = "Realism"
+difficulty = "beginner"
+domains = ["Art", "Sociology"]
+tags = ["courbet", "everyday-life", "truth", "labor", "society", "painting"]
+
+[[topics]]
+topic = "Conceptual Art"
+difficulty = "advanced"
+domains = ["Art", "Philosophy"]
+tags = ["ideas", "language", "kosuth", "dematerialization", "sol-lewitt", "definition"]
+
+[[topics]]
+topic = "Installation Art"
+difficulty = "beginner"
+domains = ["Art", "Architecture"]
+tags = ["space", "immersion", "environment", "experience", "site-specific", "mixed-media"]
+
+[[topics]]
+topic = "Printmaking"
+difficulty = "beginner"
+domains = ["Art", "Technology"]
+tags = ["etching", "lithography", "woodcut", "reproduction", "durer", "technique"]
+
+[[topics]]
+topic = "Fresco"
+difficulty = "intermediate"
+domains = ["Art", "Chemistry"]
+tags = ["wall-painting", "plaster", "michelangelo", "renaissance", "technique", "permanence"]
+
+[[topics]]
+topic = "Art Nouveau"
+difficulty = "beginner"
+domains = ["Art", "Design"]
+tags = ["nature", "curves", "decoration", "klimt", "architecture", "organic"]
+
+[[topics]]
+topic = "Expressionism"
+difficulty = "intermediate"
+domains = ["Art", "Psychology"]
+tags = ["emotion", "distortion", "munch", "angst", "germany", "subjectivity"]
+
+[[topics]]
+topic = "Futurism"
+difficulty = "intermediate"
+domains = ["Art", "Technology"]
+tags = ["speed", "violence", "machines", "italy", "marinetti", "dynamism"]
+
+[[topics]]
+topic = "Street Art"
+difficulty = "beginner"
+domains = ["Art", "Sociology"]
+tags = ["graffiti", "banksy", "public-space", "vandalism", "urban", "political"]
+
+[[topics]]
+topic = "Video Art"
+difficulty = "intermediate"
+domains = ["Art", "Technology"]
+tags = ["time", "moving-image", "paik", "monitor", "installation", "media"]
+
+[[topics]]
+topic = "Portraiture"
+difficulty = "beginner"
+domains = ["Art", "History"]
+tags = ["identity", "likeness", "self-portrait", "status", "representation", "face"]
+
+[[topics]]
+topic = "Still Life"
+difficulty = "beginner"
+domains = ["Art", "Philosophy"]
+tags = ["objects", "vanitas", "mortality", "composition", "domestic", "observation"]
+
+[[topics]]
+topic = "Art Conservation"
+difficulty = "intermediate"
+domains = ["Art", "Chemistry"]
+tags = ["restoration", "preservation", "aging", "materials", "ethics", "science"]
+
+[[topics]]
+topic = "The Golden Ratio"
+difficulty = "intermediate"
+domains = ["Art", "Mathematics"]
+tags = ["proportion", "geometry", "harmony", "composition", "nature", "fibonacci"]
+
+[[topics]]
+topic = "Calligraphy"
+difficulty = "beginner"
+domains = ["Art", "Linguistics"]
+tags = ["writing", "ink", "brush", "typography", "gesture", "text"]
+
+[[topics]]
+topic = "Ceramics"
+difficulty = "beginner"
+domains = ["Art", "Chemistry"]
+tags = ["clay", "pottery", "firing", "glaze", "craft", "vessel"]
+
+[[topics]]
+topic = "Rococo"
+difficulty = "intermediate"
+domains = ["Art", "History"]
+tags = ["ornament", "pastel", "playfulness", "france", "aristocracy", "watteau"]
+
+[[topics]]
+topic = "Neoclassicism"
+difficulty = "intermediate"
+domains = ["Art", "History"]
+tags = ["rome", "order", "reason", "david", "enlightenment", "virtue"]
+
+[[topics]]
+topic = "Outsider Art"
+difficulty = "intermediate"
+domains = ["Art", "Psychology"]
+tags = ["raw-art", "mental-illness", "dubuffet", "untrained", "marginal", "creativity"]

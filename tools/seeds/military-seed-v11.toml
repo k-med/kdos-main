@@ -1,0 +1,179 @@
+[[topics]]
+topic = "Asymmetric Warfare"
+difficulty = "intermediate"
+domains = ["Military", "Political Science"]
+tags = ["insurgency", "terrorism", "tactics", "power", "conflict", "strategy"]
+
+[[topics]]
+topic = "Total War"
+difficulty = "intermediate"
+domains = ["Military", "History"]
+tags = ["mobilization", "civilians", "resources", "wwii", "economy", "destruction"]
+
+[[topics]]
+topic = "Drones"
+difficulty = "beginner"
+domains = ["Military", "Technology"]
+tags = ["uav", "surveillance", "strikes", "automation", "ethics", "future"]
+
+[[topics]]
+topic = "Special Forces"
+difficulty = "beginner"
+domains = ["Military", "History"]
+tags = ["elite", "operations", "training", "seals", "sas", "tactics"]
+
+[[topics]]
+topic = "Biological Warfare"
+difficulty = "intermediate"
+domains = ["Military", "Biology"]
+tags = ["pathogens", "weapons", "bioterrorism", "ethics", "geneva-convention", "history"]
+
+[[topics]]
+topic = "Chemical Warfare"
+difficulty = "intermediate"
+domains = ["Military", "Chemistry"]
+tags = ["gas", "weapons", "wwi", "prohibition", "effects", "history"]
+
+[[topics]]
+topic = "Psychological Warfare"
+difficulty = "intermediate"
+domains = ["Military", "Psychology"]
+tags = ["propaganda", "morale", "influence", "deception", "media", "tactics"]
+
+[[topics]]
+topic = "Mercenaries"
+difficulty = "beginner"
+domains = ["Military", "History"]
+tags = ["pmcs", "contractors", "money", "loyalty", "blackwater", "ethics"]
+
+[[topics]]
+topic = "Siege Warfare"
+difficulty = "intermediate"
+domains = ["Military", "History"]
+tags = ["castles", "fortifications", "starvation", "tactics", "medieval", "defense"]
+
+[[topics]]
+topic = "Trench Warfare"
+difficulty = "beginner"
+domains = ["Military", "History"]
+tags = ["wwi", "stalemate", "conditions", "defense", "western-front", "tactics"]
+
+[[topics]]
+topic = "Blitzkrieg"
+difficulty = "intermediate"
+domains = ["Military", "History"]
+tags = ["speed", "tanks", "germany", "wwii", "tactics", "surprise"]
+
+[[topics]]
+topic = "The Art of War"
+difficulty = "beginner"
+domains = ["Military", "Philosophy"]
+tags = ["sun-tzu", "strategy", "leadership", "china", "wisdom", "conflict"]
+
+[[topics]]
+topic = "Mutually Assured Destruction"
+difficulty = "intermediate"
+domains = ["Military", "Political Science"]
+tags = ["nuclear", "cold-war", "deterrence", "game-theory", "survival", "policy"]
+
+[[topics]]
+topic = "Information Warfare"
+difficulty = "intermediate"
+domains = ["Military", "Computer Science"]
+tags = ["cyber", "data", "hacking", "disinformation", "security", "control"]
+
+[[topics]]
+topic = "Military Industrial Complex"
+difficulty = "intermediate"
+domains = ["Military", "Economics"]
+tags = ["eisenhower", "defense", "spending", "politics", "industry", "influence"]
+
+[[topics]]
+topic = "Peacekeeping"
+difficulty = "beginner"
+domains = ["Military", "Political Science"]
+tags = ["un", "conflict-resolution", "humanitarian", "intervention", "neutrality", "operations"]
+
+[[topics]]
+topic = "Hybrid Warfare"
+difficulty = "advanced"
+domains = ["Military", "Political Science"]
+tags = ["conventional", "irregular", "cyber", "russia", "tactics", "complexity"]
+
+[[topics]]
+topic = "Urban Warfare"
+difficulty = "intermediate"
+domains = ["Military", "Sociology"]
+tags = ["cities", "civilians", "cqb", "tactics", "challenges", "environment"]
+
+[[topics]]
+topic = "Ballistic Missiles"
+difficulty = "intermediate"
+domains = ["Military", "Physics"]
+tags = ["icbm", "nuclear", "trajectory", "technology", "defense", "range"]
+
+[[topics]]
+topic = "Stealth Technology"
+difficulty = "intermediate"
+domains = ["Military", "Physics"]
+tags = ["radar", "aircraft", "invisibility", "design", "detection", "materials"]
+
+[[topics]]
+topic = "Military Intelligence"
+difficulty = "beginner"
+domains = ["Military", "Information Theory"]
+tags = ["espionage", "surveillance", "analysis", "spies", "strategy", "data"]
+
+[[topics]]
+topic = "Conscription"
+difficulty = "beginner"
+domains = ["Military", "Sociology"]
+tags = ["draft", "service", "citizenship", "rights", "history", "policy"]
+
+[[topics]]
+topic = "War Crimes"
+difficulty = "intermediate"
+domains = ["Military", "Law"]
+tags = ["geneva-convention", "justice", "atrocities", "prosecution", "hague", "ethics"]
+
+[[topics]]
+topic = "Post-Traumatic Stress Disorder"
+difficulty = "intermediate"
+domains = ["Military", "Psychology"]
+tags = ["ptsd", "trauma", "veterans", "mental-health", "shell-shock", "recovery"]
+
+[[topics]]
+topic = "Space Force"
+difficulty = "beginner"
+domains = ["Military", "Astronomy"]
+tags = ["satellites", "defense", "future", "orbit", "technology", "strategy"]
+
+[[topics]]
+topic = "Submarine Warfare"
+difficulty = "intermediate"
+domains = ["Military", "Engineering"]
+tags = ["u-boats", "stealth", "nuclear", "sonar", "ocean", "tactics"]
+
+[[topics]]
+topic = "Cavalry"
+difficulty = "beginner"
+domains = ["Military", "History"]
+tags = ["horses", "charge", "mobility", "tactics", "knights", "warfare"]
+
+[[topics]]
+topic = "Logistics"
+difficulty = "intermediate"
+domains = ["Military", "Management"]
+tags = ["supply-chain", "transport", "resources", "planning", "napoleon", "operations"]
+
+[[topics]]
+topic = "Rules of Engagement"
+difficulty = "intermediate"
+domains = ["Military", "Law"]
+tags = ["conduct", "force", "civilians", "ethics", "restrictions", "combat"]
+
+[[topics]]
+topic = "Friendly Fire"
+difficulty = "beginner"
+domains = ["Military", "Psychology"]
+tags = ["accidents", "confusion", "fog-of-war", "casualties", "prevention", "tragedy"]

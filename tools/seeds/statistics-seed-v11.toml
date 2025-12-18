@@ -1,0 +1,179 @@
+[[topics]]
+topic = "Simpson's Paradox"
+difficulty = "intermediate"
+domains = ["Statistics", "Logic"]
+tags = ["data", "trends", "groups", "aggregation", "causality", "interpretation"]
+
+[[topics]]
+topic = "The Law of Large Numbers"
+difficulty = "beginner"
+domains = ["Statistics", "Mathematics"]
+tags = ["probability", "averages", "convergence", "samples", "trials", "stability"]
+
+[[topics]]
+topic = "Regression to the Mean"
+difficulty = "intermediate"
+domains = ["Statistics", "Psychology"]
+tags = ["variation", "extremes", "trends", "measurement", "prediction", "bias"]
+
+[[topics]]
+topic = "Monte Carlo Simulations"
+difficulty = "intermediate"
+domains = ["Statistics", "Computer Science"]
+tags = ["randomness", "modeling", "probability", "algorithms", "prediction", "sampling"]
+
+[[topics]]
+topic = "False Positives and Negatives"
+difficulty = "beginner"
+domains = ["Statistics", "Medicine"]
+tags = ["errors", "testing", "accuracy", "sensitivity", "specificity", "diagnosis"]
+
+[[topics]]
+topic = "Correlation Coefficients"
+difficulty = "beginner"
+domains = ["Statistics", "Mathematics"]
+tags = ["pearson", "spearman", "relationships", "strength", "direction", "variables"]
+
+[[topics]]
+topic = "ANOVA"
+difficulty = "intermediate"
+domains = ["Statistics", "Mathematics"]
+tags = ["variance", "means", "groups", "testing", "analysis", "differences"]
+
+[[topics]]
+topic = "Chi-Square Test"
+difficulty = "intermediate"
+domains = ["Statistics", "Mathematics"]
+tags = ["categorical-data", "independence", "goodness-of-fit", "testing", "frequencies", "distribution"]
+
+[[topics]]
+topic = "Bootstrapping"
+difficulty = "advanced"
+domains = ["Statistics", "Computer Science"]
+tags = ["resampling", "estimation", "confidence-intervals", "methods", "data", "accuracy"]
+
+[[topics]]
+topic = "Markov Chains"
+difficulty = "advanced"
+domains = ["Statistics", "Mathematics"]
+tags = ["probability", "states", "transitions", "processes", "memoryless", "modeling"]
+
+[[topics]]
+topic = "Poisson Distribution"
+difficulty = "intermediate"
+domains = ["Statistics", "Mathematics"]
+tags = ["events", "intervals", "probability", "rates", "counting", "modeling"]
+
+[[topics]]
+topic = "Skewness and Kurtosis"
+difficulty = "intermediate"
+domains = ["Statistics", "Mathematics"]
+tags = ["distribution", "shape", "asymmetry", "tails", "data", "analysis"]
+
+[[topics]]
+topic = "Outliers"
+difficulty = "beginner"
+domains = ["Statistics", "Data Science"]
+tags = ["anomalies", "data", "detection", "impact", "cleaning", "analysis"]
+
+[[topics]]
+topic = "Data Visualization"
+difficulty = "beginner"
+domains = ["Statistics", "Art"]
+tags = ["charts", "graphs", "communication", "design", "insights", "storytelling"]
+
+[[topics]]
+topic = "A/B Testing"
+difficulty = "beginner"
+domains = ["Statistics", "Marketing"]
+tags = ["experiments", "comparison", "optimization", "groups", "significance", "conversion"]
+
+[[topics]]
+topic = "Selection Bias"
+difficulty = "beginner"
+domains = ["Statistics", "Sociology"]
+tags = ["sampling", "errors", "representation", "validity", "research", "methods"]
+
+[[topics]]
+topic = "Survivorship Bias"
+difficulty = "beginner"
+domains = ["Statistics", "History"]
+tags = ["errors", "missing-data", "success", "failure", "planes", "analysis"]
+
+[[topics]]
+topic = "Principal Component Analysis"
+difficulty = "advanced"
+domains = ["Statistics", "Data Science"]
+tags = ["dimensionality-reduction", "variance", "features", "data", "eigenvectors", "patterns"]
+
+[[topics]]
+topic = "Time Series Forecasting"
+difficulty = "intermediate"
+domains = ["Statistics", "Economics"]
+tags = ["trends", "seasonality", "prediction", "future", "data", "models"]
+
+[[topics]]
+topic = "Logistic Regression"
+difficulty = "intermediate"
+domains = ["Statistics", "Machine Learning"]
+tags = ["classification", "probability", "binary", "modeling", "prediction", "variables"]
+
+[[topics]]
+topic = "Stochastic Processes"
+difficulty = "advanced"
+domains = ["Statistics", "Physics"]
+tags = ["randomness", "time", "evolution", "systems", "modeling", "probability"]
+
+[[topics]]
+topic = "Experimental Design"
+difficulty = "intermediate"
+domains = ["Statistics", "Science"]
+tags = ["controls", "randomization", "variables", "validity", "methods", "research"]
+
+[[topics]]
+topic = "Effect Size"
+difficulty = "intermediate"
+domains = ["Statistics", "Psychology"]
+tags = ["magnitude", "significance", "cohens-d", "interpretation", "results", "impact"]
+
+[[topics]]
+topic = "Meta-Analysis"
+difficulty = "intermediate"
+domains = ["Statistics", "Medicine"]
+tags = ["synthesis", "studies", "aggregation", "evidence", "research", "conclusions"]
+
+[[topics]]
+topic = "Likert Scales"
+difficulty = "beginner"
+domains = ["Statistics", "Psychology"]
+tags = ["surveys", "measurement", "opinions", "data", "questionnaires", "rating"]
+
+[[topics]]
+topic = "Benford's Law"
+difficulty = "intermediate"
+domains = ["Statistics", "Forensics"]
+tags = ["digits", "frequency", "fraud", "patterns", "data", "distribution"]
+
+[[topics]]
+topic = "Pareto Principle"
+difficulty = "beginner"
+domains = ["Statistics", "Economics"]
+tags = ["80-20-rule", "distribution", "inequality", "efficiency", "productivity", "causes"]
+
+[[topics]]
+topic = "Standard Error"
+difficulty = "intermediate"
+domains = ["Statistics", "Mathematics"]
+tags = ["sampling", "precision", "means", "variability", "estimation", "uncertainty"]
+
+[[topics]]
+topic = "Heteroscedasticity"
+difficulty = "advanced"
+domains = ["Statistics", "Econometrics"]
+tags = ["variance", "residuals", "regression", "errors", "assumptions", "modeling"]
+
+[[topics]]
+topic = "Causal Inference"
+difficulty = "advanced"
+domains = ["Statistics", "Philosophy"]
+tags = ["cause-effect", "counterfactuals", "correlation", "experiments", "observational", "methods"]

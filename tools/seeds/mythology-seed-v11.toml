@@ -1,0 +1,179 @@
+[[topics]]
+topic = "The Trickster"
+difficulty = "intermediate"
+domains = ["Mythology", "Psychology"]
+tags = ["loki", "coyote", "hermes", "chaos", "archetypes", "change"]
+
+[[topics]]
+topic = "Creation Myths"
+difficulty = "beginner"
+domains = ["Mythology", "Theology"]
+tags = ["origins", "cosmos", "genesis", "chaos", "order", "humanity"]
+
+[[topics]]
+topic = "The Underworld"
+difficulty = "intermediate"
+domains = ["Mythology", "Theology"]
+tags = ["hades", "afterlife", "death", "journey", "judgment", "souls"]
+
+[[topics]]
+topic = "Dragons"
+difficulty = "beginner"
+domains = ["Mythology", "Art"]
+tags = ["monsters", "chaos", "treasure", "slaying", "symbolism", "power"]
+
+[[topics]]
+topic = "The Hero's Journey"
+difficulty = "intermediate"
+domains = ["Mythology", "Literature"]
+tags = ["campbell", "monomyth", "adventure", "transformation", "return", "structure"]
+
+[[topics]]
+topic = "Flood Myths"
+difficulty = "intermediate"
+domains = ["Mythology", "History"]
+tags = ["noah", "gilgamesh", "destruction", "rebirth", "water", "universal"]
+
+[[topics]]
+topic = "Norse Mythology"
+difficulty = "beginner"
+domains = ["Mythology", "History"]
+tags = ["odin", "thor", "ragnarok", "vikings", "valhalla", "asgard"]
+
+[[topics]]
+topic = "Greek Mythology"
+difficulty = "beginner"
+domains = ["Mythology", "History"]
+tags = ["zeus", "olympus", "titans", "tragedy", "gods", "heroes"]
+
+[[topics]]
+topic = "Egyptian Mythology"
+difficulty = "beginner"
+domains = ["Mythology", "History"]
+tags = ["ra", "osiris", "isis", "afterlife", "pyramids", "pharaohs"]
+
+[[topics]]
+topic = "Hindu Mythology"
+difficulty = "intermediate"
+domains = ["Mythology", "Theology"]
+tags = ["brahma", "vishnu", "shiva", "avatars", "karma", "dharma"]
+
+[[topics]]
+topic = "Celtic Mythology"
+difficulty = "intermediate"
+domains = ["Mythology", "History"]
+tags = ["druids", "tuatha-de-danann", "arthur", "magic", "nature", "ireland"]
+
+[[topics]]
+topic = "Aztec Mythology"
+difficulty = "intermediate"
+domains = ["Mythology", "History"]
+tags = ["quetzalcoatl", "sacrifice", "sun", "creation", "gods", "mexico"]
+
+[[topics]]
+topic = "Japanese Mythology"
+difficulty = "intermediate"
+domains = ["Mythology", "Theology"]
+tags = ["shinto", "kami", "amaterasu", "yokai", "nature", "spirits"]
+
+[[topics]]
+topic = "Chinese Mythology"
+difficulty = "intermediate"
+domains = ["Mythology", "History"]
+tags = ["dragons", "jade-emperor", "immortals", "taoism", "legends", "culture"]
+
+[[topics]]
+topic = "Native American Mythology"
+difficulty = "intermediate"
+domains = ["Mythology", "Anthropology"]
+tags = ["spirits", "nature", "totems", "creation", "tricksters", "oral-tradition"]
+
+[[topics]]
+topic = "Mesopotamian Mythology"
+difficulty = "advanced"
+domains = ["Mythology", "History"]
+tags = ["sumer", "babylon", "gilgamesh", "tiamat", "gods", "civilization"]
+
+[[topics]]
+topic = "African Mythology"
+difficulty = "intermediate"
+domains = ["Mythology", "Anthropology"]
+tags = ["orishas", "ansi", "spirits", "ancestors", "creation", "folklore"]
+
+[[topics]]
+topic = "Slavic Mythology"
+difficulty = "intermediate"
+domains = ["Mythology", "History"]
+tags = ["perun", "baba-yaga", "spirits", "nature", "folklore", "gods"]
+
+[[topics]]
+topic = "Polynesian Mythology"
+difficulty = "intermediate"
+domains = ["Mythology", "Anthropology"]
+tags = ["maui", "pele", "ocean", "creation", "voyaging", "gods"]
+
+[[topics]]
+topic = "Inuit Mythology"
+difficulty = "intermediate"
+domains = ["Mythology", "Anthropology"]
+tags = ["sedna", "spirits", "arctic", "animals", "shamanism", "survival"]
+
+[[topics]]
+topic = "Arthurian Legend"
+difficulty = "beginner"
+domains = ["Mythology", "Literature"]
+tags = ["camelot", "knights", "grail", "merlin", "chivalry", "romance"]
+
+[[topics]]
+topic = "Urban Legends"
+difficulty = "beginner"
+domains = ["Mythology", "Sociology"]
+tags = ["modern", "folklore", "horror", "rumors", "internet", "culture"]
+
+[[topics]]
+topic = "Cryptozoology"
+difficulty = "beginner"
+domains = ["Mythology", "Biology"]
+tags = ["bigfoot", "loch-ness", "monsters", "belief", "evidence", "mystery"]
+
+[[topics]]
+topic = "Fairies"
+difficulty = "beginner"
+domains = ["Mythology", "Folklore"]
+tags = ["fae", "magic", "nature", "celtic", "spirits", "changelings"]
+
+[[topics]]
+topic = "Vampires"
+difficulty = "beginner"
+domains = ["Mythology", "Literature"]
+tags = ["undead", "blood", "dracula", "folklore", "immortality", "fear"]
+
+[[topics]]
+topic = "Werewolves"
+difficulty = "beginner"
+domains = ["Mythology", "Folklore"]
+tags = ["transformation", "moon", "beasts", "curse", "nature", "fear"]
+
+[[topics]]
+topic = "Angels and Demons"
+difficulty = "intermediate"
+domains = ["Mythology", "Theology"]
+tags = ["good", "evil", "hierarchy", "messengers", "spiritual", "battle"]
+
+[[topics]]
+topic = "Atlantis"
+difficulty = "beginner"
+domains = ["Mythology", "History"]
+tags = ["lost-city", "plato", "civilization", "catastrophe", "mystery", "ocean"]
+
+[[topics]]
+topic = "The Phoenix"
+difficulty = "beginner"
+domains = ["Mythology", "Art"]
+tags = ["rebirth", "fire", "immortality", "birds", "cycles", "symbolism"]
+
+[[topics]]
+topic = "Cosmogony"
+difficulty = "advanced"
+domains = ["Mythology", "Astronomy"]
+tags = ["origins", "universe", "creation", "myths", "science", "comparison"]

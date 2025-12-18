@@ -1,0 +1,179 @@
+[[topics]]
+topic = "Quantum Computing"
+difficulty = "advanced"
+domains = ["Computer Science", "Physics"]
+tags = ["qubits", "superposition", "entanglement", "algorithms", "shor", "grover"]
+
+[[topics]]
+topic = "Blockchain"
+difficulty = "intermediate"
+domains = ["Computer Science", "Economics"]
+tags = ["decentralization", "cryptocurrency", "ledger", "consensus", "smart-contracts", "bitcoin"]
+
+[[topics]]
+topic = "Cloud Computing"
+difficulty = "beginner"
+domains = ["Computer Science", "Systems"]
+tags = ["virtualization", "aws", "azure", "saas", "infrastructure", "scalability"]
+
+[[topics]]
+topic = "Internet of Things"
+difficulty = "beginner"
+domains = ["Computer Science", "Engineering"]
+tags = ["sensors", "connectivity", "smart-home", "embedded-systems", "data", "automation"]
+
+[[topics]]
+topic = "Augmented Reality"
+difficulty = "intermediate"
+domains = ["Computer Science", "Design"]
+tags = ["virtual-reality", "interface", "overlay", "perception", "interaction", "gaming"]
+
+[[topics]]
+topic = "Natural Language Processing"
+difficulty = "advanced"
+domains = ["Computer Science", "Linguistics"]
+tags = ["text-analysis", "translation", "chatbots", "sentiment-analysis", "speech-recognition", "ai"]
+
+[[topics]]
+topic = "Computer Vision"
+difficulty = "advanced"
+domains = ["Computer Science", "Artificial Intelligence"]
+tags = ["image-processing", "recognition", "segmentation", "pixels", "deep-learning", "perception"]
+
+[[topics]]
+topic = "Human-Computer Interaction"
+difficulty = "intermediate"
+domains = ["Computer Science", "Psychology"]
+tags = ["ux", "ui", "usability", "design", "accessibility", "interface"]
+
+[[topics]]
+topic = "Bioinformatics"
+difficulty = "advanced"
+domains = ["Computer Science", "Biology"]
+tags = ["genomics", "algorithms", "data-analysis", "sequencing", "protein-folding", "computational-biology"]
+
+[[topics]]
+topic = "Game Development"
+difficulty = "intermediate"
+domains = ["Computer Science", "Art"]
+tags = ["graphics", "physics-engine", "gameplay", "design", "rendering", "ai"]
+
+[[topics]]
+topic = "Functional Programming"
+difficulty = "intermediate"
+domains = ["Computer Science", "Mathematics"]
+tags = ["lambda-calculus", "immutability", "haskell", "recursion", "pure-functions", "paradigm"]
+
+[[topics]]
+topic = "Object-Oriented Programming"
+difficulty = "beginner"
+domains = ["Computer Science", "Software Engineering"]
+tags = ["classes", "objects", "inheritance", "polymorphism", "encapsulation", "abstraction"]
+
+[[topics]]
+topic = "Parallel Computing"
+difficulty = "advanced"
+domains = ["Computer Science", "Systems"]
+tags = ["concurrency", "threads", "multi-core", "gpu", "supercomputing", "performance"]
+
+[[topics]]
+topic = "Compiler Design"
+difficulty = "advanced"
+domains = ["Computer Science", "Linguistics"]
+tags = ["parsing", "lexical-analysis", "optimization", "code-generation", "syntax", "semantics"]
+
+[[topics]]
+topic = "Information Retrieval"
+difficulty = "intermediate"
+domains = ["Computer Science", "Library Science"]
+tags = ["search-engines", "indexing", "ranking", "relevance", "web-crawling", "google"]
+
+[[topics]]
+topic = "Ethical Hacking"
+difficulty = "intermediate"
+domains = ["Computer Science", "Security"]
+tags = ["penetration-testing", "vulnerabilities", "white-hat", "security", "defense", "network"]
+
+[[topics]]
+topic = "Software Testing"
+difficulty = "beginner"
+domains = ["Computer Science", "Engineering"]
+tags = ["qa", "unit-testing", "integration", "debugging", "verification", "automation"]
+
+[[topics]]
+topic = "Agile Methodology"
+difficulty = "beginner"
+domains = ["Computer Science", "Management"]
+tags = ["scrum", "kanban", "iterative", "development", "collaboration", "process"]
+
+[[topics]]
+topic = "Open Source"
+difficulty = "beginner"
+domains = ["Computer Science", "Sociology"]
+tags = ["collaboration", "licensing", "community", "linux", "git", "freedom"]
+
+[[topics]]
+topic = "Virtualization"
+difficulty = "intermediate"
+domains = ["Computer Science", "Systems"]
+tags = ["vm", "containers", "docker", "hypervisor", "emulation", "resources"]
+
+[[topics]]
+topic = "Edge Computing"
+difficulty = "intermediate"
+domains = ["Computer Science", "Networking"]
+tags = ["latency", "distributed", "iot", "processing", "cloud", "bandwidth"]
+
+[[topics]]
+topic = "Reinforcement Learning"
+difficulty = "advanced"
+domains = ["Computer Science", "Artificial Intelligence"]
+tags = ["agents", "rewards", "environment", "policy", "markov", "learning"]
+
+[[topics]]
+topic = "Generative Adversarial Networks"
+difficulty = "advanced"
+domains = ["Computer Science", "Artificial Intelligence"]
+tags = ["gan", "deep-learning", "generation", "discriminator", "generator", "images"]
+
+[[topics]]
+topic = "NoSQL"
+difficulty = "intermediate"
+domains = ["Computer Science", "Databases"]
+tags = ["mongodb", "key-value", "document", "scalability", "schema-less", "big-data"]
+
+[[topics]]
+topic = "API Design"
+difficulty = "intermediate"
+domains = ["Computer Science", "Software Engineering"]
+tags = ["rest", "graphql", "interface", "integration", "endpoints", "documentation"]
+
+[[topics]]
+topic = "Microservices"
+difficulty = "advanced"
+domains = ["Computer Science", "Software Engineering"]
+tags = ["architecture", "decoupling", "services", "scalability", "deployment", "containers"]
+
+[[topics]]
+topic = "DevOps"
+difficulty = "intermediate"
+domains = ["Computer Science", "Management"]
+tags = ["ci-cd", "automation", "operations", "culture", "deployment", "monitoring"]
+
+[[topics]]
+topic = "Digital Forensics"
+difficulty = "intermediate"
+domains = ["Computer Science", "Law"]
+tags = ["investigation", "evidence", "cybercrime", "recovery", "analysis", "security"]
+
+[[topics]]
+topic = "Semantic Web"
+difficulty = "advanced"
+domains = ["Computer Science", "Information Science"]
+tags = ["rdf", "ontologies", "linked-data", "meaning", "web-3.0", "metadata"]
+
+[[topics]]
+topic = "Turing Machines"
+difficulty = "advanced"
+domains = ["Computer Science", "Mathematics"]
+tags = ["computation", "automata", "halting-problem", "theoretical-cs", "algorithms", "logic"]

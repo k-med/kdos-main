@@ -1,0 +1,179 @@
+[[topics]]
+topic = "Inflation"
+difficulty = "beginner"
+domains = ["Economics", "Finance"]
+tags = ["prices", "purchasing-power", "cpi", "monetary-policy", "hyperinflation", "currency"]
+
+[[topics]]
+topic = "Monopoly"
+difficulty = "beginner"
+domains = ["Economics", "Law"]
+tags = ["market-structure", "competition", "antitrust", "pricing", "barriers-to-entry", "regulation"]
+
+[[topics]]
+topic = "Fiscal Policy"
+difficulty = "intermediate"
+domains = ["Economics", "Political Science"]
+tags = ["government-spending", "taxation", "budget", "deficit", "keynesianism", "stimulus"]
+
+[[topics]]
+topic = "Externalities"
+difficulty = "intermediate"
+domains = ["Economics", "Environment"]
+tags = ["market-failure", "pollution", "pigovian-tax", "social-cost", "public-goods", "coase-theorem"]
+
+[[topics]]
+topic = "Comparative Advantage"
+difficulty = "intermediate"
+domains = ["Economics", "International Relations"]
+tags = ["trade", "ricardo", "specialization", "opportunity-cost", "efficiency", "gains-from-trade"]
+
+[[topics]]
+topic = "The Great Depression"
+difficulty = "beginner"
+domains = ["Economics", "History"]
+tags = ["crash", "unemployment", "new-deal", "keynes", "gold-standard", "recession"]
+
+[[topics]]
+topic = "Cryptocurrency Economics"
+difficulty = "intermediate"
+domains = ["Economics", "Computer Science"]
+tags = ["bitcoin", "decentralization", "money", "blockchain", "volatility", "regulation"]
+
+[[topics]]
+topic = "Universal Basic Income"
+difficulty = "intermediate"
+domains = ["Economics", "Sociology"]
+tags = ["welfare", "poverty", "automation", "inequality", "social-safety-net", "policy"]
+
+[[topics]]
+topic = "Elasticity"
+difficulty = "beginner"
+domains = ["Economics", "Mathematics"]
+tags = ["price-sensitivity", "demand", "supply", "revenue", "responsiveness", "market"]
+
+[[topics]]
+topic = "GDP"
+difficulty = "beginner"
+domains = ["Economics", "Statistics"]
+tags = ["growth", "production", "national-income", "measurement", "standard-of-living", "economy"]
+
+[[topics]]
+topic = "Austrian School"
+difficulty = "advanced"
+domains = ["Economics", "Philosophy"]
+tags = ["hayek", "mises", "free-market", "business-cycle", "praxeology", "individualism"]
+
+[[topics]]
+topic = "Marxian Economics"
+difficulty = "advanced"
+domains = ["Economics", "Political Science"]
+tags = ["capitalism", "labor-theory-of-value", "exploitation", "class-struggle", "surplus-value", "marx"]
+
+[[topics]]
+topic = "Circular Economy"
+difficulty = "intermediate"
+domains = ["Economics", "Environment"]
+tags = ["sustainability", "recycling", "waste", "resources", "design", "systems"]
+
+[[topics]]
+topic = "Gig Economy"
+difficulty = "beginner"
+domains = ["Economics", "Sociology"]
+tags = ["freelance", "uber", "labor-market", "flexibility", "precarity", "technology"]
+
+[[topics]]
+topic = "Nudge Theory"
+difficulty = "intermediate"
+domains = ["Economics", "Psychology"]
+tags = ["thaler", "choice-architecture", "behavioral-economics", "policy", "influence", "decisions"]
+
+[[topics]]
+topic = "Pareto Efficiency"
+difficulty = "advanced"
+domains = ["Economics", "Mathematics"]
+tags = ["optimality", "welfare", "allocation", "efficiency", "trade-offs", "equilibrium"]
+
+[[topics]]
+topic = "The Invisible Hand"
+difficulty = "beginner"
+domains = ["Economics", "Philosophy"]
+tags = ["smith", "self-interest", "markets", "coordination", "wealth-of-nations", "liberalism"]
+
+[[topics]]
+topic = "Monetary Policy"
+difficulty = "intermediate"
+domains = ["Economics", "Finance"]
+tags = ["central-banks", "interest-rates", "money-supply", "inflation", "federal-reserve", "economy"]
+
+[[topics]]
+topic = "Opportunity Cost"
+difficulty = "beginner"
+domains = ["Economics", "Logic"]
+tags = ["trade-offs", "decision-making", "scarcity", "value", "choices", "alternatives"]
+
+[[topics]]
+topic = "Tragedy of the Commons"
+difficulty = "intermediate"
+domains = ["Economics", "Environment"]
+tags = ["resources", "overconsumption", "property-rights", "cooperation", "hardin", "sustainability"]
+
+[[topics]]
+topic = "Globalization"
+difficulty = "beginner"
+domains = ["Economics", "Political Science"]
+tags = ["trade", "integration", "culture", "inequality", "supply-chains", "world-economy"]
+
+[[topics]]
+topic = "Information Asymmetry"
+difficulty = "advanced"
+domains = ["Economics", "Information Theory"]
+tags = ["lemons-market", "adverse-selection", "moral-hazard", "signaling", "agency-theory", "contracts"]
+
+[[topics]]
+topic = "Consumer Theory"
+difficulty = "intermediate"
+domains = ["Economics", "Psychology"]
+tags = ["utility", "preferences", "budget-constraint", "choice", "demand", "maximization"]
+
+[[topics]]
+topic = "Mechanism Design"
+difficulty = "advanced"
+domains = ["Economics", "Game Theory"]
+tags = ["incentives", "auctions", "voting", "allocation", "rules", "systems"]
+
+[[topics]]
+topic = "Moral Hazard"
+difficulty = "intermediate"
+domains = ["Economics", "Finance"]
+tags = ["risk", "insurance", "incentives", "banking", "bailouts", "responsibility"]
+
+[[topics]]
+topic = "Phillips Curve"
+difficulty = "intermediate"
+domains = ["Economics", "Statistics"]
+tags = ["inflation", "unemployment", "trade-off", "macroeconomics", "stagflation", "policy"]
+
+[[topics]]
+topic = "Public Choice Theory"
+difficulty = "advanced"
+domains = ["Economics", "Political Science"]
+tags = ["government", "voting", "bureaucracy", "self-interest", "buchanan", "democracy"]
+
+[[topics]]
+topic = "Creative Destruction"
+difficulty = "intermediate"
+domains = ["Economics", "History"]
+tags = ["schumpeter", "innovation", "technology", "business-cycles", "entrepreneurship", "change"]
+
+[[topics]]
+topic = "Mercantilism"
+difficulty = "intermediate"
+domains = ["Economics", "History"]
+tags = ["trade", "gold", "protectionism", "colonies", "state-power", "wealth"]
+
+[[topics]]
+topic = "Human Capital"
+difficulty = "beginner"
+domains = ["Economics", "Education"]
+tags = ["skills", "education", "productivity", "investment", "labor", "wages"]

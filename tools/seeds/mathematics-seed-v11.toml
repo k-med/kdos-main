@@ -1,0 +1,179 @@
+[[topics]]
+topic = "Category Theory"
+difficulty = "advanced"
+domains = ["Mathematics", "Logic"]
+tags = ["abstraction", "functors", "morphisms", "structures", "algebra", "diagrams"]
+
+[[topics]]
+topic = "Fractal Geometry"
+difficulty = "intermediate"
+domains = ["Mathematics", "Computer Science"]
+tags = ["self-similarity", "mandelbrot", "chaos", "dimension", "nature", "iteration"]
+
+[[topics]]
+topic = "Complex Analysis"
+difficulty = "advanced"
+domains = ["Mathematics", "Physics"]
+tags = ["imaginary-numbers", "functions", "residues", "mapping", "integration", "planes"]
+
+[[topics]]
+topic = "Riemann Hypothesis"
+difficulty = "advanced"
+domains = ["Mathematics", "Number Theory"]
+tags = ["primes", "zeta-function", "distribution", "millennium-problem", "conjecture", "zeros"]
+
+[[topics]]
+topic = "Knot Theory"
+difficulty = "intermediate"
+domains = ["Mathematics", "Topology"]
+tags = ["knots", "invariants", "3d-space", "classification", "links", "geometry"]
+
+[[topics]]
+topic = "Information Geometry"
+difficulty = "advanced"
+domains = ["Mathematics", "Information Theory"]
+tags = ["probability", "manifolds", "fisher-information", "distance", "statistics", "structure"]
+
+[[topics]]
+topic = "Non-Euclidean Geometry"
+difficulty = "intermediate"
+domains = ["Mathematics", "Physics"]
+tags = ["curved-space", "hyperbolic", "elliptic", "parallel-postulate", "relativity", "lobachevsky"]
+
+[[topics]]
+topic = "Homotopy Type Theory"
+difficulty = "advanced"
+domains = ["Mathematics", "Logic"]
+tags = ["foundations", "types", "spaces", "paths", "equivalence", "univalence"]
+
+[[topics]]
+topic = "Fermat's Last Theorem"
+difficulty = "intermediate"
+domains = ["Mathematics", "Number Theory"]
+tags = ["wiles", "primes", "equations", "history", "proof", "integers"]
+
+[[topics]]
+topic = "Golden Ratio"
+difficulty = "beginner"
+domains = ["Mathematics", "Art"]
+tags = ["phi", "proportion", "fibonacci", "nature", "aesthetics", "geometry"]
+
+[[topics]]
+topic = "P vs NP"
+difficulty = "advanced"
+domains = ["Mathematics", "Computer Science"]
+tags = ["complexity", "algorithms", "millennium-problem", "computation", "polynomial-time", "limits"]
+
+[[topics]]
+topic = "Tensors"
+difficulty = "advanced"
+domains = ["Mathematics", "Physics"]
+tags = ["multilinear-algebra", "vectors", "matrices", "relativity", "transformation", "objects"]
+
+[[topics]]
+topic = "Fourier Analysis"
+difficulty = "intermediate"
+domains = ["Mathematics", "Engineering"]
+tags = ["waves", "series", "transform", "frequencies", "signals", "decomposition"]
+
+[[topics]]
+topic = "Monte Carlo Methods"
+difficulty = "intermediate"
+domains = ["Mathematics", "Statistics"]
+tags = ["simulation", "randomness", "probability", "algorithms", "approximation", "sampling"]
+
+[[topics]]
+topic = "Affine Geometry"
+difficulty = "intermediate"
+domains = ["Mathematics", "Physics"]
+tags = ["lines", "parallelism", "transformations", "vectors", "spaces", "points"]
+
+[[topics]]
+topic = "Measure Theory"
+difficulty = "advanced"
+domains = ["Mathematics", "Physics"]
+tags = ["integration", "lebesgue", "sets", "size", "probability", "analysis"]
+
+[[topics]]
+topic = "Combinatorial Optimization"
+difficulty = "intermediate"
+domains = ["Mathematics", "Computer Science"]
+tags = ["algorithms", "graphs", "efficiency", "problems", "solutions", "search"]
+
+[[topics]]
+topic = "Algebraic Topology"
+difficulty = "advanced"
+domains = ["Mathematics", "Physics"]
+tags = ["spaces", "groups", "homology", "shapes", "invariants", "deformation"]
+
+[[topics]]
+topic = "Diophantine Equations"
+difficulty = "intermediate"
+domains = ["Mathematics", "Number Theory"]
+tags = ["integers", "solutions", "polynomials", "history", "problems", "algebra"]
+
+[[topics]]
+topic = "Mathematical Platonism"
+difficulty = "intermediate"
+domains = ["Mathematics", "Philosophy"]
+tags = ["existence", "abstract-objects", "reality", "discovery", "ontology", "truth"]
+
+[[topics]]
+topic = "Ramsey Theory"
+difficulty = "advanced"
+domains = ["Mathematics", "Combinatorics"]
+tags = ["order", "chaos", "graphs", "patterns", "subsets", "numbers"]
+
+[[topics]]
+topic = "Surreal Numbers"
+difficulty = "advanced"
+domains = ["Mathematics", "Game Theory"]
+tags = ["conway", "games", "infinity", "construction", "fields", "analysis"]
+
+[[topics]]
+topic = "Projective Geometry"
+difficulty = "intermediate"
+domains = ["Mathematics", "Art"]
+tags = ["perspective", "points-at-infinity", "duality", "lines", "planes", "vision"]
+
+[[topics]]
+topic = "Ergodic Theory"
+difficulty = "advanced"
+domains = ["Mathematics", "Physics"]
+tags = ["dynamical-systems", "measure", "time", "averages", "chaos", "statistics"]
+
+[[topics]]
+topic = "Mathematical Logic"
+difficulty = "advanced"
+domains = ["Mathematics", "Logic"]
+tags = ["proofs", "models", "systems", "formalism", "consistency", "foundations"]
+
+[[topics]]
+topic = "Numerical Analysis"
+difficulty = "intermediate"
+domains = ["Mathematics", "Computer Science"]
+tags = ["approximation", "algorithms", "errors", "computation", "solutions", "simulation"]
+
+[[topics]]
+topic = "Calculus of Variations"
+difficulty = "advanced"
+domains = ["Mathematics", "Physics"]
+tags = ["optimization", "functionals", "extremes", "paths", "mechanics", "euler-lagrange"]
+
+[[topics]]
+topic = "Tropical Geometry"
+difficulty = "advanced"
+domains = ["Mathematics", "Computer Science"]
+tags = ["algebra", "optimization", "combinatorics", "min-plus", "lines", "shapes"]
+
+[[topics]]
+topic = "Mathematical Induction"
+difficulty = "beginner"
+domains = ["Mathematics", "Logic"]
+tags = ["proof", "steps", "integers", "recursion", "reasoning", "technique"]
+
+[[topics]]
+topic = "Zeno's Paradoxes"
+difficulty = "beginner"
+domains = ["Mathematics", "Philosophy"]
+tags = ["infinity", "motion", "space", "time", "division", "limits"]

@@ -1,0 +1,56 @@
+--- PROMPT FOR PSYCHOLOGY ---
+I need to generate 100 new seed topics for the domain 'Psychology'.
+Here is the list of ALL topics that ALREADY EXIST in 'Psychology' (do not generate these):
+```
+- Abnormal Psychology
+- Aesthetic Experience
+- Archetypes
+- Behavioral Economics
+- Behavioral Finance
+- Behaviorism
+- Belief
+- Classical Conditioning
+- Clinical Psychology
+- Cognitive Bias
+- Cognitive Psychology
+- Developmental Psychology
+- Early Childhood Education
+- Emotion
+- Learning Theories
+- Memory
+- Moral Psychology
+- Mysticism
+- Neuropsychology
+- Operant Conditioning
+- Perception
+- Personality
+- Personality Traits
+- Philosophy of Mind
+- Psychoanalysis
+- Psycholinguistics
+- Social Psychology
+- Socialization
+- Special Education
+```
+
+Please generate 100 NEW, distinct topics for 'Psychology' that are not in the list above.
+
+CRITICAL INSTRUCTION FOR BREADTH & HOMOGENEITY:
+- Span the WIDEST possible range within this theme/domain.
+- Distribute the topics evenly to cover different aspects (e.g., different eras, different types, different theories).
+- Avoid clustering around a single sub-topic.
+- Ensure maximum distinctness between topics to prevent information overlap.
+
+CRITICAL: You must ONLY use domains from the following allowed list:
+```
+Mathematics, Statistics, Computer Science, Engineering, Physics, Chemistry, Biology, Medicine, Economics, Finance, Philosophy, History, Psychology, Linguistics, Sociology, Anthropology, Law, Political Science, Ethics, Logic, Metaphysics, Epistemology, Aesthetics, Theology, Mythology, Literature, Education, Systems, Information Theory, Meta, Art, Military
+```
+
+Format the output as a TOML file following this schema:
+
+[[topics]]
+topic = "Topic Name"
+difficulty = "beginner" # or intermediate, advanced
+domains = ["Domain", "Related Domain"] # MUST be from the allowed list above
+tags = ["tag1", "tag2", "tag3"]
+

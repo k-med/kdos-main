@@ -1,0 +1,179 @@
+[[topics]]
+topic = "Consequentialism"
+difficulty = "intermediate"
+domains = ["Ethics", "Philosophy"]
+tags = ["outcomes", "utility", "mill", "good", "actions", "calculation"]
+
+[[topics]]
+topic = "Care Ethics"
+difficulty = "intermediate"
+domains = ["Ethics", "Sociology"]
+tags = ["relationships", "empathy", "feminism", "gilligan", "responsibility", "context"]
+
+[[topics]]
+topic = "Moral Relativism"
+difficulty = "beginner"
+domains = ["Ethics", "Anthropology"]
+tags = ["culture", "subjectivity", "truth", "tolerance", "norms", "diversity"]
+
+[[topics]]
+topic = "Egoism"
+difficulty = "beginner"
+domains = ["Ethics", "Psychology"]
+tags = ["self-interest", "rand", "motivation", "altruism", "rationality", "benefit"]
+
+[[topics]]
+topic = "Environmental Ethics"
+difficulty = "beginner"
+domains = ["Ethics", "Environment"]
+tags = ["nature", "sustainability", "animals", "climate-change", "value", "responsibility"]
+
+[[topics]]
+topic = "Business Ethics"
+difficulty = "beginner"
+domains = ["Ethics", "Economics"]
+tags = ["corporate-responsibility", "profit", "stakeholders", "fairness", "corruption", "markets"]
+
+[[topics]]
+topic = "Animal Rights"
+difficulty = "beginner"
+domains = ["Ethics", "Biology"]
+tags = ["sentience", "veganism", "singer", "welfare", "speciesism", "moral-status"]
+
+[[topics]]
+topic = "Euthanasia"
+difficulty = "intermediate"
+domains = ["Ethics", "Medicine"]
+tags = ["death", "autonomy", "suffering", "assisted-suicide", "dignity", "law"]
+
+[[topics]]
+topic = "Abortion Ethics"
+difficulty = "intermediate"
+domains = ["Ethics", "Medicine"]
+tags = ["personhood", "rights", "bodily-autonomy", "life", "moral-status", "controversy"]
+
+[[topics]]
+topic = "Capital Punishment"
+difficulty = "intermediate"
+domains = ["Ethics", "Law"]
+tags = ["justice", "retribution", "deterrence", "death-penalty", "rights", "state"]
+
+[[topics]]
+topic = "Moral Realism"
+difficulty = "advanced"
+domains = ["Ethics", "Metaphysics"]
+tags = ["facts", "objectivity", "truth", "ontology", "naturalism", "existence"]
+
+[[topics]]
+topic = "Divine Command Theory"
+difficulty = "intermediate"
+domains = ["Ethics", "Theology"]
+tags = ["god", "morality", "religion", "authority", "euthyphro", "obedience"]
+
+[[topics]]
+topic = "Social Contract Theory"
+difficulty = "intermediate"
+domains = ["Ethics", "Political Science"]
+tags = ["hobbes", "locke", "rousseau", "agreement", "society", "authority"]
+
+[[topics]]
+topic = "Moral Luck"
+difficulty = "advanced"
+domains = ["Ethics", "Philosophy"]
+tags = ["control", "blame", "nagel", "williams", "circumstance", "responsibility"]
+
+[[topics]]
+topic = "Bioethics"
+difficulty = "intermediate"
+domains = ["Ethics", "Biology"]
+tags = ["technology", "genetics", "cloning", "enhancement", "crispr", "medicine"]
+
+[[topics]]
+topic = "Information Ethics"
+difficulty = "intermediate"
+domains = ["Ethics", "Computer Science"]
+tags = ["privacy", "data", "surveillance", "internet", "access", "censorship"]
+
+[[topics]]
+topic = "Virtue Ethics"
+difficulty = "intermediate"
+domains = ["Ethics", "Philosophy"]
+tags = ["character", "aristotle", "eudaimonia", "habits", "wisdom", "flourishing"]
+
+[[topics]]
+topic = "Moral Dilemmas"
+difficulty = "beginner"
+domains = ["Ethics", "Logic"]
+tags = ["trolley-problem", "conflict", "choices", "intuition", "reasoning", "scenarios"]
+
+[[topics]]
+topic = "Altruism"
+difficulty = "beginner"
+domains = ["Ethics", "Psychology"]
+tags = ["selflessness", "helping", "evolution", "empathy", "charity", "sacrifice"]
+
+[[topics]]
+topic = "Nihilism"
+difficulty = "intermediate"
+domains = ["Ethics", "Philosophy"]
+tags = ["meaning", "values", "nietzsche", "nothingness", "skepticism", "existentialism"]
+
+[[topics]]
+topic = "Professional Ethics"
+difficulty = "beginner"
+domains = ["Ethics", "Sociology"]
+tags = ["codes", "conduct", "responsibility", "workplace", "integrity", "standards"]
+
+[[topics]]
+topic = "Global Justice"
+difficulty = "intermediate"
+domains = ["Ethics", "Political Science"]
+tags = ["poverty", "inequality", "cosmopolitanism", "aid", "borders", "rights"]
+
+[[topics]]
+topic = "Moral Responsibility"
+difficulty = "intermediate"
+domains = ["Ethics", "Metaphysics"]
+tags = ["free-will", "determinism", "blame", "praise", "agency", "causality"]
+
+[[topics]]
+topic = "Evolutionary Ethics"
+difficulty = "advanced"
+domains = ["Ethics", "Biology"]
+tags = ["darwin", "origins", "cooperation", "instinct", "natural-selection", "morality"]
+
+[[topics]]
+topic = "Rights"
+difficulty = "beginner"
+domains = ["Ethics", "Law"]
+tags = ["liberty", "claims", "duties", "natural-rights", "human-rights", "justice"]
+
+[[topics]]
+topic = "Consent"
+difficulty = "beginner"
+domains = ["Ethics", "Law"]
+tags = ["agreement", "autonomy", "permission", "sexuality", "contracts", "medical"]
+
+[[topics]]
+topic = "Trust"
+difficulty = "beginner"
+domains = ["Ethics", "Sociology"]
+tags = ["relationships", "cooperation", "betrayal", "reliability", "social-capital", "confidence"]
+
+[[topics]]
+topic = "Forgiveness"
+difficulty = "beginner"
+domains = ["Ethics", "Psychology"]
+tags = ["resentment", "reconciliation", "mercy", "relationships", "healing", "wrongdoing"]
+
+[[topics]]
+topic = "Lying"
+difficulty = "beginner"
+domains = ["Ethics", "Philosophy"]
+tags = ["deception", "truth", "kant", "honesty", "consequences", "intent"]
+
+[[topics]]
+topic = "Supererogation"
+difficulty = "advanced"
+domains = ["Ethics", "Theology"]
+tags = ["heroism", "duty", "saint", "beyond-call", "praise", "obligation"]

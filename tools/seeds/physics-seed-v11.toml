@@ -1,0 +1,179 @@
+[[topics]]
+topic = "String Theory"
+difficulty = "advanced"
+domains = ["Physics", "Mathematics"]
+tags = ["dimensions", "vibration", "unification", "particles", "theory-of-everything", "branes"]
+
+[[topics]]
+topic = "Dark Matter"
+difficulty = "intermediate"
+domains = ["Physics", "Astronomy"]
+tags = ["gravity", "universe", "mass", "galaxies", "mystery", "cosmology"]
+
+[[topics]]
+topic = "Dark Energy"
+difficulty = "intermediate"
+domains = ["Physics", "Astronomy"]
+tags = ["expansion", "universe", "acceleration", "cosmology", "energy", "mystery"]
+
+[[topics]]
+topic = "The Standard Model"
+difficulty = "advanced"
+domains = ["Physics", "Chemistry"]
+tags = ["particles", "forces", "quarks", "leptons", "bosons", "higgs"]
+
+[[topics]]
+topic = "Chaos Theory"
+difficulty = "intermediate"
+domains = ["Physics", "Mathematics"]
+tags = ["butterfly-effect", "predictability", "systems", "dynamics", "complexity", "patterns"]
+
+[[topics]]
+topic = "Superconductivity"
+difficulty = "advanced"
+domains = ["Physics", "Materials Science"]
+tags = ["resistance", "temperature", "quantum", "magnets", "levitation", "applications"]
+
+[[topics]]
+topic = "Entanglement"
+difficulty = "advanced"
+domains = ["Physics", "Information Theory"]
+tags = ["quantum", "spooky-action", "correlation", "states", "bell", "information"]
+
+[[topics]]
+topic = "Black Holes"
+difficulty = "intermediate"
+domains = ["Physics", "Astronomy"]
+tags = ["gravity", "singularity", "event-horizon", "hawking-radiation", "space-time", "collapse"]
+
+[[topics]]
+topic = "The Big Bang"
+difficulty = "beginner"
+domains = ["Physics", "Astronomy"]
+tags = ["origins", "universe", "expansion", "cmb", "cosmology", "time"]
+
+[[topics]]
+topic = "Wave-Particle Duality"
+difficulty = "intermediate"
+domains = ["Physics", "Quantum Mechanics"]
+tags = ["light", "matter", "electrons", "photons", "double-slit", "nature"]
+
+[[topics]]
+topic = "Heisenberg Uncertainty Principle"
+difficulty = "intermediate"
+domains = ["Physics", "Quantum Mechanics"]
+tags = ["position", "momentum", "measurement", "limits", "quantum", "precision"]
+
+[[topics]]
+topic = "Schrödinger's Cat"
+difficulty = "beginner"
+domains = ["Physics", "Philosophy"]
+tags = ["superposition", "quantum", "thought-experiment", "observation", "states", "paradox"]
+
+[[topics]]
+topic = "Nuclear Fusion"
+difficulty = "intermediate"
+domains = ["Physics", "Engineering"]
+tags = ["energy", "stars", "plasma", "reactors", "power", "future"]
+
+[[topics]]
+topic = "Nuclear Fission"
+difficulty = "intermediate"
+domains = ["Physics", "Engineering"]
+tags = ["energy", "splitting", "reactors", "bombs", "chain-reaction", "uranium"]
+
+[[topics]]
+topic = "Special Relativity"
+difficulty = "intermediate"
+domains = ["Physics", "Mathematics"]
+tags = ["einstein", "speed-of-light", "time-dilation", "mass-energy", "frames", "space"]
+
+[[topics]]
+topic = "General Relativity"
+difficulty = "advanced"
+domains = ["Physics", "Mathematics"]
+tags = ["einstein", "gravity", "curvature", "space-time", "geometry", "mass"]
+
+[[topics]]
+topic = "Thermodynamics Laws"
+difficulty = "beginner"
+domains = ["Physics", "Chemistry"]
+tags = ["energy", "entropy", "heat", "work", "systems", "conservation"]
+
+[[topics]]
+topic = "Fluid Dynamics"
+difficulty = "intermediate"
+domains = ["Physics", "Engineering"]
+tags = ["flow", "turbulence", "liquids", "gases", "aerodynamics", "navier-stokes"]
+
+[[topics]]
+topic = "Optics"
+difficulty = "beginner"
+domains = ["Physics", "Engineering"]
+tags = ["light", "lenses", "reflection", "refraction", "lasers", "vision"]
+
+[[topics]]
+topic = "Acoustics"
+difficulty = "beginner"
+domains = ["Physics", "Music"]
+tags = ["sound", "waves", "vibration", "frequencies", "resonance", "hearing"]
+
+[[topics]]
+topic = "Magnetism"
+difficulty = "beginner"
+domains = ["Physics", "Engineering"]
+tags = ["fields", "poles", "attraction", "electricity", "materials", "forces"]
+
+[[topics]]
+topic = "Electricity"
+difficulty = "beginner"
+domains = ["Physics", "Engineering"]
+tags = ["charge", "current", "voltage", "circuits", "power", "electrons"]
+
+[[topics]]
+topic = "Condensed Matter Physics"
+difficulty = "advanced"
+domains = ["Physics", "Chemistry"]
+tags = ["solids", "liquids", "phases", "properties", "materials", "quantum"]
+
+[[topics]]
+topic = "Plasma Physics"
+difficulty = "intermediate"
+domains = ["Physics", "Astronomy"]
+tags = ["ionized-gas", "stars", "fusion", "states", "matter", "energy"]
+
+[[topics]]
+topic = "Biophysics"
+difficulty = "intermediate"
+domains = ["Physics", "Biology"]
+tags = ["life", "mechanics", "molecules", "systems", "processes", "energy"]
+
+[[topics]]
+topic = "Geophysics"
+difficulty = "intermediate"
+domains = ["Physics", "Geology"]
+tags = ["earth", "seismology", "magnetic-field", "structure", "processes", "planets"]
+
+[[topics]]
+topic = "Nanophysics"
+difficulty = "advanced"
+domains = ["Physics", "Engineering"]
+tags = ["scale", "quantum", "materials", "devices", "technology", "properties"]
+
+[[topics]]
+topic = "Statistical Mechanics"
+difficulty = "advanced"
+domains = ["Physics", "Mathematics"]
+tags = ["probability", "microstates", "macrostates", "entropy", "temperature", "systems"]
+
+[[topics]]
+topic = "Quantum Field Theory"
+difficulty = "advanced"
+domains = ["Physics", "Mathematics"]
+tags = ["fields", "particles", "interactions", "vacuum", "forces", "standard-model"]
+
+[[topics]]
+topic = "Multiverse"
+difficulty = "advanced"
+domains = ["Physics", "Philosophy"]
+tags = ["cosmology", "parallel-universes", "inflation", "theory", "existence", "possibility"]

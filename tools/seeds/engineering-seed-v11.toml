@@ -1,0 +1,179 @@
+[[topics]]
+topic = "Civil Engineering"
+difficulty = "beginner"
+domains = ["Engineering", "Architecture"]
+tags = ["infrastructure", "bridges", "roads", "construction", "materials", "urban-planning"]
+
+[[topics]]
+topic = "Mechanical Engineering"
+difficulty = "beginner"
+domains = ["Engineering", "Physics"]
+tags = ["machines", "mechanics", "energy", "design", "manufacturing", "systems"]
+
+[[topics]]
+topic = "Electrical Engineering"
+difficulty = "beginner"
+domains = ["Engineering", "Physics"]
+tags = ["circuits", "electronics", "power", "signals", "electromagnetism", "devices"]
+
+[[topics]]
+topic = "Chemical Engineering"
+difficulty = "intermediate"
+domains = ["Engineering", "Chemistry"]
+tags = ["processes", "reactions", "materials", "production", "safety", "industry"]
+
+[[topics]]
+topic = "Aerospace Engineering"
+difficulty = "intermediate"
+domains = ["Engineering", "Physics"]
+tags = ["flight", "aerodynamics", "spacecraft", "propulsion", "materials", "design"]
+
+[[topics]]
+topic = "Biomedical Engineering"
+difficulty = "intermediate"
+domains = ["Engineering", "Medicine"]
+tags = ["devices", "prosthetics", "tissue-engineering", "health", "technology", "biology"]
+
+[[topics]]
+topic = "Systems Engineering"
+difficulty = "advanced"
+domains = ["Engineering", "Systems"]
+tags = ["complexity", "integration", "optimization", "management", "lifecycle", "design"]
+
+[[topics]]
+topic = "Nanotechnology"
+difficulty = "advanced"
+domains = ["Engineering", "Physics"]
+tags = ["scale", "materials", "devices", "quantum-effects", "fabrication", "applications"]
+
+[[topics]]
+topic = "Renewable Energy"
+difficulty = "beginner"
+domains = ["Engineering", "Environment"]
+tags = ["solar", "wind", "sustainability", "power", "grid", "technology"]
+
+[[topics]]
+topic = "Robotics"
+difficulty = "intermediate"
+domains = ["Engineering", "Computer Science"]
+tags = ["automation", "control", "sensors", "actuators", "ai", "mechanics"]
+
+[[topics]]
+topic = "Structural Engineering"
+difficulty = "intermediate"
+domains = ["Engineering", "Physics"]
+tags = ["loads", "stress", "materials", "stability", "buildings", "analysis"]
+
+[[topics]]
+topic = "Geotechnical Engineering"
+difficulty = "intermediate"
+domains = ["Engineering", "Geology"]
+tags = ["soil", "foundations", "mechanics", "earth", "construction", "slopes"]
+
+[[topics]]
+topic = "Environmental Engineering"
+difficulty = "beginner"
+domains = ["Engineering", "Environment"]
+tags = ["pollution", "water", "waste", "sustainability", "treatment", "solutions"]
+
+[[topics]]
+topic = "Materials Engineering"
+difficulty = "intermediate"
+domains = ["Engineering", "Chemistry"]
+tags = ["properties", "metals", "polymers", "ceramics", "composites", "selection"]
+
+[[topics]]
+topic = "Industrial Engineering"
+difficulty = "beginner"
+domains = ["Engineering", "Management"]
+tags = ["optimization", "processes", "efficiency", "manufacturing", "logistics", "systems"]
+
+[[topics]]
+topic = "Nuclear Engineering"
+difficulty = "advanced"
+domains = ["Engineering", "Physics"]
+tags = ["fission", "fusion", "reactors", "energy", "safety", "radiation"]
+
+[[topics]]
+topic = "Petroleum Engineering"
+difficulty = "intermediate"
+domains = ["Engineering", "Geology"]
+tags = ["oil", "gas", "extraction", "reservoirs", "drilling", "energy"]
+
+[[topics]]
+topic = "Software Engineering"
+difficulty = "beginner"
+domains = ["Engineering", "Computer Science"]
+tags = ["development", "lifecycle", "design", "testing", "maintenance", "quality"]
+
+[[topics]]
+topic = "Mechatronics"
+difficulty = "intermediate"
+domains = ["Engineering", "Electronics"]
+tags = ["integration", "mechanics", "control", "systems", "automation", "robotics"]
+
+[[topics]]
+topic = "Automotive Engineering"
+difficulty = "beginner"
+domains = ["Engineering", "Mechanical Engineering"]
+tags = ["vehicles", "engines", "design", "safety", "dynamics", "transportation"]
+
+[[topics]]
+topic = "Marine Engineering"
+difficulty = "intermediate"
+domains = ["Engineering", "Physics"]
+tags = ["ships", "propulsion", "structures", "ocean", "systems", "design"]
+
+[[topics]]
+topic = "Optical Engineering"
+difficulty = "advanced"
+domains = ["Engineering", "Physics"]
+tags = ["light", "lasers", "lenses", "photonics", "devices", "communications"]
+
+[[topics]]
+topic = "Acoustical Engineering"
+difficulty = "intermediate"
+domains = ["Engineering", "Physics"]
+tags = ["sound", "vibration", "noise-control", "design", "waves", "perception"]
+
+[[topics]]
+topic = "Mining Engineering"
+difficulty = "intermediate"
+domains = ["Engineering", "Geology"]
+tags = ["extraction", "minerals", "safety", "environment", "processes", "resources"]
+
+[[topics]]
+topic = "Reliability Engineering"
+difficulty = "advanced"
+domains = ["Engineering", "Statistics"]
+tags = ["failure", "probability", "maintenance", "systems", "quality", "risk"]
+
+[[topics]]
+topic = "Safety Engineering"
+difficulty = "beginner"
+domains = ["Engineering", "Management"]
+tags = ["hazards", "prevention", "risk", "systems", "protocols", "design"]
+
+[[topics]]
+topic = "Transport Engineering"
+difficulty = "beginner"
+domains = ["Engineering", "Civil Engineering"]
+tags = ["traffic", "planning", "systems", "infrastructure", "logistics", "mobility"]
+
+[[topics]]
+topic = "Water Resources Engineering"
+difficulty = "intermediate"
+domains = ["Engineering", "Environment"]
+tags = ["hydrology", "management", "supply", "treatment", "systems", "sustainability"]
+
+[[topics]]
+topic = "Forensic Engineering"
+difficulty = "intermediate"
+domains = ["Engineering", "Law"]
+tags = ["investigation", "failure-analysis", "accidents", "evidence", "legal", "causes"]
+
+[[topics]]
+topic = "Reverse Engineering"
+difficulty = "intermediate"
+domains = ["Engineering", "Computer Science"]
+tags = ["analysis", "reconstruction", "design", "understanding", "products", "systems"]

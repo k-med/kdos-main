@@ -1,0 +1,179 @@
+[[topics]]
+topic = "The Reformation"
+difficulty = "intermediate"
+domains = ["History", "Theology"]
+tags = ["luther", "protestantism", "catholic-church", "religion", "europe", "schism"]
+
+[[topics]]
+topic = "The Black Death"
+difficulty = "beginner"
+domains = ["History", "Medicine"]
+tags = ["plague", "pandemic", "middle-ages", "population", "society", "europe"]
+
+[[topics]]
+topic = "The Silk Road"
+difficulty = "beginner"
+domains = ["History", "Economics"]
+tags = ["trade", "asia", "europe", "cultural-exchange", "routes", "commerce"]
+
+[[topics]]
+topic = "The Age of Exploration"
+difficulty = "intermediate"
+domains = ["History", "Geography"]
+tags = ["columbus", "magellan", "navigation", "colonization", "trade", "americas"]
+
+[[topics]]
+topic = "The French Revolution"
+difficulty = "intermediate"
+domains = ["History", "Political Science"]
+tags = ["liberty", "equality", "fraternity", "guillotine", "napoleon", "monarchy"]
+
+[[topics]]
+topic = "The Russian Revolution"
+difficulty = "intermediate"
+domains = ["History", "Political Science"]
+tags = ["bolsheviks", "lenin", "communism", "soviet-union", "tsar", "1917"]
+
+[[topics]]
+topic = "The Great Depression"
+difficulty = "beginner"
+domains = ["History", "Economics"]
+tags = ["crash", "unemployment", "poverty", "roosevelt", "new-deal", "1930s"]
+
+[[topics]]
+topic = "The Holocaust"
+difficulty = "intermediate"
+domains = ["History", "Ethics"]
+tags = ["genocide", "nazis", "jews", "wwii", "concentration-camps", "antisemitism"]
+
+[[topics]]
+topic = "The Civil Rights Movement"
+difficulty = "beginner"
+domains = ["History", "Sociology"]
+tags = ["mlk", "segregation", "equality", "protest", "usa", "legislation"]
+
+[[topics]]
+topic = "Apartheid"
+difficulty = "intermediate"
+domains = ["History", "Political Science"]
+tags = ["south-africa", "mandela", "segregation", "racism", "resistance", "democracy"]
+
+[[topics]]
+topic = "The Vietnam War"
+difficulty = "intermediate"
+domains = ["History", "Military"]
+tags = ["cold-war", "usa", "communism", "protest", "guerrilla-warfare", "asia"]
+
+[[topics]]
+topic = "The Fall of Rome"
+difficulty = "intermediate"
+domains = ["History", "Political Science"]
+tags = ["empire", "decline", "barbarians", "gibbon", "instability", "ancient"]
+
+[[topics]]
+topic = "The Crusades"
+difficulty = "intermediate"
+domains = ["History", "Theology"]
+tags = ["knights", "holy-land", "christianity", "islam", "war", "middle-ages"]
+
+[[topics]]
+topic = "The Renaissance"
+difficulty = "beginner"
+domains = ["History", "Art"]
+tags = ["rebirth", "italy", "humanism", "art", "science", "florence"]
+
+[[topics]]
+topic = "The Enlightenment"
+difficulty = "intermediate"
+domains = ["History", "Philosophy"]
+tags = ["reason", "science", "liberty", "voltaire", "locke", "europe"]
+
+[[topics]]
+topic = "The Industrial Revolution"
+difficulty = "beginner"
+domains = ["History", "Economics"]
+tags = ["factories", "steam-engine", "urbanization", "capitalism", "technology", "labor"]
+
+[[topics]]
+topic = "Feudalism"
+difficulty = "beginner"
+domains = ["History", "Sociology"]
+tags = ["lords", "vassals", "serfs", "land", "hierarchy", "middle-ages"]
+
+[[topics]]
+topic = "The Mongol Empire"
+difficulty = "intermediate"
+domains = ["History", "Military"]
+tags = ["genghis-khan", "conquest", "asia", "horses", "trade", "empire"]
+
+[[topics]]
+topic = "The Victorian Era"
+difficulty = "intermediate"
+domains = ["History", "Literature"]
+tags = ["britain", "queen-victoria", "empire", "morality", "industrialization", "dickens"]
+
+[[topics]]
+topic = "The Space Race"
+difficulty = "beginner"
+domains = ["History", "Technology"]
+tags = ["cold-war", "moon-landing", "nasa", "ussr", "sputnik", "apollo"]
+
+[[topics]]
+topic = "The Aztec Empire"
+difficulty = "intermediate"
+domains = ["History", "Anthropology"]
+tags = ["mexico", "conquest", "cortes", "religion", "sacrifice", "civilization"]
+
+[[topics]]
+topic = "The Ottoman Empire"
+difficulty = "intermediate"
+domains = ["History", "Political Science"]
+tags = ["turkey", "islam", "sultans", "constantinople", "expansion", "decline"]
+
+[[topics]]
+topic = "The American Revolution"
+difficulty = "beginner"
+domains = ["History", "Political Science"]
+tags = ["independence", "colonies", "britain", "washington", "democracy", "constitution"]
+
+[[topics]]
+topic = "The Meiji Restoration"
+difficulty = "advanced"
+domains = ["History", "Political Science"]
+tags = ["japan", "modernization", "emperor", "samurai", "industrialization", "reform"]
+
+[[topics]]
+topic = "The Spanish Inquisition"
+difficulty = "intermediate"
+domains = ["History", "Theology"]
+tags = ["persecution", "heresy", "catholicism", "torture", "spain", "religion"]
+
+[[topics]]
+topic = "The Opium Wars"
+difficulty = "intermediate"
+domains = ["History", "Economics"]
+tags = ["china", "britain", "trade", "imperialism", "drugs", "treaties"]
+
+[[topics]]
+topic = "The Haitian Revolution"
+difficulty = "advanced"
+domains = ["History", "Political Science"]
+tags = ["slavery", "revolt", "independence", "louverture", "france", "caribbean"]
+
+[[topics]]
+topic = "The Scramble for Africa"
+difficulty = "intermediate"
+domains = ["History", "Political Science"]
+tags = ["colonialism", "imperialism", "berlin-conference", "resources", "europe", "partition"]
+
+[[topics]]
+topic = "The Manhattan Project"
+difficulty = "intermediate"
+domains = ["History", "Physics"]
+tags = ["atomic-bomb", "wwii", "oppenheimer", "los-alamos", "science", "war"]
+
+[[topics]]
+topic = "The Cultural Revolution"
+difficulty = "intermediate"
+domains = ["History", "Political Science"]
+tags = ["china", "mao", "communism", "purge", "red-guards", "ideology"]

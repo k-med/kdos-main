@@ -1,0 +1,60 @@
+--- PROMPT FOR COMPUTER SCIENCE ---
+I need to generate 100 new seed topics for the domain 'Computer Science'.
+Here is the list of ALL topics that ALREADY EXIST in 'Computer Science' (do not generate these):
+```
+- AI Ethics
+- Algorithmic Information Theory
+- Algorithms
+- Artificial Intelligence
+- Big Data
+- Compilers
+- Computability Theory
+- Computational Linguistics
+- Computer Networks
+- Cryptography
+- Cyber Warfare
+- Cybernetics
+- Cybersecurity
+- Data Compression
+- Data Structures
+- Database Systems
+- Databases
+- Digital Art
+- Distributed Systems
+- Educational Technology
+- Error Correction
+- Graph Theory
+- Information Systems
+- Information Theory
+- Kolmogorov Complexity
+- Machine Learning
+- Networking
+- Operating Systems
+- Robotics
+- Software Engineering
+- Syntax
+- System Dynamics
+- The Information Age
+```
+
+Please generate 100 NEW, distinct topics for 'Computer Science' that are not in the list above.
+
+CRITICAL INSTRUCTION FOR BREADTH & HOMOGENEITY:
+- Span the WIDEST possible range within this theme/domain.
+- Distribute the topics evenly to cover different aspects (e.g., different eras, different types, different theories).
+- Avoid clustering around a single sub-topic.
+- Ensure maximum distinctness between topics to prevent information overlap.
+
+CRITICAL: You must ONLY use domains from the following allowed list:
+```
+Mathematics, Statistics, Computer Science, Engineering, Physics, Chemistry, Biology, Medicine, Economics, Finance, Philosophy, History, Psychology, Linguistics, Sociology, Anthropology, Law, Political Science, Ethics, Logic, Metaphysics, Epistemology, Aesthetics, Theology, Mythology, Literature, Education, Systems, Information Theory, Meta, Art, Military
+```
+
+Format the output as a TOML file following this schema:
+
+[[topics]]
+topic = "Topic Name"
+difficulty = "beginner" # or intermediate, advanced
+domains = ["Domain", "Related Domain"] # MUST be from the allowed list above
+tags = ["tag1", "tag2", "tag3"]
+

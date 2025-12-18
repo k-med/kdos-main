@@ -1,0 +1,84 @@
+--- PROMPT FOR PHILOSOPHY ---
+I need to generate 100 new seed topics for the domain 'Philosophy'.
+Here is the list of ALL topics that ALREADY EXIST in 'Philosophy' (do not generate these):
+```
+- A Priori Knowledge
+- Aesthetics
+- Ancient Greece
+- Apologetics
+- Art
+- Art Criticism
+- Artificial Intelligence
+- Atheism
+- Atheism and Agnosticism
+- Bayesian Statistics
+- Beauty
+- Causality
+- Clausewitz
+- Deontology
+- Emergence
+- Environmental Aesthetics
+- Epistemology
+- Eschatology
+- Ethics
+- Existentialism
+- Fallacies
+- Free Will
+- Hermeneutics
+- Identity
+- Jurisprudence
+- Justification
+- Literary Criticism
+- Logic
+- Meta-Ethics
+- Metaphysics
+- Mind-Body Problem
+- Modal Logic
+- Monotheism
+- Ontology
+- Pantheism
+- Paradoxes
+- Phenomenology
+- Philosophy of Mind
+- Philosophy of Music
+- Philosophy of Science
+- Political Ideologies
+- Political Philosophy
+- Political Theory
+- Pragmatics
+- Realism vs Anti-Realism
+- Semantics
+- Skepticism
+- Stoicism
+- Sun Tzu
+- Teleology
+- The Enlightenment
+- The Sublime
+- Theism
+- Theodicy
+- Truth
+- Utilitarianism
+- Virtue Ethics
+```
+
+Please generate 100 NEW, distinct topics for 'Philosophy' that are not in the list above.
+
+CRITICAL INSTRUCTION FOR BREADTH & HOMOGENEITY:
+- Span the WIDEST possible range within this theme/domain.
+- Distribute the topics evenly to cover different aspects (e.g., different eras, different types, different theories).
+- Avoid clustering around a single sub-topic.
+- Ensure maximum distinctness between topics to prevent information overlap.
+
+CRITICAL: You must ONLY use domains from the following allowed list:
+```
+Mathematics, Statistics, Computer Science, Engineering, Physics, Chemistry, Biology, Medicine, Economics, Finance, Philosophy, History, Psychology, Linguistics, Sociology, Anthropology, Law, Political Science, Ethics, Logic, Metaphysics, Epistemology, Aesthetics, Theology, Mythology, Literature, Education, Systems, Information Theory, Meta, Art, Military
+```
+
+Format the output as a TOML file following this schema:
+
+[[topics]]
+topic = "Topic Name"
+difficulty = "beginner" # or intermediate, advanced
+domains = ["Domain", "Related Domain"] # MUST be from the allowed list above
+tags = ["tag1", "tag2", "tag3"]
+

@@ -1,0 +1,179 @@
+[[topics]]
+topic = "Attachment Theory"
+difficulty = "intermediate"
+domains = ["Psychology", "Sociology"]
+tags = ["bowlby", "relationships", "development", "infants", "security", "bonding"]
+
+[[topics]]
+topic = "Cognitive Dissonance"
+difficulty = "intermediate"
+domains = ["Psychology", "Sociology"]
+tags = ["festinger", "beliefs", "conflict", "attitude-change", "discomfort", "justification"]
+
+[[topics]]
+topic = "The Unconscious Mind"
+difficulty = "beginner"
+domains = ["Psychology", "Philosophy"]
+tags = ["freud", "dreams", "repression", "awareness", "id", "psychoanalysis"]
+
+[[topics]]
+topic = "Maslow's Hierarchy of Needs"
+difficulty = "beginner"
+domains = ["Psychology", "Sociology"]
+tags = ["motivation", "self-actualization", "needs", "humanism", "growth", "fulfillment"]
+
+[[topics]]
+topic = "Neuroplasticity"
+difficulty = "intermediate"
+domains = ["Psychology", "Biology"]
+tags = ["brain", "learning", "adaptation", "change", "neurons", "recovery"]
+
+[[topics]]
+topic = "Social Identity Theory"
+difficulty = "intermediate"
+domains = ["Psychology", "Sociology"]
+tags = ["groups", "belonging", "prejudice", "self-concept", "categorization", "tajfel"]
+
+[[topics]]
+topic = "The Big Five Personality Traits"
+difficulty = "beginner"
+domains = ["Psychology", "Statistics"]
+tags = ["openness", "conscientiousness", "extraversion", "agreeableness", "neuroticism", "measurement"]
+
+[[topics]]
+topic = "Stanford Prison Experiment"
+difficulty = "beginner"
+domains = ["Psychology", "Ethics"]
+tags = ["zimbardo", "authority", "roles", "power", "situational-factors", "controversy"]
+
+[[topics]]
+topic = "Milgram Experiment"
+difficulty = "beginner"
+domains = ["Psychology", "Ethics"]
+tags = ["obedience", "authority", "shock", "compliance", "conscience", "social-pressure"]
+
+[[topics]]
+topic = "Bystander Effect"
+difficulty = "beginner"
+domains = ["Psychology", "Sociology"]
+tags = ["diffusion-of-responsibility", "helping", "emergency", "groups", "intervention", "social-influence"]
+
+[[topics]]
+topic = "Gestalt Psychology"
+difficulty = "intermediate"
+domains = ["Psychology", "Art"]
+tags = ["perception", "whole", "patterns", "organization", "insight", "visual"]
+
+[[topics]]
+topic = "Evolutionary Psychology"
+difficulty = "advanced"
+domains = ["Psychology", "Biology"]
+tags = ["adaptation", "selection", "behavior", "mating", "survival", "origins"]
+
+[[topics]]
+topic = "Positive Psychology"
+difficulty = "beginner"
+domains = ["Psychology", "Philosophy"]
+tags = ["happiness", "well-being", "strengths", "flourishing", "seligman", "optimism"]
+
+[[topics]]
+topic = "Flow State"
+difficulty = "beginner"
+domains = ["Psychology", "Art"]
+tags = ["csikszentmihalyi", "engagement", "focus", "performance", "creativity", "immersion"]
+
+[[topics]]
+topic = "Theory of Mind"
+difficulty = "intermediate"
+domains = ["Psychology", "Philosophy"]
+tags = ["empathy", "perspective-taking", "development", "autism", "cognition", "beliefs"]
+
+[[topics]]
+topic = "Learned Helplessness"
+difficulty = "intermediate"
+domains = ["Psychology", "Medicine"]
+tags = ["seligman", "depression", "control", "failure", "conditioning", "behavior"]
+
+[[topics]]
+topic = "Emotional Intelligence"
+difficulty = "beginner"
+domains = ["Psychology", "Education"]
+tags = ["goleman", "empathy", "self-regulation", "social-skills", "awareness", "success"]
+
+[[topics]]
+topic = "Confirmation Bias"
+difficulty = "beginner"
+domains = ["Psychology", "Logic"]
+tags = ["reasoning", "beliefs", "evidence", "errors", "cognition", "judgment"]
+
+[[topics]]
+topic = "Groupthink"
+difficulty = "intermediate"
+domains = ["Psychology", "Political Science"]
+tags = ["decisions", "conformity", "consensus", "janis", "errors", "pressure"]
+
+[[topics]]
+topic = "Schema Theory"
+difficulty = "intermediate"
+domains = ["Psychology", "Education"]
+tags = ["piaget", "knowledge", "frameworks", "memory", "organization", "learning"]
+
+[[topics]]
+topic = "Mirror Neurons"
+difficulty = "advanced"
+domains = ["Psychology", "Biology"]
+tags = ["empathy", "imitation", "brain", "social-cognition", "action", "learning"]
+
+[[topics]]
+topic = "Self-Efficacy"
+difficulty = "intermediate"
+domains = ["Psychology", "Education"]
+tags = ["bandura", "confidence", "belief", "motivation", "performance", "agency"]
+
+[[topics]]
+topic = "Priming"
+difficulty = "intermediate"
+domains = ["Psychology", "Linguistics"]
+tags = ["memory", "influence", "unconscious", "associations", "stimuli", "behavior"]
+
+[[topics]]
+topic = "Stockholm Syndrome"
+difficulty = "beginner"
+domains = ["Psychology", "Sociology"]
+tags = ["hostages", "bonding", "trauma", "survival", "relationships", "coping"]
+
+[[topics]]
+topic = "Dunning-Kruger Effect"
+difficulty = "beginner"
+domains = ["Psychology", "Education"]
+tags = ["competence", "confidence", "bias", "ignorance", "self-assessment", "skills"]
+
+[[topics]]
+topic = "Resilience"
+difficulty = "beginner"
+domains = ["Psychology", "Medicine"]
+tags = ["adversity", "coping", "strength", "recovery", "adaptation", "mental-health"]
+
+[[topics]]
+topic = "Synesthesia"
+difficulty = "intermediate"
+domains = ["Psychology", "Art"]
+tags = ["perception", "senses", "crossing", "color", "sound", "experience"]
+
+[[topics]]
+topic = "False Memories"
+difficulty = "intermediate"
+domains = ["Psychology", "Law"]
+tags = ["loftus", "eyewitness", "distortion", "suggestion", "recall", "reliability"]
+
+[[topics]]
+topic = "Projection"
+difficulty = "intermediate"
+domains = ["Psychology", "Philosophy"]
+tags = ["defense-mechanisms", "freud", "attribution", "self", "unconscious", "feelings"]
+
+[[topics]]
+topic = "Subliminal Perception"
+difficulty = "beginner"
+domains = ["Psychology", "Economics"]
+tags = ["advertising", "unconscious", "influence", "threshold", "stimuli", "awareness"]
