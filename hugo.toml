@@ -43,7 +43,17 @@ buildExpired = false
   [params.fuseOpts]
     isCaseSensitive = false
     shouldSort = true
-    threshold = 0.4
+    location = 0
+    distance = 1000
+    threshold = 0.2
+    minMatchCharLength = 2
+    keys = [
+      { name = "title", weight = 0.8 },
+      { name = "domains", weight = 0.5 },
+      { name = "tags", weight = 0.5 },
+      { name = "summary", weight = 0.3 },
+      { name = "content", weight = 0.1 }
+    ]
 
 # Disable profile landing — KDOS is not a personal homepage
 [params.profileMode]
