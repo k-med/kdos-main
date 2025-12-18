@@ -67,94 +67,94 @@
 /* Using lower opacity backgrounds and borders */
 
 /* Formal Sciences (Blues/Indigos) */
-.domain-mathematics,
-.domain-logic,
-.domain-information-theory {
+.domain-pill.domain-mathematics,
+.domain-pill.domain-logic,
+.domain-pill.domain-information-theory {
     border-color: rgba(59, 130, 246, 0.3);
     color: #bfdbfe;
     background: rgba(59, 130, 246, 0.08);
 }
 
-.domain-statistics,
-.domain-systems {
+.domain-pill.domain-statistics,
+.domain-pill.domain-systems {
     border-color: rgba(99, 102, 241, 0.3);
     color: #c7d2fe;
     background: rgba(99, 102, 241, 0.08);
 }
 
-.domain-computer-science {
+.domain-pill.domain-computer-science {
     border-color: rgba(14, 165, 233, 0.3);
     color: #bae6fd;
     background: rgba(14, 165, 233, 0.08);
 }
 
 /* Natural Sciences (Greens/Teals) */
-.domain-physics,
-.domain-chemistry {
+.domain-pill.domain-physics,
+.domain-pill.domain-chemistry {
     border-color: rgba(16, 185, 129, 0.3);
     color: #a7f3d0;
     background: rgba(16, 185, 129, 0.08);
 }
 
-.domain-biology,
-.domain-medicine {
+.domain-pill.domain-biology,
+.domain-pill.domain-medicine {
     border-color: rgba(20, 184, 166, 0.3);
     color: #99f6e4;
     background: rgba(20, 184, 166, 0.08);
 }
 
 /* Social Sciences (Warm/Earthy) */
-.domain-economics,
-.domain-finance {
+.domain-pill.domain-economics,
+.domain-pill.domain-finance {
     border-color: rgba(245, 158, 11, 0.3);
     color: #fde68a;
     background: rgba(245, 158, 11, 0.08);
 }
 
-.domain-psychology,
-.domain-sociology,
-.domain-anthropology {
+.domain-pill.domain-psychology,
+.domain-pill.domain-sociology,
+.domain-pill.domain-anthropology {
     border-color: rgba(249, 115, 22, 0.3);
     color: #fed7aa;
     background: rgba(249, 115, 22, 0.08);
 }
 
-.domain-political-science,
-.domain-law,
-.domain-education {
+.domain-pill.domain-political-science,
+.domain-pill.domain-law,
+.domain-pill.domain-education {
     border-color: rgba(239, 68, 68, 0.3);
     color: #fecaca;
     background: rgba(239, 68, 68, 0.08);
 }
 
 /* Humanities (Purples/Pinks) */
-.domain-philosophy,
-.domain-ethics,
-.domain-metaphysics,
-.domain-epistemology,
-.domain-aesthetics {
+.domain-pill.domain-philosophy,
+.domain-pill.domain-ethics,
+.domain-pill.domain-metaphysics,
+.domain-pill.domain-epistemology,
+.domain-pill.domain-aesthetics {
     border-color: rgba(139, 92, 246, 0.3);
     color: #ddd6fe;
     background: rgba(139, 92, 246, 0.08);
 }
 
-.domain-history,
-.domain-linguistics,
-.domain-literature {
+.domain-pill.domain-history,
+.domain-pill.domain-linguistics,
+.domain-pill.domain-literature {
     border-color: rgba(217, 70, 239, 0.3);
     color: #e9d5ff;
     background: rgba(217, 70, 239, 0.08);
 }
 
-.domain-theology,
-.domain-mythology {
+.domain-pill.domain-theology,
+.domain-pill.domain-mythology {
     border-color: rgba(236, 72, 153, 0.3);
     color: #fbcfe8;
     background: rgba(236, 72, 153, 0.08);
 }
 
 /* Meta */
-.domain-meta {
+.domain-pill.domain-meta {
     border-color: rgba(100, 116, 139, 0.3);
     color: #cbd5e1;
     background: rgba(100, 116, 139, 0.08);
