@@ -5,9 +5,7 @@ type: "knowledge"
 status: "draft"
 date_created: "2025-12-18"
 last_updated: "2025-12-18"
-domains:
-  - "Linguistics"
-  - "Philosophy"
+domains: ["Linguistics", "Philosophy"]
 tags:
   - "context"
   - "speech-acts"

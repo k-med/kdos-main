@@ -5,9 +5,7 @@ type: "knowledge"
 status: "draft"
 date_created: "2025-12-18"
 last_updated: "2025-12-18"
-domains:
-  - "Law"
-  - "Political Science"
+domains: ["Law", "Political Science"]
 tags:
   - "treaties"
   - "united-nations"

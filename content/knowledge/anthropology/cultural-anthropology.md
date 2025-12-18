@@ -5,9 +5,7 @@ type: "knowledge"
 status: "draft"
 date_created: "2025-12-18"
 last_updated: "2025-12-18"
-domains:
-  - "Anthropology"
-  - "Sociology"
+domains: ["Anthropology", "Sociology"]
 tags:
   - "culture"
   - "ethnography"

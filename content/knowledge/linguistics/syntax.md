@@ -5,9 +5,7 @@ type: "knowledge"
 status: "draft"
 date_created: "2025-12-18"
 last_updated: "2025-12-18"
-domains:
-  - "Linguistics"
-  - "Computer Science"
+domains: ["Linguistics", "Computer Science"]
 tags:
   - "grammar"
   - "sentence-structure"

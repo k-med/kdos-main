@@ -5,8 +5,7 @@ type: "knowledge"
 status: "draft"
 date_created: "2025-12-17"
 last_updated: "2025-12-17"
-domains:
-  - "Statistics"
+domains: ["Statistics"]
 tags:
   - "sampling-distribution"
   - "normal-distribution"

@@ -5,10 +5,7 @@ type: "knowledge"
 status: "draft"
 date_created: "2025-12-18"
 last_updated: "2025-12-18"
-domains:
-  - "Engineering"
-  - "Chemistry"
-  - "Physics"
+domains: ["Engineering", "Chemistry", "Physics"]
 tags:
   - "properties-of-materials"
   - "stress-strain"

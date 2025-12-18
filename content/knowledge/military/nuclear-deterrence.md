@@ -4,7 +4,7 @@ slug: "nuclear-deterrence"
 type: "knowledge"
 status: "seed"
 date: 2025-12-18
-domains: ["Military", "Game Theory"]
+domains: ["Military"]
 tags: ["mutually-assured-destruction", "second-strike", "proliferation", "arms-control", "strategy", "cold-war"]
 difficulty: "advanced"
 reading_time: "7 mins"

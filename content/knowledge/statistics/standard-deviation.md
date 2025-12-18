@@ -5,9 +5,7 @@ type: "knowledge"
 status: "draft"
 date_created: "2025-12-17"
 last_updated: "2025-12-17"
-domains:
-  - "Statistics"
-  - "Mathematics"
+domains: ["Statistics", "Mathematics"]
 tags:
   - "dispersion"
   - "variability"
