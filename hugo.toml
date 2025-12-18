@@ -68,6 +68,7 @@ buildExpired = false
 
 [outputs]
   section = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "JSON"]
 
 [taxonomies]
   tag = "tags"
